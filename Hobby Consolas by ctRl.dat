@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Hobby Consolas</name>
+		<description>Hobby Consolas</description>
+		<category>Magazines</category>
+		<version>ctRl-v2013-01-04</version>
+		<date>2013-01-04</date>
+		<author>ctRl</author>
+		<email>ctrl@retrosnes.com</email>
+		<homepage>http://retrosnes.com</homepage>
+		<url>http://retrosnes.com/dats/hobby_consolas.dat</url>
+		<comment>License: CC BY-NC-SA 3.0 (Derived from: http://www.kaiserland77.com/blog/)</comment>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<game name="Hobby Consolas - Issue 001 (1991-10)(Hobby Press)(ES)[missing poster Sonic+map Batman]">
+		<description>Hobby Consolas - Issue 001 (1991-10)(Hobby Press)(ES)[missing poster Sonic+map Batman]</description>
+		<rom name="Hobby Consolas - Issue 001 (1991-10)(Hobby Press)(ES).pdf" size="144545229" crc="2a74bcba" md5="7b96bf3d7ac986ad589f7265209f4954" sha1="e559603e9543ce51f98c1f350a62f22419af39da"/>
+		<rom name="Hobby Consolas - Folleto Suscripción (1991-10)(Hobby Press)(ES).jpg" size="323336" crc="7fc2e8d1" md5="8b7791912528d584b4981ca506f0619e" sha1="0c5de7da2242216f817422fe3653c70181a3456a"/>
+	</game>
+	<game name="Hobby Consolas - Issue 002 (1991-11)(Hobby Press)(ES)[missing map Golden Axe]">
+		<description>Hobby Consolas - Issue 002 (1991-11)(Hobby Press)(ES)[missing map Golden Axe]</description>
+		<rom name="Hobby Consolas - Issue 002 (1991-11)(Hobby Press)(ES).pdf" size="67090959" crc="0337fe14" md5="972f9d69626933e2a319a990d0c1267f" sha1="7278cac1cfac7b72e63cedea61da374d302f57ce"/>
+	</game>
+	<game name="Hobby Consolas - Issue 003 (1991-12)(Hobby Press)(ES)[missing map Mario 3+Sonic]">
+		<description>Hobby Consolas - Issue 003 (1991-12)(Hobby Press)(ES)[missing map Mario 3+Sonic]</description>
+		<rom name="Hobby Consolas - Issue 003 (1991-12)(Hobby Press)(ES).pdf" size="76305311" crc="4ed3130b" md5="7f2a8b2a9201d591b20e5c7780026e06" sha1="b2b4741d9115b8a8218eef629f29be46421a3169"/>
+	</game>
+	<game name="Hobby Consolas - Issue 004 (1992-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 004 (1992-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 004 (1992-01)(Hobby Press)(ES).pdf" size="126228487" crc="5707e442" md5="6a305693bc312a0e219e25ef5ef5d34f" sha1="7b986294d457258dc683b6c7cacbc65238eb97aa"/>
+	</game>
+	<game name="Hobby Consolas - Issue 005 (1992-02)(Hobby Press)(ES)[missing map Mario]">
+		<description>Hobby Consolas - Issue 005 (1992-02)(Hobby Press)(ES)[missing map Mario]</description>
+		<rom name="Hobby Consolas - Issue 005 (1992-02)(Hobby Press)(ES).pdf" size="65804813" crc="cbef3b04" md5="9faaea0efdd8ea7c7e0659c733477539" sha1="d3e893ace9584ef02e94f990eed511cfb305eb5e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 006 (1992-03)(Hobby Press)(ES)[missing map Castle of Illusion]">
+		<description>Hobby Consolas - Issue 006 (1992-03)(Hobby Press)(ES)[missing map Castle of Illusion]</description>
+		<rom name="Hobby Consolas - Issue 006 (1992-03)(Hobby Press)(ES).pdf" size="89560629" crc="29e43c26" md5="5780971961f1bf896417229810a404f3" sha1="78e686601163aad1a205d0a8df81dce9e3685ecd"/>
+	</game>
+	<game name="Hobby Consolas - Issue 007 (1992-04)(Hobby Press)(ES)[missing map Quackshot]">
+		<description>Hobby Consolas - Issue 007 (1992-04)(Hobby Press)(ES)[missing map Quackshot]</description>
+		<rom name="Hobby Consolas - Issue 007 (1992-04)(Hobby Press)(ES.pdf" size="121890052" crc="840afe0c" md5="fa9aa97d56ed670f4e07f49e2467be7c" sha1="a9b52487a784a1a0b4cdf51cafd6a82c7ca18a04"/>
+	</game>
+	<game name="Hobby Consolas - Issue 008 (1992-05)(Hobby Press)(ES)[missing map Quackshot+Mega Man]">
+		<description>Hobby Consolas - Issue 008 (1992-05)(Hobby Press)(ES)[missing map Quackshot+Mega Man]</description>
+		<rom name="Hobby Consolas - Issue 008 (1992-05)(Hobby Press)(ES).pdf" size="123175214" crc="c5532cde" md5="3d99a600c2f889bb306d87b3eb74fbea" sha1="5684afee1afc065856e1705e01dcf989a457f87d"/>
+		<rom name="Hobby Consolas - Advertising (1992-05)(Hobby Press)(ES).pdf" size="4770292" crc="2e09acb0" md5="dbe54ab14184776685b8d43c6227e860" sha1="0410c9def25341438eae0fe507cb0ae95790c21d"/>
+		<rom name="Hobby Consolas - Lo Super Super de Super Nintendo front (1992-05)(Hobby Press)(ES).jpg" size="72006" crc="f0a423c3" md5="81eaed9af9fc7c3ef0fd4135c4200aaa" sha1="856ae85f4d37e1a7418b781548029153bb3a2cca"/>
+		<rom name="Hobby Consolas - Lo Super Super de Super Nintendo (1992-05)(Hobby Press)(ES).mpg" size="258916352" crc="89ba0db7" md5="7607b34a7646d1b0a73db390c6d2ced6" sha1="de75276974adbc25ed73c97f873da4a4d0eb5518"/>
+	</game>
+	<game name="Hobby Consolas - Issue 009 (1992-06)(Hobby Press)(ES)[missing map Spiderman+Bart Simpson]">
+		<description>Hobby Consolas - Issue 009 (1992-06)(Hobby Press)(ES)[missing poster Spiderman+Bart Simpson]</description>
+		<rom name="Hobby Consolas - Issue 009 (1992-06)(Hobby Press)(ES).pdf" size="129857793" crc="639deecb" md5="c100bca829673944eb5aaa84c1004838" sha1="50a708141cfc30f119a3560b5e2d9978ead41133"/>
+		<rom name="Hobby Consolas - Advertising (1992-06)(Hobby Press)(ES).pdf" size="4383927" crc="6d9c7709" md5="bd7786af833bf879b33e1ebb6faf4407" sha1="72ca27bf547b9e2f61e0fd46f80a83149ec5c57e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 010 (1992-07)(Hobby Press)(ES)[missing poster]">
+		<description>Hobby Consolas - Issue 010 (1992-07)(Hobby Press)(ES)[missing poster]</description>
+		<rom name="Hobby Consolas - Issue 010 (1992-07)(Hobby Press)(ES).pdf" size="124584320" crc="c9c32dc4" md5="ad001a62b42f99128335fb6cb4d42df0" sha1="01213f2e4569f07067d50d730f0940f9612660f6"/>
+	</game>
+	<game name="Hobby Consolas - Issue 011 (1992-08)(Hobby Press)(ES)[missing map Mission Imposible+Shinobi]">
+		<description>Hobby Consolas - Issue 011 (1992-08)(Hobby Press)(ES)[missing map Mission Imposible+Shinobi]</description>
+		<rom name="Hobby Consolas - Issue 011 (1992-08)(Hobby Press)(ES).pdf" size="100164880" crc="1facf6db" md5="4190229ea1df8b40bbc31d5e6baf14d4" sha1="2813df172ca4bc752bcc26aed8234b18a31bdab2"/>
+	</game>
+	<game name="Hobby Consolas - Issue 012 (1992-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 012 (1992-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 012 (1992-09)(Hobby Press)(ES).pdf" size="137566411" crc="7c69168d" md5="9cae64b04f27ed4fe3c6c325dadfe102" sha1="45e1a597ae5f1c3849b4efa5d71b9c28d35c1f89"/>
+		<rom name="Hobby Consolas - Bonanza Bros Map (1992-09)(Hobby Press)(ES).pdf" size="3598980" crc="7c4e1b65" md5="22ca3436104dd5e0f7c2be4730a7dea7" sha1="8230b2975179dfa284cc2e7358f0a3834bd35aa3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 013 (1992-10)(Hobby Press)(ES)[missing map Bugs Bunny]">
+		<description>Hobby Consolas - Issue 013 (1992-10)(Hobby Press)(ES)[missing map Bugs Bunny]</description>
+		<rom name="Hobby Consolas - Issue 013 (1992-10)(Hobby Press)(ES).pdf" size="146061102" crc="647686c6" md5="3881d6ef0dfd6a417b17189484e3595d" sha1="a24410817628d6e13cd480d12aa7391d8913ae29"/>
+		<rom name="Hobby Consolas - Pura Dinamita (1992-10)(Hobby Press)(ES).avi" size="138553344" crc="cff9ac73" md5="a743451125db4751af4b89b5dfebc50e" sha1="41e6c9b2032e953d0a797b5572c59482ef3f2734"/>
+		<rom name="Hobby Consolas - Pura Dinamita front (1992-10)(Hobby Press)(ES).jpg" size="580212" crc="c2264fd3" md5="e6fd5a66fa9c71989bc9e1f65402bf5d" sha1="a77b32a9cf303029d6430caca6a6950d9176c668"/>
+	</game>		
+	<game name="Hobby Consolas - Issue 014 (1992-11)(Hobby Press)(ES)[missing poster]">
+		<description>Hobby Consolas - Issue 014 (1992-11)(Hobby Press)(ES)[missing poster]</description>
+		<rom name="Hobby Consolas - Issue 014 (1992-11)(Hobby Press)(ES).pdf" size="173726645" crc="7186da3f" md5="331590198d7fd8b632fe2c714435b23a" sha1="7115d505361f6741f3684d44527dd78c213b9e36"/>
+	</game>
+	<game name="Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES)[missing poster]">
+		<description>Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES)[missing poster]</description>
+		<rom name="Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES).pdf" size="169954354" crc="356f7e65" md5="6adf9e9f13f479ed908f3a6a738d9bc3" sha1="00fa8ce6d50665113311863c8de90fe985da6930"/>
+		<rom name="Hobby Consolas - 431 Juegos Comentados (1992-12)(Hobby Press)(ES).pdf" size="21318692" crc="bd9d3ea2" md5="35ce36c02ba872c2cab61491b947ef12" sha1="b58df136caa20751b44a234902839a3efc71ba78"/>
+		<rom name="15 - Felices Novedades, Hobby Consolas Nº15, Diciembre 1992.avi" size="172527616" crc="da38efab" md5="9d161c97a6d10c696868807d0c19a94b" sha1="0f9ac7af99d3d155cc053d13b7ee7175319dcbd7"/>
+		<rom name="15 - Felices Novedades, Hobby Consolas Nº15, Diciembre 1992.jpg" size="208379" crc="97f54a88" md5="584d9ba9f391de5bb0c228f4d7655a8c" sha1="4903a7d4772305b456e8aff72dd43be812dcfa3c"/>
+	</game>
+	<game name="Hobby Consolas - Issue 016 (1993-01)(Hobby Press)(ES)[missing 1993 calendar]">
+		<description>Hobby Consolas - Issue 016 (1993-01)(Hobby Press)(ES)[missing 1993 calendar]</description>
+		<rom name="Hobby Consolas - Issue 016 (1993-01)(Hobby Press)(ES).pdf" size="140298024" crc="d0ac788e" md5="0eb592570ebc552c1be70d63e810a64c" sha1="47fc484df91d38cf42bb07211f3863ffdaade7db"/>
+		<rom name="Hobby Consolas - Chuck Rock map (1993-01)(Hobby Press)(ES).pdf" size="3971178" crc="54f6b27f" md5="5ac3fc17b9fd02f1c122b7caceeb8394" sha1="160ab7b9a632aa6597255bb097f33c75fa3ba78b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 017 (1993-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 017 (1993-02)(Hobby Press)</description>
+		<rom name="Hobby Consolas - Issue 017 (1993-02)(Hobby Press)(ES).pdf" size="138955592" crc="2a9350ee" md5="9d7b2b818d18596147b0b9864df49202" sha1="2c05dfd2c3d2f939b5fa613039ea3ae0e5a0d16e"/>
+		<rom name="Hobby Consolas - Super Ghouls n Ghosts map (1993-02)(Hobby Press)(ES).pdf" size="5023683" crc="b45d47eb" md5="016104e1541d2059e131a5c7f875744d" sha1="eee4be7b25dd761f3eb7e529f3fff2ab38ef77fd"/>
+	</game>
+	<game name="Hobby Consolas - Issue 018 (1993-03)(Hobby Press)(ES)[missing poster Tortugas Ninja+Batman Return of Jocker]">
+		<description>Hobby Consolas - Issue 018 (1993-03)(Hobby Press)(ES)[missing poster Tortugas Ninja+Batman Return of Jocker]</description>
+		<rom name="Hobby Consolas - Issue 018 (1993-03)(Hobby Press)(ES).pdf" size="143252508" crc="97535ad1" md5="c0c1a146a963c78945827f3c504de533" sha1="79cccaa5788febb31bf2f7562aeb2baf5ea9e846"/>
+	</game>
+	<game name="Hobby Consolas - Issue 019 (1993-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 019 (1993-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 019 (1993-04)(Hobby Press)(ES).pdf" size="143236578" crc="f6b67061" md5="646417492ed6f5c5b8798ec800e039a5" sha1="203535ec696c836c61bacb5156f7ebd20e73dd73"/>
+		<rom name="Hobby Consolas - Fatal Fury+Starwing poster (1993-04)(Hobby Press)(ES).pdf" size="3577362" crc="4397fb0c" md5="1c960895cb6b8602486e30f6cc5c6fa3" sha1="6c143d1816969f0fbef59fa54ce7a84dbe6ff6f0"/>
+	</game>
+	<game name="Hobby Consolas - Issue 020 (1993-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 020 (1993-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 020 (1993-05)(Hobby Press)(ES).pdf" size="158868174" crc="b83671d7" md5="5d2116de8ba07ea2e4ecd68deb8dc8c5" sha1="5baf79c167fd3765a5145e1a541cc9234c263943"/>
+		<rom name="20 - La Ley del más Fuerte Top Secret, Hobby Consolas Nº20, Mayo 1993.avi" size="135872512" crc="fa3a9852" md5="576e4f1f3a47586f4cec26dfdf127253" sha1="e14726863c4399a1e313a5877fa1cd162dfa0fbb"/>
+		<rom name="20 - La Ley del más Fuerte Top Secret, Hobby Consolas Nº20, Mayo 1993.jpg" size="3300842" crc="cb33f270" md5="e7047591b58e8e54f4f301c7d06c85c5" sha1="d41163208ad7d412f890abd551600c113a7b3f4a"/>
+		</game>
+	<game name="Hobby Consolas - Issue 021 (1993-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 021 (1993-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 021 (1993-06)(Hobby Press)(ES).pdf" size="153416417" crc="caf691f1" md5="bd5254c9b64e45e56d05459002c954e1" sha1="31572fb1651608479659a277f732cf5b01eff1e7"/>
+	</game>
+	<game name="Hobby Consolas - Issue 022 (1993-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 022 (1993-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 022 (1993-07)(Hobby Press)(ES).pdf" size="145102274" crc="5608b6ae" md5="d98b2a697b0c46e84f18cd98bbe85e08" sha1="238da709235d7729b37b19e0cf4fd271b8fd9521"/>
+	</game>
+	<game name="Hobby Consolas - Issue 023 (1993-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 023 (1993-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 023 (1993-08)(Hobby Press)(ES).pdf" size="136871483" crc="93c1e0db" md5="3a137f45f98d9f205009c869e42eb31f" sha1="c818d97221c65fd9c48f6c1648358d911c98e52e"/>
+		<rom name="Hobby Consolas - Los Comecocos del Verano (1993-08)(Hobby Press)(ES).pdf" size="10886612" crc="a3a14844" md5="d7960482ff55e2c44b8ea1ea7db4567a" sha1="716a2fc50368417021e104984b1e11c6d85298a3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 024 (1993-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 024 (1993-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 024 (1993-09)(Hobby Press)(ES).pdf" size="150775200" crc="5f3a2ad9" md5="c3708861957499cd9fed718699b60fe8" sha1="3fa15507c135a801753a5f1aab6722bafca0e318"/>
+	</game>
+	<game name="Hobby Consolas - Issue 025 (1993-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 025 (1993-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 025 (1993-10)(Hobby Press)(ES).pdf" size="158745179" crc="ca4ac1d1" md5="76de2fd424baaf1c01ca21afc7b77f4d" sha1="9d917bf73aa7763bef09a5ac8a31ad33b56de716"/>
+		<rom name="25 - Canal Pirata Sega - Si tienes Mega Drive ¡riete del mundo!, Hobby Consolas Nº25, Octubre 1993.avi" size="97681408" crc="7f255157" md5="ce97b0879e610b17ea6f494ca61c5b5b" sha1="c8eb5d7e2c62f79f5cb023612dcdbe7287a4e8d7"/>
+		<rom name="25 - Canal Pirata Sega - Si tienes Mega Drive ¡riete del mundo!, Hobby Consolas Nº25, Octubre 1993.jpg" size="1779580" crc="c4d9438f" md5="8a5312489b692196dc9813439c8488cd" sha1="7d0ec7c35e726f14cafee3990efb9adb42f5ca0c"/>		
+	</game>
+	<game name="Hobby Consolas - Issue 026 (1993-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 026 (1993-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 026 (1993-11)(Hobby Press)(ES).pdf" size="72195319" crc="17279ad7" md5="e83f68cca064d57e4dd39b08c56d3c65" sha1="a3558b580c440588e6067b613f443017edda469e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 027 (1993-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 027 (1993-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 027 (1993-12)(Hobby Press)(ES).pdf" size="199326307" crc="e56b8545" md5="531db2abcd38b1b5aed2ae8cc2caf90e" sha1="13ad83f5a5e16f1e5542ddc499826a2ff327c8ab"/>
+		<rom name="27 - ¡Atención, Mezcla Explosiva!, Hobby Consolas Nº27, Diciembre 1993.avi" size="139939840" crc="b4cc46e6" md5="e4e4dfea44e41a4dfbad35301bad8a43" sha1="feeab2ce55d935484d625e5f1c11c64b605feb1d"/>
+		<rom name="27 - ¡Atención, Mezcla Explosiva!, Hobby Consolas Nº27, Diciembre 1993.jpg" size="2722894" crc="11ea9f69" md5="af4f6344ac277f7b93cf27e74fb2bab3" sha1="90de9f0db293f621bc95feaf4d3e4b93205589df"/>
+	</game>
+	<game name="Hobby Consolas - Issue 028 (1994-01)(Hobby Press)(ES)[missing 1993 calendar]">
+		<description>Hobby Consolas - Issue 028 (1994-01)(Hobby Press)(ES)[missing 1993 calendar]</description>
+		<rom name="Hobby Consolas - Issue 028 (1994-01)(Hobby Press)(ES).pdf" size="154800596" crc="2b0f62fc" md5="e1b7ac820835eb20af9c863356dff3e8" sha1="ecd1f728a2d7a5a8b7f953464ceae4400ec59c15"/>
+		<rom name="Hobby Consolas - Alto Secreto (1994-01)(Hobby Press)(ES).pdf" size="15050379" crc="fa2ae84f" md5="cf273ba8b6d8d537ac01e409dc746c20" sha1="06c5dc2d02c2fb02b2f4241e642d5e39888312a1"/>
+	</game>
+	<game name="Hobby Consolas - Issue 029 (1994-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 029 (1994-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 029 (1994-02)(Hobby Press)(ES).pdf" size="160976224" crc="51bcebf8" md5="e2444859910b403bfebb8efc50453bcc" sha1="b608c9a71bcabb631ce2cd8c1ee463424713894f"/>
+	</game>
+	<game name="Hobby Consolas - Issue 030 (1994-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 030 (1994-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 030 (1994-03)(Hobby Press)(ES).pdf" size="150133576" crc="e0f813df" md5="d81d7d2f30448c049f937240e196d9d7" sha1="665b126a371d7b97d0cdf7e452e60412587271d0"/>
+	</game>
+	<game name="Hobby Consolas - Issue 031 (1994-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 031 (1994-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 031 (1994-04)(Hobby Press)(ES).pdf" size="137443844" crc="65c398fb" md5="bd79c1a4500660cc9c752bb02f66a96d" sha1="eb4e8eef31aaac5da58b07c8999283a80ab5206e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 032 (1994-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 032 (1994-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 032 (1994-05)(Hobby Press)(ES).pdf" size="126387145" crc="e81cf0c9" md5="9480ec2471d903f482828817ab5f276a" sha1="5732b4d8129a5698cf4cbfc949c8faee69016583"/>
+		<rom name="Hobby Consolas - Suplemento Futbol 1 (1994-05)(Hobby Press)(ES).pdf" size="66953962" crc="1f1cfc27" md5="81cc3c2f848119f9afa6494de812f34b" sha1="cc37a544981828ad707adce543ddb41fcfeb66c5"/>
+	</game>
+	<game name="Hobby Consolas - Issue 033 (1994-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 033 (1994-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 033 (1994-06)(Hobby Press)(ES).pdf" size="123963582" crc="e0576001" md5="bc7aff6908f698516d8d6014fc07d3fc" sha1="d23fafaab5de22163856dee8ffd8eb3da24041ab"/>
+		<rom name="Hobby Consolas - Suplemento Futbol 2 (1994-06)(Hobby Press)(ES).pdf" size="24911788" crc="7bc4c391" md5="141c0c585aa46b7bf62fef449ad1f689" sha1="a8d7ee22b927fc98f1a7d74f55aa16f4dd03d354"/>
+	</game>
+	<game name="Hobby Consolas - Issue 034 (1994-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 034 (1994-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 034 (1994-07)(Hobby Press)(ES).pdf" size="218739221" crc="1fbab15d" md5="50939e626a2c019f8fc331e83d7c0f3d" sha1="61c943f629fd08a87415f2afc9442a447cc4ee5e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 035 (1994-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 035 (1994-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 035 (1994-08)(Hobby Press)(ES).pdf" size="124915264" crc="1aa9ffc6" md5="fb3baf229668ea5d4fa06e49cd40098e" sha1="ecd487899b05a80d0d413649b06c5efe73eeef98"/>
+		<rom name="Hobby Consolas - Felicitaciones (1994-08)(Hobby Press)(ES).pdf" size="1276283" crc="b4d8badc" md5="1b08ad9ab44b557184468874af74476b" sha1="7c40deacd8eb565a628d2bb26ce12828263ceff9"/>
+	</game>
+	<game name="Hobby Consolas - Issue 036 (1994-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 036 (1994-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 036 (1994-09)(Hobby Press)(ES).pdf" size="128723130" crc="59a96fff" md5="31669727c19700bec55b164e7df72337" sha1="d22187985f6ebd60fa348b1e6795d6c4cffaa7cc"/>
+	</game>
+	<game name="Hobby Consolas - Issue 037 (1994-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 037 (1994-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 037 (1994-10)(Hobby Press)(ES).pdf" size="155320688" crc="36ef93ef" md5="d90bbb04631495534e576e21a1064340" sha1="c377a5451ac07c26ccd7e699063d1af633ad0f96"/>
+		<rom name="Hobby Consolas - Guia n1 (1994-10)(Hobby Press)(ES).pdf" size="82348940" crc="a60d18e7" md5="4de921d7594000f87c7b07a80ff457e4" sha1="e76fcfbddcbc6762fe432a2d0ffc752fb9601636"/>
+	</game>
+	<game name="Hobby Consolas - Issue 038 (1994-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 038 (1994-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 038 (1994-11)(Hobby Press)(ES).pdf" size="166369105" crc="0349e3a4" md5="9ef9393aa7d38d5b3dc15ac65ec1025e" sha1="03041a1ac898d57cb43ae5c2d3b464398c07446d"/>
+		<rom name="Hobby Consolas - Guia n2 (1994-11)(Hobby Press)(ES).pdf" size="45319476" crc="353fb666" md5="dc61c8348c5341b2c6454454e7c0eb52" sha1="c00a9d566d294a50132f09286c2d32142349106e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 039 (1994-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 039 (1994-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 039 (1994-12)(Hobby Press)(ES).pdf" size="152676949" crc="ca3c1db2" md5="0963e967d9c076090b769864620a5ca6" sha1="0f7d0d475fa0bd008da19e699cef24c7b6fba381"/>
+		<rom name="Hobby Consolas - Guia n3 (1994-12)(Hobby Press)(ES).pdf" size="49001407" crc="f8b2ff94" md5="2500bb39c1be39c98018b30150f549d1" sha1="f45c7ef831e8161ee5e1f40e9c627beabaee37f2"/>
+		<rom name="39 - Cómo se hizo Donkey Kong Country, Hobby Consolas Nº39, Diciembre 1994.avi" size="98019328" crc="e9956caf" md5="cc833690779299af26adb1dfd01803a3" sha1="d8425c8ae8fc0dd10f2e9bd0c7dc1cae4a4a5766"/>
+		<rom name="39 - Cómo se hizo Donkey Kong Country, Hobby Consolas Nº39, Diciembre 1994.jpg" size="2629759" crc="163aa1be" md5="b2e86d92d9a007aa11fe54f86c08fc8c" sha1="294fb7f5f9c9a1ca3b0d0b70a3908986a9803771"/>
+	</game>
+	<game name="Hobby Consolas - Issue 040 (1995-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 040 (1995-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 040 (1995-01)(Hobby Press)(ES).pdf" size="126095769" crc="ddfe3015" md5="9ffe36d540547499ed4131b3c2c019e9" sha1="33ee7a7f54ea883a19c6f97924beacdf5b420473"/>
+		<rom name="Hitech n1 (1995-01)(Hobby Press)(ES).pdf" size="13347709" crc="e53ac887" md5="1384487fe4e8d9781642c0aca7ee947a" sha1="8f65bbef336511b958de273b3b29d48d8bcb8786"/>
+	</game>
+	<game name="Hobby Consolas - Issue 041 (1995-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 041 (1995-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 041 (1995-02)(Hobby Press)(ES).pdf" size="115657782" crc="1e35cdce" md5="b8be90c74b5e44c4375a7c12127108f3" sha1="77c36854e9d419fa2af5bc2fdfe92d123e5cb0e5"/>
+		<rom name="Hitech n2 (1995-02)(Hobby Press)(ES).pdf" size="14095170" crc="b9fd9026" md5="7e4d9dc866cb5b3b512c5c7ee9770048" sha1="1e770613852bc9b8893b9dc96ead230e70683865"/>
+	</game>
+	<game name="Hobby Consolas - Issue 042 (1995-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 042 (1995-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 042 (1995-03)(Hobby Press)(ES).pdf" size="132652069" crc="3630ca9d" md5="eeb58c7efe6218c113aa9ab047a5b1bd" sha1="f4c58ec1b9a0986288234c72f7a4d491ea83ee25"/>
+	</game>
+	<game name="Hobby Consolas - Issue 043 (1995-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 043 (1995-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 043 (1995-04)(Hobby Press)(ES).pdf" size="138666333" crc="33b8fdc2" md5="f3578d9c6c8fa3634495506eccf3148b" sha1="1d9d8d7278e227617107698883dedb8e6c043386"/>
+	</game>
+	<game name="Hobby Consolas - Issue 044 (1995-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 044 (1995-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 044 (1995-05)(Hobby Press)(ES).pdf" size="125467807" crc="d5dc71c8" md5="85ba7a015dabb72266656bf5b4c7c1b3" sha1="5fc4073e349ba8351e54592d21c34f21e4a160dc"/>
+	</game>
+	<game name="Hobby Consolas - Issue 045 (1995-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 045 (1995-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 045 (1995-06)(Hobby Press)(ES).pdf" size="119299931" crc="f644c542" md5="a590a6713f5940df5e683758221630ea" sha1="e66d4d21f906ad61b470f6eda709b3e077673b00"/>
+	</game>
+	<game name="Hobby Consolas - Issue 046 (1995-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 046 (1995-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 046 (1995-07)(Hobby Press)(ES).pdf" size="129054677" crc="c88d0764" md5="8c9f15565467e19140c9a3371c124d93" sha1="f739927a4b3c30ef1e7a48067a3b2ed222bd6da8"/>
+	</game>
+	<game name="Hobby Consolas - Issue 047 (1995-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 047 (1995-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 047 (1995-08)(Hobby Press)(ES).pdf" size="164994856" crc="c2b76820" md5="36db185627cccb0dc457c90b4f5820a4" sha1="217ec5bb135e972c135ef6f4d3dfb667b870e364"/>
+	</game>
+	<game name="Hobby Consolas - Issue 048 (1995-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 048 (1995-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 048 (1995-09)(Hobby Press)(ES).pdf" size="137756623" crc="268e49d3" md5="89194825523dfd6f7a6c279683826080" sha1="4d01f2ae347d214090229cfd5fa7f03f9ae28767"/>
+	</game>
+	<game name="Hobby Consolas - Issue 049 (1995-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 049 (1995-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 049 (1995-10)(Hobby Press)(ES).pdf" size="134952002" crc="dfa49ae2" md5="8c1f14daea55bcd7288620518fb2b282" sha1="558d2b0d9015f4243e3ed57a4aa87d5a73b0a7a9"/>
+		<rom name="49 - Sega Saturn Peligrósamente Real, Hobby Consolas Nº49, Octubre 1995.avi" size="117041152" crc="2b110520" md5="efb8e937151086cae2774b043815fa26" sha1="8c9c3a33247bbaa5f251976efe4a0cedaaebd8ce"/>
+		<rom name="49 - Sega Saturn Peligrósamente Real, Hobby Consolas Nº49, Octubre 1995.jpg" size="1033519" crc="9b389796" md5="8b2c293afce580a3ce8aec11cbb7947e" sha1="90f9bb5c3cba62707e02a3c2daa9e1545bdbd49c"/>
+	</game>
+	<game name="Hobby Consolas - Issue 050 (1995-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 050 (1995-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 050 (1995-11)(Hobby Press)(ES).pdf" size="133662403" crc="abeeb139" md5="0a8f01b31ae0fec22c59b98e6e4e48c2" sha1="9e3f42ef8e8f0871bfda4402344372c5aa198df7"/>
+	</game>
+	<game name="Hobby Consolas - Issue 051 (1995-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 051 (1995-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 051 (1995-12)(Hobby Press)(ES).pdf" size="136847747" crc="e56152a9" md5="6f0b6ac6c87bdcb7190360f582f0e780" sha1="958bc1d237d8b24e98e5536addecd76b5aa8cfa2"/>
+		<rom name="51 - Deja de Pensar en Cómo Serán los Juegos del Futuro, Club Nintendo &amp; Hobby Consolas, Nº51, Diciembre 1995.avi" size="75954176" crc="f6c2b503" md5="6446b8553fee421e45e8d77ad51a4662" sha1="c03f73d69af4b7ecfee7d0c97b2f97dfa524daf0"/>
+		<rom name="51 - Deja de Pensar en Cómo Serán los Juegos del Futuro, Club Nintendo &amp; Hobby Consolas, Nº51, Diciembre 1995.jpg" size="1917330" crc="8eadc760" md5="435f4f2b01c5a9f32176446d7a2bd201" sha1="7d719c4410e0a571d730a20b450d2fcc3d76616d"/>
+	</game>
+	<game name="Hobby Consolas - Issue 052 (1996-01)(Hobby Press)(ES)[missing 1996 calendar]">
+		<description>Hobby Consolas - Issue 052 (1996-01)(Hobby Press)(ES)[missing 1996 calendar]</description>
+		<rom name="Hobby Consolas - Issue 052 (1996-01)(Hobby Press)(ES).pdf" size="118134626" crc="56ab8564" md5="11e26d7684dbef8199479afd8c78ce3e" sha1="32ebd206d5a318b85cb55957b344beada9c223d3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 053 (1996-02)(Hobby Press)(ES)[missing poster Sega Rally+Destruction Derby]">
+		<description>Hobby Consolas - Issue 053 (1996-02)(Hobby Press)(ES)[missing poster Sega Rally+Destruction Derby]</description>
+		<rom name="Hobby Consolas - Issue 053 (1996-02)(Hobby Press)(ES).pdf" size="112436771" crc="8fb26ab6" md5="2cc93ede44a1f2c1f53e35fff2748bab" sha1="08e4b5810c901c12efb4c3d291d899a06f3f7186"/>
+	</game>
+	<game name="Hobby Consolas - Issue 054 (1996-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 054 (1996-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 054 (1996-03)(Hobby Press)(ES).pdf" size="123175438" crc="e1ce1ab1" md5="c4aaeb21e5bb5814340471ad39159121" sha1="e95d0f985829f2bc1c8926a4629350d4d4a2aa13"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 1 (1996-03)(Hobby Press)(ES)\Game board.jpg" size="5489084" crc="9f89170f" md5="e1df1a80f64aef31568fb753103923de" sha1="bc270ec8aef59f82f9f7f37b4ea686ac3ee2e1c0"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 1 (1996-03)(Hobby Press)(ES)\Console cards.jpg" size="1079974" crc="ce543b85" md5="08c7855160242eb30b73b1dd36c28580" sha1="3fb308766cecb702b2ab786f55d28caad60b50c7"/>		
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 1 (1996-03)(Hobby Press)(ES)\Bills.jpg" size="941234" crc="afb1bd68" md5="e5f08272fddecb8b3c68f5cf3edcc983" sha1="0b30e7bc3d6099e6d1153fbab80ce527c2458ae0"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 1 (1996-03)(Hobby Press)(ES)\Instructions 01.jpg" size="2024010" crc="c1aaf1e5" md5="391ff017a9b3b2d7f5139b5110e647bf" sha1="19ef57faef373a934e2bc5ad9883e78a5b58f491"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 1 (1996-03)(Hobby Press)(ES)\Instructions 02.jpg" size="2069982" crc="a49b2164" md5="20f38b447a1bc97cc175df609085061b" sha1="705ae8235960835221d735dea7db09369377960e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 055 (1996-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 055 (1996-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 055 (1996-04)(Hobby Press)(ES).pdf" size="111681214" crc="fd54f09a" md5="8ccda21dc9be78359db5f51cb14eb7b8" sha1="e9148b18cd5ac9d3010e04811a456d2323b9a6f4"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Bills.jpg" size="941234" crc="afb1bd68" md5="e5f08272fddecb8b3c68f5cf3edcc983" sha1="0b30e7bc3d6099e6d1153fbab80ce527c2458ae0"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\News cards 01.jpg" size="885539" crc="db7e29e4" md5="e06cfa511bc083488721057c0f9b3ba8" sha1="f0cdc5022b9f2a700f8af067b49879f32229112b"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\News cards 02.jpg" size="866782" crc="c7acdb90" md5="47d393732212508e936e6d1998a79fe7" sha1="c9365ec4e5f4a056c93ce83436a9065ef995556e"/>	
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\News cards 03.jpg" size="212486" crc="2cd2d60b" md5="bc5cf61bae0c633363acc07caa4792e4" sha1="c40e838b0257d5236a2b4e6a7b811ac734871829"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 01A.jpg" size="1374267" crc="43fe38f5" md5="304e46805bd028faafdfa4654408bd70" sha1="6637fbab9b234ead161733a782ffcb561128aa3f"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 01B.jpg" size="948800" crc="6688de5d" md5="8ca59a5fa9f18c23d1245f4531a94f7b" sha1="56136154bd9a9511cfee8c9ee53ebef31d723dc9"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 02A.jpg" size="1279746" crc="1bb72630" md5="97bc6ddfda9f9e61d8ea74e058af66ac" sha1="1c701fd9e695f2f345ee1deaa3810ef2dde2621e"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 02B.jpg" size="945391" crc="fdd875f7" md5="7497c46b24ece48a1286bbb2fbbc323e" sha1="4b123340d578737487f5fe75f36355f0cf736321"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 03A.jpg" size="1341170" crc="ac472cf7" md5="e3f0cf657561e9e4d0c97f1843157f52" sha1="596ca9258581df89d18ebd98071e3b100058a249"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 03B.jpg" size="929004" crc="347e0370" md5="a63b3d58b462af98f835dceb3a65e222" sha1="72e7e0b7a19efe3d5f6422d6837701fd7d1d22db"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 04A.jpg" size="648866" crc="54e76768" md5="df6131a49616413147d5009d159d283a" sha1="8cf2f7fb58e08669031a92f6dbbffb46a27eab9b"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Question cards 04B.jpg" size="462170" crc="2360323c" md5="4592e7aa40b9afd8e608d335974acdfc" sha1="2d318e6f88d27e5527b3444926caab0df1eeec77"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 01A.jpg" size="2063115" crc="c0e5b89b" md5="49aad0729a6796bd053b7e96fcd663a9" sha1="9ec9ee39d5c4dbe55a02d425215790cc6ecab048"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 01B.jpg" size="836875" crc="157bfefb" md5="e16fd1f3211b51eb77a273d12ed91edb" sha1="77412131df63c946b002b8dda4a75c381a5d5e66"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 02A.jpg" size="2231623" crc="320fba2a" md5="abb29d66b508aa0a05a9ef0a6b15cce1" sha1="c6cd565f15e03d2263bf5d1e0fc650dc46970b77"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 02B.jpg" size="811553" crc="e76abce1" md5="bc4b3c2ae741edd4c1c7bfe4a30ebe2a" sha1="e24314f20c583a8d2080beee65f2b0981de79083"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 03A.jpg" size="1884855" crc="e44d6523" md5="dde82fd29ea269b72cee0e77a6cac2a6" sha1="0adbe74cf3692a80578b0bfcac5ad52d26398abd"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 03B.jpg" size="702045" crc="3259ef0b" md5="add286d2e7bb2d8bad5a1ce001f03f9a" sha1="c84167cabdc38cab4cf31f07be440ee813e5d9d0"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 04A.jpg" size="1168587" crc="911dd00a" md5="a303188ab99febf12e29b0c265cb16de" sha1="b026410aacbf9b39eb9efee7e28ed2ed3a0a3110"/>
+		<rom name="Hobby Consolas - El Gran Juego de Hobby Consolas part 2 (1996-04)(Hobby Press)(ES)\Game cards 04B.jpg" size="349218" crc="aa53016d" md5="203837b95b98f7fd6ad43788e1bf39ad" sha1="96c72eb8d9ed4887ac77731fb1b51e01d213f6e2"/>
+	</game>
+	<game name="Hobby Consolas - Issue 056 (1996-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 056 (1996-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 056 (1996-05)(Hobby Press)(ES).pdf" size="125585908" crc="c42a66c0" md5="f05b652a86d494b1b0bb7531650eeb1c" sha1="62ac26ef84f9106c81584923780b1d3260f2608e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 057 (1996-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 057 (1996-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 057 (1996-06)(Hobby Press)(ES).pdf" size="124107708" crc="1f1e94b7" md5="b89e3ebaecba534913ec6b529be87dea" sha1="b5efc2b36a3c6a3f6483f9917a82df97af745611"/>
+	</game>
+	<game name="Hobby Consolas - Issue 058 (1996-07)(Hobby Press)(ES)[missing poster Olympic Games]">
+		<description>Hobby Consolas - Issue 058 (1996-07)(Hobby Press)(ES)[missing poster Olympic Games]</description>
+		<rom name="Hobby Consolas - Issue 058 (1996-07)(Hobby Press)(ES).pdf" size="104539189" crc="d0c78476" md5="d3b103fd6faadfa420fbba98df6a455e" sha1="0308cb203032d512d141e8121b148fffefe70387"/>
+	</game>
+	<game name="Hobby Consolas - Issue 059 (1996-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 059 (1996-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 059 (1996-08)(Hobby Press)(ES).pdf" size="80168263" crc="d42bfc08" md5="be6f70ba8a9f880254e835db70efe0ef" sha1="3f4cf23fed7a63e878ab1b62fcd276f243ef6fe5"/>
+	</game>
+	<game name="Hobby Consolas - Issue 060 (1996-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 060 (1996-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 060 (1996-09)(Hobby Press)(ES).pdf" size="106811693" crc="0c6fcca1" md5="5a7c66eeda6941da417f6219e96261a2" sha1="823122eb2ba85e2cd909b22ef60507d0388b240f"/>
+		<rom name="Hobby Consolas - Crash Bandicot poster (1996-09)(Hobby Press)(ES).pdf" size="6613437" crc="cc12dd78" md5="0bb4feebe4f0c53f05d7f890eca9a342" sha1="0af58320a10645fdd5805551a4f6eef39a3d1659"/>
+	</game>
+	<game name="Hobby Consolas - Issue 061 (1996-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 061 (1996-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 061 (1996-10)(Hobby Press)(ES).pdf" size="120285961" crc="42061ff6" md5="20e9f36f79a027c96a02b5e60819718d" sha1="f2eee8c65d023ab6fd9ac5bd4b853e41591cd60e"/>
+		<rom name="Hobby Consolas - Worldwide Soccer 97 poster (1996-10)(Hobby Press)(ES).pdf" size="8525058" crc="f1b0472f" md5="f7125224f8a247329d8772c8d3788d2c" sha1="07b44deff53593485b7c13188a53efd7e233c250"/>
+	</game>
+	<game name="Hobby Consolas - Issue 062 (1996-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 062 (1996-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 062 (1996-11)(Hobby Press)(ES).pdf" size="145361121" crc="39a9ecf8" md5="638468ca68515ccfecea3aa0c1847537" sha1="5bc03dec70c24ee6a29ab58ba7cee3995a05c967"/>
+		<rom name="Hobby Consolas 59-62 - Ganadores del Concurso Manga (1996-11)(Hobby Press)(ES).pdf" size="73291733" crc="7a166f34" md5="8608ca36e7b7b554da9d7f650aba9d63" sha1="1a7fe038a6c770e846661abb01b4384afe06a31e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 063 (1996-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 063 (1996-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 063 (1996-12)(Hobby Press)(ES).pdf" size="145030490" crc="af06c778" md5="07b7e1e191beb72ad0d1570b9e375b9d" sha1="15892d6667fb932363f5603e09b94add0c4f347f"/>
+		<rom name="63 - Objetivo N64, Hobby Consolas Nº63, Diciembre 1996.avi" size="121556992" crc="7402c9bf" md5="bb82c1609cb1878b9f047700f644bba1" sha1="b9cf7599f9fc617563269d29e4577531f38cf7d5"/>
+		<rom name="63 - Objetivo N64, Hobby Consolas Nº63, Diciembre 1996.jpg" size="1369428" crc="cf62e2fa" md5="382feb0da1a3c4bbc47a166b28d0c732" sha1="830a6161c1cb052be1e3a29c0f92d23917870baa"/>
+	</game>
+	<game name="Hobby Consolas - Issue 064 (1997-01)(Hobby Press)(ES)[missing 1997 calendar]">
+		<description>Hobby Consolas - Issue 064 (1997-01)(Hobby Press)(ES)[missing 1997 calendar]</description>
+		<rom name="Hobby Consolas - Issue 064 (1997-01)(Hobby Press)(ES).pdf" size="128781584" crc="d02862a9" md5="4fb1436003dd2835449d823f5ab224ac" sha1="62207c02588b155db54f671fb6335747131a9dcf"/>
+	</game>
+	<game name="Hobby Consolas - Issue 065 (1997-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 065 (1997-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 065 (1997-02)(Hobby Press)(ES).pdf" size="104931020" crc="a01efd22" md5="f283acbce417b69991c3807ace84db9f" sha1="549f5cf26263060963c3e6d78b8676e4e1d04c5e"/>
+		<rom name="Hobby consolas - Tomb Raider poster (1997-02)(Hobby Press)(ES).pdf" size="8131523" crc="95a0579c" md5="26cfc1b280509ce49a5c71d474ad1150" sha1="697e0c56f3f991312d4218508b11d211c75842df"/>
+	</game>
+	<game name="Hobby Consolas - Issue 066 (1997-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 066 (1997-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 066 (1997-03)(Hobby Press)(ES).pdf" size="118093091" crc="920f947a" md5="6f3b19c9cd77ec541b26b67c53dc2fca" sha1="906a380adfb0838c725d183abb9c122d5fb0696b"/>
+		<rom name="Hobby Consolas - Destruction Derby 2+Wipeout 2097 poster (1997-03)(Hobby Press)(ES).pdf" size="9596493" crc="fd5c32ad" md5="e70ef2ff942fe5803328b08eebeb0c90" sha1="1c76650120c2ad278278a162f35c93593757db96"/>
+	</game>
+	<game name="Hobby Consolas - Issue 067 (1997-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 067 (1997-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 067 (1997-04)(Hobby Press)(ES).pdf" size="114254873" crc="6b6c1b89" md5="1eaf6136e9250a7e150d5466e456717a" sha1="0f4de1049c1e44351bf22620f3796476d88de8d5"/>
+		<rom name="Hobby Consolas - Las mejores guías para... n1 (1997-04)(Hobby Press)(ES).pdf" size="30680941" crc="cc293693" md5="f9e22233b3d02d0e3f3a41c5d3783e3e" sha1="688553b696181432fd2e31794e725d457c659349"/>
+	</game>
+	<game name="Hobby Consolas - Issue 068 (1997-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 068 (1997-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 068 (1997-05)(Hobby Press)(ES).pdf" size="116364723" crc="c46cf7ab" md5="0d138485bfa0246bab2bf9b99817699d" sha1="4407c584873a5cfb6f20e4862291e372cc2375ac"/>
+	</game>
+	<game name="Hobby Consolas - Issue 069 (1997-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 069 (1997-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 069 (1997-06)(Hobby Press)(ES).pdf" size="104456646" crc="9e828fd9" md5="052040c9af2124505cffea102baa88ad" sha1="a772214deb8f45ad34d33d5b60541df1ecdb8dc9"/>
+		<rom name="Hobby Consolas - Las mejores guías para... n2 (1997-06)(Hobby Press)(ES).pdf" size="9563003" crc="a7b56294" md5="34e67c9e620c59a1bd95589d129a40ed" sha1="0409bf83aed7bf71a8dc971d190fe1e4ad4e9fc2"/>
+	</game>
+	<game name="Hobby Consolas - Issue 070 (1997-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 070 (1997-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 070 (1997-07)(Hobby Press)(ES).pdf" size="102507424" crc="bce2d610" md5="24c788f94a063ef1b865f23834843c40" sha1="c675d3565b24789555a7387b9f15cd942285af44"/>
+		<rom name="Hobby Consolas - Especial Medievil (1997-07)(Hobby Press)(ES).pdf" size="5597528" crc="589d4385" md5="54277e5877b6cec8aea66efa9a7f338e" sha1="83ff07969ce2a15daa90b1046c61df38e7db3144"/>
+	</game>
+	<game name="Hobby Consolas - Issue 071 (1997-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 071 (1997-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 071 (1997-08)(Hobby Press)(ES).pdf" size="95434970" crc="7bc13f46" md5="33c915f1eeef1be4cf0eb7b7853a7404" sha1="b1082148ebfe9b89848b7368b53c9aadc2cb1891"/>
+		<rom name="Hobby Consolas - Las mejores guías para... n3 (1997-08)(Hobby Press)(ES).pdf" size="9930524" crc="5f441f48" md5="368a4ad2c42f72847ad801e8e1790990" sha1="d9e2a4af7cce676e9bd959366581841e9090c00b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 072 (1997-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 072 (1997-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 072 (1997-09)(Hobby Press)(ES).pdf" size="114827001" crc="37738986" md5="6d6aa1f6c9b187269f4985ec04cd9cf5" sha1="b9efaccee2f3d82d0a9c8c2f7952b72fa6281193"/>
+	</game>
+	<game name="Hobby Consolas - Issue 073 (1997-10)(Hobby Press)(ES)[missing poster Abes Oddysee+Dragon Ball Final Bout]">
+		<description>Hobby Consolas - Issue 073 (1997-10)(Hobby Press)(ES)[missing poster Abes Oddysee+Dragon Ball Final Bout]</description>
+		<rom name="Hobby Consolas - Issue 073 (1997-10)(Hobby Press)(ES).pdf" size="116271424" crc="dabcfaae" md5="59bccbbead21e890ecdfcb18e067d215" sha1="14bf6135fda83138748fce160321c3ead51e8764"/>
+	</game>
+	<game name="Hobby Consolas - Issue 074 (1997-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 074 (1997-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 074 (1997-11)(Hobby Press)(ES).pdf" size="144700177" crc="6617bbb1" md5="3bb84486a5291aca4bb86b83a5764fe7" sha1="d50d9e2f5f661afed55853ffb71644a7482760a3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 075 (1997-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 075 (1997-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 075 (1997-12)(Hobby Press)(ES).pdf" size="142305456" crc="01bbc0f9" md5="45927a6a018284ac5cdad3c9f47be261" sha1="2d5c519f873f4293358ade586204328f9c7b6130"/>
+		<rom name="75 - Sega Saturn Contraprográmate, Hobby Consolas Nº75, Diciembre 1997.avi" size="102918144" crc="3521d775" md5="e58d52aa03e4b207d6e88a25c1ab1928" sha1="8c4648d613d4f3c53b340dbd9dfa24e7f8bbe345"/>
+		<rom name="75 - Sega Saturn Contraprográmate, Hobby Consolas Nº75, Diciembre 1997.jpg" size="2977866" crc="d33b892f" md5="5dd8fc246fcd4bbb58d62458f701b778" sha1="42e51dfae8082aa2b151afb67e70aac25017cf10"/>
+	</game>
+	<game name="Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES).pdf" size="125825656" crc="bedb9e92" md5="7d0dc3641c524eb8f4b1faa2cab90977" sha1="9f473ea01076e58a23c3440bbe64692adf910af4"/>
+	</game>
+	<game name="Hobby Consolas - Issue 077 (1998-02)(Hobby Press)(ES)[missing 1998 calendar Tomb Raider]">
+		<description>Hobby Consolas - Issue 077 (1998-02)(Hobby Press)(ES)[missing 1998 calendar Tomb Raider]</description>
+		<rom name="Hobby Consolas - Issue 077 (1998-02)(Hobby Press)(ES).pdf" size="105107174" crc="7ca7771e" md5="b0aa645b453474125fe778bcf1e9ff4e" sha1="5e3dc0fa11b0ec96a3da8194e3f59fc0acdfe907"/>
+	</game>
+	<game name="Hobby Consolas - Issue 078 (1998-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 078 (1998-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 078 (1998-03)(Hobby Press)(ES).pdf" size="110739181" crc="dc7258a2" md5="d892779c13f39506703d58e14bd6d334" sha1="c18856099400249e40e94c5952b07ba969c4259a"/>
+		<rom name="Hobby Consolas - Spice World+Gran Turismo 2 poster (1998-03)(Hobby Press)(ES).pdf" size="14531576" crc="168bab81" md5="7902b8b94a3c6eb03f13e0ea6e1c5b59" sha1="3633b0300a67ecbe830ccdd252f832633659e196"/>
+	</game>
+	<game name="Hobby Consolas - Issue 079 (1998-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 079 (1998-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 079 (1998-04)(Hobby Press)(ES).pdf" size="109564199" crc="e8c30613" md5="57dfb7c029f7b332a5e527e1c2650824" sha1="3b7d3e813f9fab5723c458b01b4e8e64baa2b301"/>
+		<rom name="Hobby Consolas - Las mejores guías para... n4 (1998-04)(Hobby Press)(ES).pdf" size="8266155" crc="9193f1e4" md5="01375c16f0f2ff04fb09a55825c49588" sha1="64187639b106f8ddb2336f78bc3fd87be3c4f163"/>
+		<rom name="Hobby Consolas - Resident Evil 2+Star Wars+Masters of Teras Kasi poster (1998-04)(Hobby Press)(ES).pdf" size="14918825" crc="2c593283" md5="2d8b8bb6d898eae949eedf36d64b7827" sha1="2fb6d705bd0c4cbad630c33890f4f444afb5a886"/>
+	</game>
+	<game name="Hobby Consolas - Issue 080 (1998-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 080 (1998-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 080 (1998-05)(Hobby Press)(ES).pdf" size="101320561" crc="9a95e23e" md5="64b0d0e58a37678c737dd0cad7b18490" sha1="3b15bdede43571452e79fcadb0bbe924dc2f85fa"/>
+		<rom name="Hobby Consolas - Suplemento Especial n1 (1998-05)(Hobby Press)(ES).pdf" size="23525419" crc="a95181c0" md5="d1f352ef303da5c84acdcdef8e921cf3" sha1="256d1a0b8e497187654cce7319d7b551c95a477a"/>
+	</game>
+	<game name="Hobby Consolas - Issue 081 (1998-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 081 (1998-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 081 (1998-06)(Hobby Press)(ES).pdf" size="123138010" crc="bfc4df03" md5="9c43de08abdc9d5e748dd66888470fc2" sha1="0f56e0b65383aeaf2757dd18b4704ab6b6bfd238"/>
+		<rom name="Hobby Consolas - Suplemento Especial n2 (1998-06)(Hobby Press)(ES).pdf" size="21793282" crc="7624e778" md5="ffa2d7118072fa8ee3787ff28c8c3f72" sha1="96dc014059ea4c67ba9720089d86f7d3e7a9e2e5"/>
+		<rom name="Hobby Consolas - Guia 5 (1998-06)(Hobby Press)(ES).pdf" size="17163335" crc="a4edf378" md5="1c75b0f9ee5f8d2b5d6cc066a8d5cd19" sha1="23c16cde411cb76cf92f209aef0b68b3fd47a4a3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 082 (1998-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 082 (1998-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 082 (1998-07)(Hobby Press)(ES).pdf" size="131887910" crc="38c9224b" md5="8bdfeda36b55e9c6390bea0fe6086e84" sha1="9b6b6889ea0d6ae223bde6af84432636499169ca"/>
+	</game>
+	<game name="Hobby Consolas - Issue 083 (1998-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 083 (1998-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 083 (1998-08)(Hobby Press)(ES).pdf" size="90968965" crc="6a43fe5d" md5="51d0cbc57c2b9b67ce81eaea797d0251" sha1="3379e0f927ea978a5b0adbb326c0fb453a2057e6"/>
+		<rom name="Hobby Consolas - Guía de compras (1998-08)(Hobby Press)(ES).pdf" size="24104657" crc="48181e7c" md5="83ff56152a6146d305681e0ac2182343" sha1="65829587c519c26538a46e60cb47be0cf8740368"/>
+	</game>
+	<game name="Hobby Consolas - Issue 084 (1998-09)(Hobby Press)(ES)[missing poster Lara Croft]">
+		<description>Hobby Consolas - Issue 084 (1998-09)(Hobby Press)(ES)[missing poster Lara Croft]</description>
+		<rom name="Hobby Consolas - Issue 084 (1998-09)(Hobby Press)(ES).pdf" size="115117749" crc="b1523bc9" md5="513bcea75227cf76ebd860de73ed456c" sha1="b23634e0e2c53aa56afe128117d8b14e7d089fe4"/>
+	</game>
+	<game name="Hobby Consolas - Issue 085 (1998-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 085 (1998-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 085 (1998-10)(Hobby Press)(ES).pdf" size="136201827" crc="86069e88" md5="fedf15bb6bea6c3aee47f655ce4ba17e" sha1="c549dad3a999e25285a4c8c71a37583314603017"/>
+	</game>
+	<game name="Hobby Consolas - Issue 086 (1998-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 086 (1998-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 086 (1998-11)(Hobby Press)(ES).pdf" size="149480996" crc="2b6ed64b" md5="f946be577398b349c0e327541038630a" sha1="63acd9b1c7dc085ffac57baae47a3db2390e1794"/>
+	</game>
+	<game name="Hobby Consolas - Issue 087 (1998-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 087 (1998-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 087 (1998-12)(Hobby Press)(ES).pdf" size="160456624" crc="1e9fd80e" md5="117db5165e0a0846cad07bcc8950273b" sha1="378b0c205de5c08be41bdd23ea55efbf857cd7b7"/>
+		<rom name="87 - Lo Mejor de Nintendo 64, Hobby Consolas Nº87, Diciembre 1998.avi" size="232587264" crc="40586f72" md5="b1d4ce3fbf3cebef11911567042acb8b" sha1="61970034975a4f27b542e6ee6cafbfeb23af6fe0"/>
+		<rom name="87 - Lo Mejor de Nintendo 64, Hobby Consolas Nº87, Diciembre 1998.jpg" size="2218806" crc="8267e91d" md5="7696590c8f59aba9f4febb4ae7723c53" sha1="9ad6724ea10ec569fe44b4516d756abeaba64fc2"/>	
+	</game>
+	<game name="Hobby Consolas - Issue 088 (1999-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 088 (1999-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 088 (1999-01)(Hobby Press)(ES).pdf" size="115764567" crc="2c4aa348" md5="9376408bf2da7ec850b19ee2bd1d2487" sha1="94fbd427cbaf3b9818bd98741819ec9fc61d5780"/>
+	</game>
+	<game name="Hobby Consolas - Issue 089 (1999-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 089 (1999-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 089 (1999-02)(Hobby Press)(ES).pdf" size="107970751" crc="16aaaa06" md5="01176ed32e4652e76d0951b2e0aa4319" sha1="e829d5b37cf09073dca3bf2da69cf4a22576aada"/>
+		<rom name="Hobby Consolas Poster Zelda Ocarina of Time+Metal Gear (1999-02)(Hobby Press)(ES).pdf" size="9532083" crc="56f6ccf8" md5="4c33b8cc91dbe8d7e8f3273e145ae45f" sha1="530ad2d2ee70d2a4eec3e8839be1d10fb5b8bb53"/>
+	</game>
+	<game name="Hobby Consolas - Issue 090 (1999-03)(Hobby Press)(ES)[missing sticker Bichos]">
+		<description>Hobby Consolas - Issue 090 (1999-03)(Hobby Press)(ES)[missing sticker Bichos]</description>
+		<rom name="Hobby Consolas - Issue 090 (1999-03)(Hobby Press)(ES).pdf" size="123567961" crc="385cc795" md5="0b903d55f8d9eadd85a4e275a62fb0e7" sha1="751f3ee9cc96a255cddc3bb1d11c4df2e7105699"/>
+	</game>
+	<game name="Hobby Consolas - Issue 091 (1999-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 091 (1999-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 091 (1999-04)(Hobby Press)(ES).pdf" size="133869634" crc="9155c850" md5="cd8ad3794a782c834127d2c0708e1ff2" sha1="08810491c796b87c7def0cdc27b9930a864d60a5"/>
+	</game>
+	<game name="Hobby Consolas - Issue 092 (1999-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 092 (1999-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 092 (1999-05)(Hobby Press)(ES).pdf" size="118235582" crc="2c1c1d46" md5="552af13922b6fdc1406b1dffaaba5f4c" sha1="1ccfbe9c6ccaf30a1e95be608d3a0e66edfd5290"/>
+	</game>
+	<game name="Hobby Consolas - Issue 093 (1999-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 093 (1999-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 093 (1999-06)(Hobby Press)(ES).pdf" size="121284930" crc="46dd4a68" md5="2ec4aa0150452067b6e0143204bb4569" sha1="42f2fcf192aa86bd551770bf8d773ea120845f85"/>
+	</game>
+	<game name="Hobby Consolas - Issue 094 (1999-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 094 (1999-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 094 (1999-07)(Hobby Press)(ES).pdf" size="133668533" crc="c12247db" md5="6429227336a323634375d5ffc9194b91" sha1="2fef51a33e161b5d5f6b39eed217ad8586882edd"/>
+	</game>
+	<game name="Hobby Consolas - Issue 095 (1999-08)(Hobby Press)(ES)[missing poster Syphon Filter+Soul Reaver]">
+		<description>Hobby Consolas - Issue 095 (1999-08)(Hobby Press)(ES)[missing poster Syphon Filter+Soul Reaver]</description>
+		<rom name="Hobby Consolas - Issue 095 (1999-08)(Hobby Press)(ES).pdf" size="105185543" crc="74afce07" md5="565b75773a8bb4128fdc7d16ee07a9b8" sha1="025b0ec4a607e73054596568a5d01b3181736f9a"/>
+	</game>
+	<game name="Hobby Consolas - Issue 096 (1999-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 096 (1999-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 096 (1999-09)(Hobby Press)(ES).pdf" size="128000035" crc="53fae6f6" md5="b56189a4abf729517383b64bc143c7ff" sha1="75c79719f04dea33cfab850882630289fef98a1b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 097 (1999-10)(Hobby Press)(ES)[missing 2 stickers Star Wars Episodio 1]">
+		<description>Hobby Consolas - Issue 097 (1999-10)(Hobby Press)(ES)[missing 2 stickers Star Wars Episodio 1]</description>
+		<rom name="Hobby Consolas - Issue 097 (1999-10)(Hobby Press)(ES).pdf" size="137603071" crc="658818c5" md5="5c81644ffb18ca0e40e3b892e153d537" sha1="1e93a28271f4577fb3e89cb2d369012e2632cda4"/>
+	</game>
+	<game name="Hobby Consolas - Issue 098 (1999-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 098 (1999-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 098 (1999-11)(Hobby Press)(ES).pdf" size="150892966" crc="50282c7e" md5="f9cf56919f58eb152c93c25e43eb0dfc" sha1="98fefdad4982b909f851acdf1e51f3911bd38059"/>
+	</game>
+	<game name="Hobby Consolas - Issue 099 (1999-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 099 (1999-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 099 (1999-12)(Hobby Press)(ES).pdf" size="162691649" crc="34c6ea3a" md5="a9934924055bbf96a40e9350775599ca" sha1="0a02a7192623e6cd72137fc28e0cbd0d9439d39a"/>
+		<rom name="99 - DreamCast - Lo unico que necesitas para montartelo con todo el mundo, Hobby Consolas, Nº99, Diciembre 1999.avi" size="110174208" crc="39498f1b" md5="aa4b5b829a1892df657111dc82cfb64c" sha1="a55a0009251fabf60c6582da71be4c2ecc6a3f67"/>
+		<rom name="99 - Dreamcast, Up To Billion 6 Players, Hobby Consolas, Nº99, Diciembre 1999.jpg" size="2174079" crc="a5c2e850" md5="3c491720861c1b25e8adb453b82475cd" sha1="39f88b7a0ea687ecb5d176393e16b5fc11e8cbe3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 100 (2000-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 100 (2000-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 100 (2000-01)(Hobby Press)(ES).pdf" size="137184033" crc="5d450284" md5="66ced3cf18edead54ae63eba270b158e" sha1="dd935e6f80216542b045db78181474d50cf7343e"/>
+		<rom name="Hobby Consolas - Hobby Consolas 1-100 poster (2000-01)(Hobby Press)(ES).jpg" size="9324803" crc="00b15afb" md5="fbd0ae00d73c0caf969cb6a38a53a3a0" sha1="6a86dfc9c7b2d7b6a59af25ba84a27ee0af9cf04"/>
+	</game>
+	<game name="Hobby Consolas - Issue 101 (2000-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 101 (2000-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 101 (2000-02)(Hobby Press)(ES).pdf" size="44992857" crc="470a3999" md5="747b02c68875a0e508d0c2b20c3400f3" sha1="4636c3b7b9c8e236dbca73ad673cc07337802623"/>
+	</game>
+	<game name="Hobby Consolas - Issue 102 (2000-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 102 (2000-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 102 (2000-03)(Hobby Press)(ES).pdf" size="44892842" crc="9f892904" md5="8b4804f2d8d5b8337bc5e7a803dedf70" sha1="8526d6072ad69e6c96e4ef1ee2c8d20ab0a15c07"/>
+		<rom name="Hobby Consolas - Resident Evil 3 guide (2000-03)(Hobby Press)(ES).pdf" size="41300289" crc="552c1333" md5="786842b87bbe724db96cf86a9fee4649" sha1="0ca6d239aad2d9769d2577236302984d1474845d"/>
+	</game>
+	<game name="Hobby Consolas - Issue 103 (2000-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 103 (2000-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 103 (2000-04)(Hobby Press)(ES)" size="65248215" crc="754428b8" md5="834b1c697896d0131b1f5c0800a21b4d" sha1="722060ff03dd6b6b351c15636bd80717a27065d8"/>
+		<rom name="Hobby Consolas - Reportaje PS2 (2000-04)(Hobby Press)(ES).pdf" size="5549620" crc="47fed91f" md5="65d28590c46cdf6fe6c59b549dea74b2" sha1="ce08b8160e88ad78e17d025235ce8aa5b3632c5b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 104 (2000-05)(Hobby Press)(ES)[missing poster Pokemon]">
+		<description>Hobby Consolas - Issue 104 (2000-05)(Hobby Press)(ES)[missing poster Pokemon]</description>
+		<rom name="Hobby Consolas - Issue 104 (2000-05)(Hobby Press)(ES).pdf" size="73491862" crc="66a708f7" md5="933a106c86f92b989b48162242b5098a" sha1="328c4c6ee1f1c2762fc2142f0e20b4e582da3d53"/>
+	</game>
+	<game name="Hobby Consolas - Issue 105 (2000-06)(Hobby Press)(ES)[missing poster Colin McRae 2+Ecco the Dolphin]">
+		<description>Hobby Consolas - Issue 105 (2000-06)(Hobby Press)(ES)[missing poster Colin McRae 2+Ecco the Dolphin]</description>
+		<rom name="Hobby Consolas - Issue 105 (2000-06)(Hobby Press)(ES).pdf" size="76416128" crc="fd12212c" md5="a2aa59a23fffe2721a1d2918a4f45c76" sha1="e462befca7d9f5d73a449fc2e20746776126803d"/>
+	</game>
+	<game name="Hobby Consolas - Issue 106 (2000-07)(Hobby Press)(ES)[missing poster Vagrant Story+Parasite Eve 2]">
+		<description>Hobby Consolas - Issue 106 (2000-07)(Hobby Press)(ES)[missing poster Vagrant Story+Parasite Eve 2]</description>
+		<rom name="Hobby Consolas - Issue 106 (2000-07)(Hobby Press)(ES).pdf" size="72321791" crc="dd09b2b8" md5="b1ef41926d792206317cfb77ed8f845b" sha1="93c5bf1be6f2615bb30ac5057a7382bb0e3c166d"/>
+	</game>
+	<game name="Hobby Consolas - Issue 107 (2000-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 107 (2000-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 107 (2000-08)(Hobby Press)(ES)" size="114975042" crc="eab56296" md5="7772686a56040d339da8be112fdaeee4" sha1="40b666183f849c2e2fd30ccbe27040d49121e4ee"/>
+	</game>
+	<game name="Hobby Consolas - Issue 108 (2000-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 108 (2000-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 108 (2000-09)(Hobby Press)(ES).pdf" size="64478426" crc="934730ac" md5="1e7ecb0765e6f632fb6f6767bd5cbd30" sha1="5daccf91fdff8e9d96270f82a88f8c2ebb1b9643"/>
+	</game>
+	<game name="Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chronicles]">
+		<description>Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chronicles]</description>
+		<rom name="Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chronicles].pdf" size="72903550" crc="e3626c52" md5="6e8ec1823aea94806e4ea525ef92c8f5" sha1="ae51a241829cc81e28c84565730f672d8de98c40"/>
+	</game>
+	<game name="Hobby Consolas - Issue 110 (2000-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 110 (2000-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 110 (2000-11)(Hobby Press)(ES).pdf" size="76448737" crc="deb935f1" md5="9f41b2c4a180a6a13f13f6ffe48a17c7" sha1="0abfab90e2db4927565a5ff5d785f7efdc9bcef7"/>
+	</game>
+	<game name="Hobby Consolas - Issue 111 (2000-12)(Hobby Press)(ES)[missing video]">
+		<description>Hobby Consolas - Issue 111 (2000-12)(Hobby Press)(ES)[missing video]</description>
+		<rom name="Hobby Consolas - Issue 111 (2000-12)(Hobby Press)(ES)[missing video].pdf" size="148812271" crc="fd8faa98" md5="4444bcd299706c1df4a0e47460309115" sha1="d00d05cddb33e8fd71f33b0238f615ed1e087d1e"/>
+	</game>	
+	<game name="Hobby Consolas - Issue 112 (2001-01)(Hobby Press)(ES)[missing calendar Infogrames]">
+		<description>Hobby Consolas - Issue 112 (2001-01)(Hobby Press)(ES)[missing calendar Infogrames]</description>
+		<rom name="Hobby Consolas - Guias Completas Dino Crisis Zelda Shemue (2001-01)(Hobby Press)(ES).pdf" size="39648775" crc="47e47a75" md5="0817a94b3792da1d2aff825bb35ab51e" sha1="829fe7744056620aaba08a0662bcf9e14ede52d0"/>
+		<rom name="Hobby Consolas - Issue 112 (2001-01)(Hobby Press)(ES).pdf" size="110811259" crc="6817489a" md5="69cd07faf46a0963e4e0d2018da17da0" sha1="23fc8f0e87c99a1b0949c688bcdd6c402afcd46b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 113 (2001-02)(Hobby Press)(ES)[missing poster Final Fantasy IX+Shenmue]">
+		<description>Hobby Consolas - Issue 113 (2001-02)(Hobby Press)(ES)[missing poster Final Fantasy IX+Shenmue]</description>
+		<rom name="Hobby Consolas - Issue 113 (2001-02)(Hobby Press)(ES).pdf" size="97876213" crc="e975ec8b" md5="9946d60428cfe0d61750c31af40d5fde" sha1="937c344dc45e1c9446ea500a96e9fcbd917e5845"/>
+	</game>	
+	<game name="Hobby Consolas - Issue 114 (2001-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 114 (2001-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Guía Completa Final Fantasy IX (2001-03)(Hobby Press)(ES).pdf" size="35746876" crc="19d1695b" md5="7f39ddeba840c59cf43e38904b294df6" sha1="162f028e9eb827b24ab07989bf6b4ed07beaa28c"/>
+		<rom name="Hobby Consolas - Issue 114 (2001-03)(Hobby Press)(ES).pdf" size="103808975" crc="63e0415a" md5="13e017f7cebdd024a5d8b5204a1c7495" sha1="f5554bc755454e3b8a17a7a86e8568453bcca85a"/>
+		<rom name="Hobby Consolas - 114 - Suplemento.pdf" size="17528648" crc="736a2db8" md5="fa2de7e33bf1dbf69fced9c0a6e2aee0" sha1="1ec378d05969abdc9da59546ac3b80df399cac43"/>
+	</game>
+	<game name="Hobby Consolas - Issue 115 (2001-04)(Hobby Press)(ES)[missing poster Fear Effect+Vanishing Point]">
+		<description>Hobby Consolas - Issue 115 (2001-04)(Hobby Press)(ES)[missing poster Fear Effect+Vanishing Point]</description>
+		<rom name="Hobby Consolas - 115.pdf" size="111962111" crc="60807f06" md5="d80c7b6a4138a89d14c8ff6208408145" sha1="4dae7edc8bd2d37429d35bf58b3bf9dda475c8dc"/>
+	</game>
+	<game name="Hobby Consolas - Issue 116 (2001-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 116 (2001-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 116 (2001-05)(Hobby Press)(ES).pdf" size="116251157" crc="c466955f" md5="8223c0027d74a49df5df4a0b21956865" sha1="89916dd622e2fe6f3178156f47df0d01955f1f19"/>
+	</game>
+	<game name="Hobby Consolas - Issue 117 (2001-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 117 (2001-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 117 (2001-06)(Hobby Press)(ES).pdf" size="116045092" crc="c06877ea" md5="9c6bf587d9d2b339f92fd1df472d3f27" sha1="fa2d22e48cf24661506042f08057d67eff01e800"/>
+	</game>
+	<game name="Hobby Consolas - Issue 118 (2001-07)(Hobby Press)(ES)[missing poster Tomb Raider Movie]">
+		<description>Hobby Consolas - Issue 118 (2001-07)(Hobby Press)(ES)[missing poster Tomb Raider Movie]</description>
+		<rom name="Hobby Consolas - Issue 118 (2001-07)(Hobby Press)(ES).pdf" size="114257325" crc="410c1568" md5="2eb42ac84dab933d74af65470bcf11a8" sha1="b7dc7ab8e81870df1ee430f0a19c5aff3f2b4431"/>
+	</game>
+	<game name="Hobby Consolas - Issue 119 (2001-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 119 (2001-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 119 (2001-08)(Hobby Press)(ES).pdf" size="114780413" crc="16baa7db" md5="26d93932bc8a23e1da12dab259afced5" sha1="b34da6e27d4eb1a45a72ee72fa1a8bbca70d075e"/>
+	</game>
+	<game name="Hobby Consolas - Issue 120 (2001-09)(Hobby Press)(ES)[missing poster Aki Ross Final Fantasy]">
+		<description>Hobby Consolas - Issue 120 (2001-09)(Hobby Press)(ES)[missing poster Aki Ross Final Fantasy]</description>
+		<rom name="Hobby Consolas - Issue 120 (2001-09)(Hobby Press)(ES).pdf" size="97159761" crc="f857e741" md5="f7fbcbedf6e3a44544130803075b06ac" sha1="7debf0977861889261fac056c85e3fb6e3f817bb"/>
+	</game>
+	<game name="Hobby Consolas - Issue 121 (2001-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 121 (2001-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 121 (2001-10)(Hobby Press)(ES).pdf" size="119465120" crc="99e56416" md5="5cf32fd02109395c430d1d4feb6e60fe" sha1="23c6fd02938ad91ec86283cf8f147ad8808f5239"/>
+	</game>
+	<game name="Hobby Consolas - Issue 122 (2001-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 122 (2001-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 122 (2001-11)(Hobby Press)(ES).pdf" size="121012942" crc="7cc34e15" md5="72ceb30e10b2981a43194957d6add34d" sha1="18d74b00fb26a31d74a527a7f44805525d24c298"/>
+	</game>	
+	<game name="Hobby Consolas - Issue 123 (2001-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 123 (2001-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Guía Imprescindibles n1 (2001-12)(Hobby Press)(ES).pdf" size="36751011" crc="3e1e1689" md5="22a3469467e1349e23c49326e75f2f70" sha1="858725e980a53eda5a3ed560b747a639941b8ca9"/>
+		<rom name="Hobby Consolas - Issue 123 (2001-12)(Hobby Press)(ES).pdf" size="135615716" crc="821a1ba5" md5="ec9c17e4acd66d32d4a0c260b9abaa14" sha1="e455ca7f9899c02714caf4aa91f656d53b598ed0"/>
+	</game>
+	<game name="Hobby Consolas - Issue 124 (2002-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 124 (2002-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Guías Imprescindibles n2 (2002-01)(Hobby Press)(ES).pdf" size="30178245" crc="64556be2" md5="eb6e43ac933aad16064a7ef0909c823d" sha1="4d5785584d3aeb21e37159321af2ea400380ea91"/>
+		<rom name="Hobby Consolas - Issue 124 (2002-01)(Hobby Press)(ES).pdf" size="121054064" crc="6ee52e7e" md5="938c52e08442ac8796e42870e78b3410" sha1="6e5eaa8a94738f594c0fd66a33d36d6842ad5248"/>
+	</game>
+	<game name="Hobby Consolas - Issue 125 (2002-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 125 (2002-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 125 (2002-02)(Hobby Press)(ES).pdf" size="111041453" crc="afc7ff04" md5="abc1650f9ba2a94050e8b1a665c2b72c" sha1="1f5e5ce97006ad6c8db5b6287edba2fa6d7b581b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 126 (2002-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 126 (2002-03)(Hobby Press)</description>
+		<rom name="Hobby Consolas - Guía Completa Metal Gear Solid 2 SOL (2002-03)(Hobby Press)(ES).pdf" size="24712585" crc="34a09129" md5="e22964cd467cd807e494e8b3e7078887" sha1="260edae2d4d68ae76c2fada12da98c3370859da5"/>
+		<rom name="Hobby Consolas - Issue 126 (2002-03)(Hobby Press)(ES).pdf" size="128853075" crc="26206b49" md5="36d0224a1eec2c3104ef41be805bfbdc" sha1="f2b185a2ec405b41a99ba215f07f08779e870764"/>
+	</game>
+	<game name="Hobby Consolas - Issue 127 (2002-04)(Hobby Press)(ES)[missing poster Lara Croft]">
+		<description>Hobby Consolas - Issue 127 (2002-04)(Hobby Press)(ES)[missing poster Lara Croft]</description>
+		<rom name="Hobby Consolas - Issue 127 (2002-04)(Hobby Press)(ES).pdf" size="117413707" crc="32aa5972" md5="553be55369325d0dca8d0888e9067348" sha1="d8a24a7ccd84afc4f54fa5cb05607e99495e8d37"/>
+	</game>
+	<game name="Hobby Consolas - Issue 128 (2002-05)(Hobby Press)(ES)[missing poster Final Fantasy X]">
+		<description>Hobby Consolas - Issue 128 (2002-05)(Hobby Press)(ES)[missing poster Final Fantasy X]</description>
+		<rom name="Hobby Consolas - Issue 128 (2002-05)(Hobby Press)(ES).pdf" size="118825095" crc="6c848e3a" md5="be88e52e6fdc29849b09257f121a8828" sha1="cc856c332fb7a50748851850f4f13a41869d8cd1"/>
+	</game>
+	<game name="Hobby Consolas - Issue 129 (2002-05)(Hobby Press)(ES)[missing guide Final Fantasy X]">
+		<description>Hobby Consolas - Issue 129 (2002-05)(Hobby Press)(ES)[missing guide Final Fantasy X]</description>
+		<rom name="Hobby Consolas - Issue 129 (2002-05)(Hobby Press)(ES).pdf" size="157281712" crc="f42f696f" md5="158ec27bf7bd6c0f523bfdbed06253aa" sha1="111a6fa244c15791b81c7f5f46b8839dd57c16e0"/>
+	</game>
+	<game name="Hobby Consolas - Issue 130 (2002-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 130 (2002-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 130 (2002-06)(Hobby Press)(ES).pdf" size="126235225" crc="a0daaa5d" md5="87e165e19584c87c5cab1fc16bc84c32" sha1="4d80581a7a028f455929ff5d547c9a94f37495e7"/>
+	</game>
+	<game name="Hobby Consolas - Issue 131 (2002-07)(Hobby Press)(ES)[missing poster Tekken 4+Turok Evolution]">
+		<description>Hobby Consolas - Issue 131 (2002-07)(Hobby Press)(ES)[missing poster Tekken 4+Turok Evolution]</description>
+		<rom name="Hobby Consolas - Issue 131 (2002-07)(Hobby Press)(ES).pdf" size="104720753" crc="f30bb832" md5="57d10be200fab8e0e7bc2a2ae1bf0227" sha1="21b9d7579fb7166b880b63ea02c1d81cc975e88c"/>
+	</game>
+	<game name="Hobby Consolas - Issue 132 (2002-08)(Hobby Press)(ES)[missing poster Dead or Alive X+ESDLA]">
+		<description>Hobby Consolas - Issue 132 (2002-08)(Hobby Press)(ES)[missing poster Dead or Alive X+ESDLA]</description>
+		<rom name="Hobby Consolas - Issue 132 (2002-08)(Hobby Press)(ES).pdf" size="117004550" crc="b3ace011" md5="923320a03537eea1a251cf1359bcbae9" sha1="e9095d77de587e3cff8ec04664f0ae4e58f88502"/>
+	</game>
+	<game name="Hobby Consolas - Issue 133 (2002-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 133 (2002-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 133 (2002-09)(Hobby Press)(ES).pdf" size="136227800" crc="5be9a6fd" md5="21ee9d2b83d570924a85b049dd09b953" sha1="786039a52c58523b0759d7a2fb2a9858f4db1104"/>
+	</game>
+	<game name="Hobby Consolas - Issue 134 (2002-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 134 (2002-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 134 (2002-10)(Hobby Press)(ES).pdf" size="138375881" crc="858474c2" md5="c02657a6db1342c07a7ceaa1f829685c" sha1="bc05cf64045c53d706d8487b77f4a6b5037745e3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 135 (2002-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 135 (2002-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Guía Completa GTA Vice City (2002-12)(Hobby Press)(ES).pdf" size="31917384" crc="a2f68331" md5="fd06edd9276d07ab0849fe7e4430a0b5" sha1="efdfb05e4a2dec1e8959d76b46b8f965bf3a435d"/>
+		<rom name="Hobby Consolas - Issue 135 (2002-12)(Hobby Press)(ES).pdf" size="154955799" crc="1197ef28" md5="68ec52a699397b2fab27ddbda3ba7d89" sha1="0e2a8ce20730fe3bead9cd6033c48b5ba15ca182"/>
+	</game>
+	<game name="Hobby Consolas - Issue 136 (2003-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 136 (2003-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 136 (2003-01)(Hobby Press)(ES).pdf" size="117183671" crc="3808b09a" md5="2d9697e12b0d326ad92ff8aee3ae4087" sha1="c04baa19255be655e33c165c560fc85da1ab186f"/>
+	</game>
+	<game name="Hobby Consolas - Issue 137 (2003-02)(Hobby Press)(ES)[missing poster Mortal Kombat+Final Fantasy X-2]">
+		<description>Hobby Consolas - Issue 137 (2003-02)(Hobby Press)(ES)[missing poster Mortal Kombat+Final Fantasy X-2]</description>
+		<rom name="Hobby Consolas - Issue 137 (2003-02)(Hobby Press)(ES).pdf" size="114560062" crc="686dcf9d" md5="21ebe0db2d7e2609b9ec64e38d2958a2" sha1="26f0d5ca71aec198c5a4c58ef2384c1d0fd6b9e9"/>
+	</game>
+	<game name="Hobby Consolas - Issue 138 (2003-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 138 (2003-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 138 (2003-03)(Hobby Press)(ES).pdf" size="118950576" crc="d866b3ac" md5="5877fe4e0fe6c769d378c4afe5e0ad19" sha1="4bc2219e9db9aa4d8cd7e342216e1467352a2004"/>
+	</game>
+	<game name="Hobby Consolas - Issue 139 (2003-04)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 139 (2003-04)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 139 (2003-04)(Hobby Press)(ES).pdf" size="121571176" crc="da2de692" md5="bbbe01d366afd106b9a0e77294babd55" sha1="38e1de7774fa796eeb1c3ba177886d52ceed4704"/>
+	</game>
+	<game name="Hobby Consolas - Issue 140 (2003-05)(Hobby Press)(ES)[missing poster Primal+Final Fantasy X-2]">
+		<description>Hobby Consolas - Issue 140 (2003-05)(Hobby Press)(ES)[missing poster Primal+Final Fantasy X-2]</description>
+		<rom name="Hobby Consolas - Issue 140 (2003-05)(Hobby Press)(ES).pdf" size="108686224" crc="b8a080af" md5="c3ce3bd538d7b3ae4fe9f6ccc1228494" sha1="23f543f60a8f377545b90d11da0e008c6af3cadf"/>
+	</game>
+	<game name="Hobby Consolas - Issue 141 (2003-06)(Hobby Press)(ES)[missing poster Silent Hill 3+Enter the Matrix]">
+		<description>Hobby Consolas - Issue 141 (2003-06)(Hobby Press)(ES)[missing poster Silent Hill 3+Enter the Matrix]</description>
+		<rom name="Hobby Consolas - Issue 141 (2003-06)(Hobby Press)(ES).pdf" size="104614878" crc="2008fd34" md5="d616a38fd1f3d214b186b40c9fcd1c5b" sha1="f44008eb272f8159ea96f29aef99ecb1b93b632a"/>
+	</game>
+	<game name="Hobby Consolas - Issue 142 (2003-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 142 (2003-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 142 (2003-07)(Hobby Press)(ES).pdf" size="107296441" crc="e378c426" md5="5c4642a791407954515ff345816f7fa9" sha1="a2ea7aa13c528468417c56e54a6540a887a908b9"/>
+	</game>
+	<game name="Hobby Consolas - Issue 143 (2003-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 143 (2003-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 143 (2003-08)(Hobby Press)(ES).pdf" size="104197467" crc="07651f9c" md5="ba6e2e159e4cd9fed7ce05f62826b742" sha1="eefc17545d7e740e19455a9d99626daccad48d36"/>
+	</game>
+	<game name="Hobby Consolas - Issue 144 (2003-09)(Hobby Press)(ES)[missing poster Angelina Jolie]">
+		<description>Hobby Consolas - Issue 144 (2003-09)(Hobby Press)(ES)[missing poster Angelina Jolie]</description>
+		<rom name="Hobby Consolas - Issue 144 (2003-09)(Hobby Press)(ES).pdf" size="101568698" crc="2ec98bfd" md5="12767463f33a9c9f645c214dc7e2eca3" sha1="66df8260af668edae46fb664a31ab8b176c3538c"/>
+	</game>
+	<game name="Hobby Consolas - Issue 145 (2003-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 145 (2003-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 145 (2003-10)(Hobby Press)(ES).pdf" size="107850910" crc="5850248d" md5="1cb0979d506282716df7ed404801cfbf" sha1="ab2ca9427e9347b6ce4034a83957e5dfd80d6250"/>
+	</game>
+	<game name="Hobby Consolas - Issue 146 (2003-11)(Hobby Press)(ES)[missing poster ESDLA El retorno del Rey]">
+		<description>Hobby Consolas - Issue 146 (2003-11)(Hobby Press)(ES)[missing poster ESDLA El retorno del Rey]</description>
+		<rom name="Hobby Consolas - Issue 146 (2003-11)(Hobby Press)(ES).pdf" size="106283042" crc="fac1f5a4" md5="fe4e059a092d6c7a857d17abfbc07ded" sha1="23aa5305cf238846880920de8c5426db565bb7d4"/>
+	</game>
+	<game name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]">
+		<description>Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]</description>
+		<rom name="Hobby Consolas 147 Guia Completa POP Las Arenas del Tiempo (2003-12)(Hobby Press)(ES).pdf" size="27176074" crc="c1abd975" md5="529f719f3d36088070463dd3aef1d33e" sha1="b21efe6fc3b4ff3732be7490aaef8044a54fd8e8"/>
+		<rom name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES).pdf" size="101450452" crc="92d9544f" md5="31a7c36d1dd6c0b67873dd5f0312bf72" sha1="8873d8a9c115e27d0fb1fa72bc43292abbcc493a"/>
+		<rom name="Hobby Consolas - 147 Guía.pdf" size="29567861" crc="fc28dcd6" md5="7d16d7307558d1a3eeb29a56ed5b28aa" sha1="a55d4a78f66cdbaeeffd7cd0ff33f520929805ce"/>
+	</game>
+	<game name="Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES)[missing poster Final Fantasy XII]">
+		<description>Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES)[missing poster Final Fantasy XII]</description>
+		<rom name="Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES).pdf" size="112301772" crc="8b7cbdf0" md5="cb9ecbf63f5125f43efc01e974e6dfd1" sha1="68be72c772027c00c56b8ffc1375a033a7439cc6"/>
+	</game>
+	<game name="Hobby Consolas - Issue 149 (2004-02)(Hobby Press)(ES)[missing poster Resident Evil Outbreak]">
+		<description>Hobby Consolas - Issue 149 (2004-02)(Hobby Press)(ES)[missing poster Resident Evil Outbreak]</description>
+		<rom name="Hobby Consolas - Issue 149 (2004-02)(Hobby Press)(ES).pdf" size="108301625" crc="c6915e9f" md5="01c77f1244bef64f154f13bac97f9b09" sha1="a31cf89d33b686965bd2887c853b149b4035895f"/>
+	</game>
+	<game name="Hobby Consolas - Issue 150 (2004-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 150 (2004-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Guía Completa Final Fantasy X-2 (2004-03)(Hobby Press)(ES).pdf" size="35208728" crc="6b102e0e" md5="312b6e3a3c54214815df6beb1ce03a04" sha1="08618f05c5200fab7f247c53c8b3d6aca5bdc067"/>
+		<rom name="Hobby Consolas - Issue 150 (2004-03)(Hobby Press)(ES).pdf" size="102923379" crc="d02c6235" md5="a43b0d29b6c4b98560b270526534b3fb" sha1="4f2deab2b670f88e1a616a3e1b31ecb25af20ef3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 159 Guia Completa POP El Alma del Guerrero (2004-12)(Hobby Press)(ES).pdf" size="20326312" crc="588a204d" md5="7d27f67227d47c8d3912f03d153e3e03" sha1="b66285512432aaf8ea5a880a59674b654bfef539"/>
+	</game>
+	<game name="Hobby Consolas - Issue 162 (2005-03)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 162 (2005-03)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 162 Guia Completa Metal Gear Solid 3 Snake Eater (2005-03)(Hobby Press)(ES).pdf" size="29078892" crc="9e42f21e" md5="af7685f18c2bc62d45261c2eb8d5e5f9" sha1="d615232433e7580d8ec00cb5cea400d19b1e3a92"/>
+	</game>
+	<game name="Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 175 Guias &amp; Trucos El Padrino Driver Paralles Lines (2006-04)(Hobby Press)(ES).pdf" size="40144426" crc="a329895c" md5="f852ebd23eff15230594a92ad4322a44" sha1="e37abafe86e2a4b552577f32dcc37bae01616dc1"/>
+	</game>
+	<game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]">
+		<description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]</description>
+		<rom name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar].pdf" size="36524021" crc="372cb1c7" md5="7b49522eb04e65451c3dcdac4ce1f582" sha1="af1177a9b0b8c6597a4e0d39ebbc473bd555c4dd"/>
+	</game>
+	<game name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 201 GTA 4 (2008-06)(Hobby Press)(ES).pdf" size="47650940" crc="587fa8f8" md5="274e8445ef022cf2736d0ed862baf540" sha1="e86311f94ad0475217da29f707ec83306e9e36fb"/>
+	</game>
+	<game name="Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)[missing poster]">
+		<description>Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)[missing poster]</description>
+		<rom name="Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)[missing poster].pdf" size="66875740" crc="a17ac6db" md5="6626f92002013fb6fb2b90e9fa8a9c89" sha1="9f109c11d0a0dfa3e9c50728d16d7a0e14c7cdad"/>
+	</game>
+	<game name="Hobby Consolas - Issue 217 (2009-10)(Hobby Press)(ES)[missing poster PES 2010+FIFA 10] ">
+		<description>Hobby Consolas - Issue 217 (2009-10)(Hobby Press)(ES)[missing poster PES 2010+FIFA 10] </description>
+		<rom name="Hobby Consolas - Issue 217 (2009-10)(Hobby Press)(ES)[missing poster PES 2010+FIFA 10] .pdf" size="74679654" crc="27f701ad" md5="c667e5587062acef8f06acfaf86cb12f" sha1="567fa45135b9f47642e381f93a6fac3f981a7706"/>
+	</game>
+	<game name="Hobby Consolas - Issue 218 (2009-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 218 (2009-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 218 (2009-11)(Hobby Press)(ES).pdf" size="79925039" crc="57913a97" md5="38a54f34c5fb1d427ffce181a3d7e16a" sha1="62bb712044adbabde74807ec2134c5c3d984bf02"/>
+	</game>
+	<game name="Hobby Consolas - Issue 219 (2009-12)(Hobby Press)(ES)[missing posters]">
+		<description>Hobby Consolas - Issue 219 (2009-12)(Hobby Press)(ES)[missing posters]</description>
+		<rom name="Hobby Consolas - Issue 219 (2009-12)(Hobby Press)(ES)[missing posters].pdf" size="83769443" crc="daac3f46" md5="e095d64ac6c2346d40193c562d4c35c1" sha1="338605a2de935f2842e9633032af10a2eda5e60c"/>
+	</game>
+	<game name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 202 Super Smash Bros Brawl MGS4 (2008-07)(Hobby Press)(ES).pdf" size="43588257" crc="d4ce9db0" md5="0979f7fd641f6ed0ee4d331b5860dc16" sha1="bde23f748c8001e8a9019ee6aac47ac16138c6e6"/>
+	</game>
+	<game name="Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 222 Suplemento Especial FF XIII I (2010-03)(Hobby Press)(ES).pdf" size="49099962" crc="f0ba1f1b" md5="03b6a31fe463ca4320d60fecf0a0fa52" sha1="d58c42ca773bd3393e8ea21546cf42c68c500f99"/>
+	</game>
+	<game name="Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 223 Suplemento Especial FF XIII y II (2010-04)(Hobby Press)(ES).pdf" size="34303723" crc="c8cf6057" md5="fc3391c4bbbffb46d38d403480dd52bd" sha1="ecdd905c97c2a988fbbaa1370dbe4b7ce80a714b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 224 Monster Hunter 3 Tri Guia Practica (2010-05)(Hobby Press)(ES).pdf" size="12567917" crc="a322297c" md5="3febcf25a7ebb710489e1379d68d364a" sha1="6ebe9137a16ee2f7ec9b57994e45a5bc3b35cc48"/>
+	</game>
+	<game name="Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 225 Red Dead Redemption (2010-06)(Hobby Press)(ES).pdf" size="38309980" crc="06bfe980" md5="6c9334e8aca16e9ca81c7dbc17bed1dc" sha1="65775caf7ce75df48bb28560ef11f11f3e64d09c"/>
+	</game>
+	<game name="Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas - Guía Fifa 11 (2010-10)(Hobby Press)(ES).pdf" size="6058944" crc="621abe66" md5="562ace8f4fc8d9199af224fd99cb2a90" sha1="17d5edd57f6f9d72774db4872aa5099a9196772b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 235 Shift 2 Unleashed (2011-04)(Hobby Press)(ES).pdf" size="10306767" crc="c28c026d" md5="d5532666328d66e46a4466b0717f2774" sha1="b2c0aa7ae89887ae56f23e28709bc8269144640a"/>
+	</game>
+	<game name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 236 Yakuza 4 (2011-05)(Hobby Press)(ES).pdf" size="7229256" crc="ce9ebf4f" md5="e879320e11a5fd3335ab6a17a47a22f2" sha1="1b37336840ce2f931574610fe8f32202f4455c00"/>
+	</game>
+	<game name="Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 238 Duke Nukem Forever (2011-07)(Hobby Press)(ES).pdf" size="6913965" crc="f0ae0f45" md5="a96797aee9183e03fd70dd3b7e502d64" sha1="28d370323dc22d56e9d047c5a9886ffb4a0a2c71"/>
+	</game>
+	<game name="Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas 239 Fear 3 Shadow of the Dammed (2011-08)(Hobby Press)(ES).pdf" size="7415133" crc="d4b46937" md5="8503e5e957069e0a04b9a991e682cc32" sha1="1baab4913b2e7376dc74d0a2f66f7e35d76179bc"/>
+	</game>
+	<game name="Hobby Consolas - Issue 240 (2011-09)(Hobby Press)(ES)[missing guide Resistence 3]">
+		<description>Hobby Consolas - Issue 240 (2011-09)(Hobby Press)(ES)[missing guide Resistence 3]</description>
+		<rom name="Hobby Consolas - Issue 240 (2011-09)(Hobby Press)(ES)[missing guide Resistence 3].pdf" size="21594289" crc="2c77f9d6" md5="d10d5254d9e1e777d491064466daf2f4" sha1="1ceb68f786038ea514a2ef002d42f1f05ad7b320"/>
+	</game>
+	<game name="Hobby Consolas - Issue 241 (2011-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 241 (2011-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 241 (2011-10)(Hobby Press)(ES).pdf" size="254979232" crc="d286be22" md5="1d89b6948bc47714ef4344accf66bb53" sha1="88be35a64010ea38f4df3f798f9c5f1bcb72e322"/>
+	</game>
+	<game name="Hobby Consolas - Issue 243 (2011-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 243 (2011-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 243 (2011-12)(Hobby Press)(ES).pdf" size="32661224" crc="f1117aa4" md5="8345a2d4011fefd223f1d42b79911651" sha1="2a09f12bf2d894e28044d674ad61c293e238397d"/>
+		<rom name="Hobby Consolas - Especial Zelda (2011-12)(Hobby Press)(ES).pdf" size="14868865" crc="b11d1bca" md5="f4ec579a1862e27d985dd389c64176b6" sha1="074118b3cc7106fe014bffadd24c364bb1eb6edc"/>
+	</game>
+	<game name="Hobby Consolas - Issue 244 (2012-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 244 (2012-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 244 (2012-01)(Hobby Press)(ES).pdf" size="89266998" crc="eb7709d3" md5="00f3ca07143f8ba4d3ea03c102e40b1f" sha1="98b0c55a75dd1497a0853acf2c13b890303b000a"/>
+	</game>
+	<game name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)" size="24563418" crc="0851111c" md5="a97b99809c34380c383c48b87979d580" sha1="a094eb6fe318dc8b9992c28787667960720983ae"/>
+	</game>
+	<game name="Hobby Consolas - Issue 248 (2012-05)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 248 (2012-05)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 248 (2012-05)(Hobby Press)(ES).pdf" size="55374290" crc="2e8454b8" md5="82a3a90aef263d48f8d2de45fce96dd2" sha1="8ad69858f059d687749a83e6944e0a922607a3d0"/>
+	</game>
+	<game name="Hobby Consolas - Issue 249 (2012-06)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 249 (2012-06)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 249 (2012-06)(Hobby Press)(ES).pdf" size="51496891" crc="e961b512" md5="9143a97d839c6675c8872ea6a0ae4cde" sha1="8edfc4da17cf54cf0baa128691a3c57c5256f8c7"/>
+	</game>
+	<game name="Hobby Consolas - Issue 250 (2012-07)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 250 (2012-07)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 250 (2012-07)(Hobby Press)(ES).pdf" size="52730076" crc="f0e607bd" md5="261ba2cebf781875741a15334efac035" sha1="42efb37748a710084773ed0097592f9cc97b9239"/>
+	</game>
+	<game name="Hobby Consolas - Issue 251 (2012-08)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 251 (2012-08)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 251 (2012-08)(Hobby Press)(ES).pdf" size="41355939" crc="303234c7" md5="f3c54272ae42652bafba5e0886acdcbe" sha1="c773d6b3d4dabde4e6468351619616cbf5a3bfad"/>
+	</game>
+	<game name="Hobby Consolas - Issue 253 (2012-10)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 253 (2012-10)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 253 (2012-10)(Hobby Press)(ES).pdf" size="46951378" crc="87561f8c" md5="eef79ce232959aed73ba90c392fc8d26" sha1="0d002d16dbca6e01f91d0ebce823f550ec44a921"/>
+	</game>
+	<game name="Hobby Consolas - Issue 254 (2012-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 254 (2012-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 254 (2012-11)(Hobby Press)(ES).pdf" size="75278493" crc="8aa48255" md5="5a4c38d2f3ec490848e548ba4cca7f87" sha1="9c10d27b2cd7373effaee420c3f182eb2d303bfa"/>
+	</game>
+	<game name="Hobby Consolas - Issue 254 (2012-11)(Hobby Press)(ES)[alt01]">
+		<description>Hobby Consolas - Issue 254 (2012-11)(Hobby Press)(ES)[alt01]</description>
+		<rom name="Hobby Consolas - Issue 254 (2012-11)(Hobby Press)(ES)[alt01].pdf" size="50536720" crc="b452cf94" md5="d1c3b30ce18c51a65a374f66b3d51c3a" sha1="872bab84720edabe5851f0967de880be85f91238"/>
+	</game>
+	<game name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES).pdf" size="122466505" crc="94942c87" md5="a273271c87420a5439a5b60ad568dda8" sha1="824e4bae424a3b819b4ae39610c67947e284bc42"/>
+	</game>
+	<game name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)[alt01]">
+		<description>Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)[alt01]</description>
+		<rom name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)[alt01].pdf" size="51315165" crc="919bec5a" md5="9d61c540d57c7a7903cdd881abc04e8a" sha1="232db9bcee40e44bf81049155cea82d399db3481"/>
+	</game>
+	<game name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES).pdf" size="47789909" crc="ee08962b" md5="86845420e506c55c1304012005c9c787" sha1="c969cc60d0207946c48cf290774102d2318401f8"/>
+	</game>
+	<game name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)[alt01]">
+		<description>Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)[alt01]</description>
+		<rom name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)[alt01].pdf" size="36717211" crc="af39c0a7" md5="6340212de8938b1c6e50d96838e601d3" sha1="34ec560a5e6122f97414e98d705822e8f0440b08"/>
+	</game>
+	<game name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES).pdf" size="42109308" crc="7f09326c" md5="d3b26f87d62431c29c84809655e8706b" sha1="736c709182eee99e43855efe8b999ad2ab852ee3"/>
+	</game>
+	<game name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01]">
+		<description>Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01]</description>
+		<rom name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01].pdf" size="42319363" crc="15026576" md5="b50f12f0fecdf0261cdd4c156f0615a8" sha1="4656ca96c8808ce0943d9fdec8d99576dc8b5507"/>
+	</game>
+	<game name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES).pdf" size="81285444" crc="73ce9700" md5="fb66ec30a1be32c15cd77f5aa06fabab" sha1="83414b98aed7b6e98f797a5e2b55676e17326e6b"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas Especial  Guias Imprescindibles Playstation 03">
+		<description>ZZZ-UNK-Hobby Consolas Especial  Guias Imprescindibles Playstation 03</description>
+		<rom name="Hobby Consolas Especial  Guias Imprescindibles Playstation 03.pdf" size="124703843" crc="595a191a" md5="abe836df8a79ad6dd86e74dd02148264" sha1="1bf212348a8287cd25ee3e2d14b1a3cacb3e800e"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas Especial Videojuegos 2004">
+		<description>ZZZ-UNK-Hobby Consolas Especial Videojuegos 2004</description>
+		<rom name="Hobby Consolas Especial Videojuegos 2004.pdf" size="157319623" crc="216a3773" md5="04a81f5cd1f53f40d99d8a99934ae4a9" sha1="0ce1a56ff5337b7f87a5cc783188afdb1266d8a8"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas Guia Resident Evil 3 Nenemis">
+		<description>ZZZ-UNK-Hobby Consolas Guia Resident Evil 3 Nenemis</description>
+		<rom name="Hobby Consolas Guia Resident Evil 3 Nenemis.pdf" size="33870710" crc="b1373bc6" md5="1a5eeea5b6bab35a388ac782db19f5bb" sha1="f5c6fd5c9c0fb326f429b54fae09713911a2134b"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas La Gran Guia del Comprador de Videojuegos">
+		<description>ZZZ-UNK-Hobby Consolas La Gran Guia del Comprador de Videojuegos</description>
+		<rom name="Hobby Consolas La Gran Guia del Comprador de Videojuegos.pdf" size="152925032" crc="4a1ddfcd" md5="b8138db1be17ae9afef4d57ddb9b2236" sha1="8523b389afeb190c7639af9940a1bc3a7cf8dd07"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas Poster Calendario Mundial 98">
+		<description>ZZZ-UNK-Hobby Consolas Poster Calendario Mundial 98</description>
+		<rom name="Hobby Consolas Poster Calendario Mundial 98.pdf" size="8449941" crc="9911a676" md5="0d1c97990cfd43b89fd56a404d16c137" sha1="ab20129230a24ddb4969432224901838277f5175"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas Poster Eurocopa 96">
+		<description>ZZZ-UNK-Hobby Consolas Poster Eurocopa 96</description>
+		<rom name="Hobby Consolas Poster Eurocopa 96.pdf" size="7543334" crc="64859f02" md5="2bc30ad2840dde4871405af25c031a84" sha1="63af7419d7e935fffac9f04b01213f9f0f68e27d"/>
+	</game>
+	<game name="ZZZ-UNK-Hobby Consolas Videojuegos 2005">
+		<description>ZZZ-UNK-Hobby Consolas Videojuegos 2005</description>
+		<rom name="Hobby Consolas Videojuegos 2005.pdf" size="155028077" crc="ee6df6c1" md5="acff5fb346b0ac6cfaa90e66a5eafd96" sha1="2ce61c28407d5bed6d1583b4075c5ba0e2a05def"/>
+	</game>
+	<game name="ZZZ-UNK-Libro de las Portatiles">
+		<description>ZZZ-UNK-Libro de las Portatiles</description>
+		<rom name="Libro de las Portatiles.pdf" size="27655664" crc="4701f1cf" md5="91c2abf2241972d6019c4f9f2116c9e9" sha1="77df3db0e2b3f021fe232394c95dffbef09729d8"/>
+	</game>
+	<game name="ZZZ-UNK-Mapa Alex Kidd">
+		<description>ZZZ-UNK-Mapa Alex Kidd</description>
+		<rom name="Mapa Alex Kidd.pdf" size="5165156" crc="c096bd05" md5="c6f616d74efdb9d27b32a2d176d3fe09" sha1="223ac1b0518c81567494db5dfa29a0415fed0ae3"/>
+	</game>
+	<game name="ZZZ-UNK-Mapa Flintstone">
+		<description>ZZZ-UNK-Mapa Flintstone</description>
+		<rom name="Mapa Flintstone.pdf" size="4388352" crc="973c3da6" md5="d66098a0cd9f0936327fdd8d818e54da" sha1="4cc913d39110e126faba5dfdc663a0385bce24f6"/>
+	</game>
+	<game name="ZZZ-UNK-Mapa Terminator">
+		<description>ZZZ-UNK-Mapa Terminator</description>
+		<rom name="Mapa Terminator.pdf" size="4364175" crc="7408c004" md5="08e27d3e3746fa88b6b49a11c98457f8" sha1="116e15e04c34c5b6d3f31d2baf35a144dc41c998"/>
+	</game>
+	<game name="ZZZ-UNK-Poster Castlevania LOS+Mafia 2">
+		<description>ZZZ-UNK-Poster Castlevania LOS+Mafia 2</description>
+		<rom name="Poster Castlevania LOS+Mafia 2.pdf" size="8193558" crc="a92ecd0d" md5="a58975e324d87d5d9470e56814241e38" sha1="2a6193d38443465aff71a2b88108a935febf5580"/>
+	</game>
+	<game name="ZZZ-UNK-Poster Cool Spot-Flashback">
+		<description>ZZZ-UNK-Poster Cool Spot-Flashback</description>
+		<rom name="Poster Cool Spot-Flashback.pdf" size="2845762" crc="dbad0b79" md5="c989e6363d698816e6494dd0c3833213" sha1="46feba30468cbbe7d272a3ddedace60e77b5db09"/>
+	</game>
+	<game name="ZZZ-UNK-Poster Hobby Consolas Tomb Raider 2">
+		<description>ZZZ-UNK-Poster Hobby Consolas Tomb Raider 2</description>
+		<rom name="Poster Hobby Consolas Tomb Raider 2.pdf" size="7637610" crc="6e9ecbfa" md5="d4d978bcd018a33525ab8d640cd955c7" sha1="ecb5717e708fb3a1df06190cae044f3bcdb99105"/>
+	</game>
+	<game name="ZZZ-UNK-Poster MazinWars+Battletoads">
+		<description>ZZZ-UNK-Poster MazinWars+Battletoads</description>
+		<rom name="Poster MazinWars+Battletoads.pdf" size="9536601" crc="c5942833" md5="ac67ef896baefcd2778a1e8f6c2d0d8b" sha1="70daa5aec36290d5d358984aedbc5133bf6d4a12"/>
+	</game>
+		<game name="ZZZ-UNK-Guia Final Fantasy VII (HOBBY CONSOLAS)">
+		<description>ZZZ-UNK-Guia Final Fantasy VII (HOBBY CONSOLAS)</description>
+		<rom name="ZZZ-UNK-Guia Final Fantasy VII (HOBBY CONSOLAS).pdf" size="10021262" crc="cb3d2bea" md5="73d09f4c504224a3df7ffea0030b2e40" sha1="19f4d67c24ada313e5b4124ed4f07a26a76f616a"/>
+	</game>
+</datafile>
