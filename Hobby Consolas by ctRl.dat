@@ -6,8 +6,8 @@
 		<name>Hobby Consolas</name>
 		<description>Hobby Consolas</description>
 		<category>Magazines</category>
-		<version>ctRl-v2013-01-04</version>
-		<date>2013-01-04</date>
+		<version>ctRl-v2013-01-05</version>
+		<date>2013-01-05</date>
 		<author>ctRl</author>
 		<email>ctrl@retrosnes.com</email>
 		<homepage>http://retrosnes.com</homepage>
@@ -697,7 +697,7 @@
 	</game>
 	<game name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]">
 		<description>Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]</description>
-		<rom name="Hobby Consolas 147 Guia Completa POP Las Arenas del Tiempo (2003-12)(Hobby Press)(ES).pdf" size="27176074" crc="c1abd975" md5="529f719f3d36088070463dd3aef1d33e" sha1="b21efe6fc3b4ff3732be7490aaef8044a54fd8e8"/>
+		<rom name="Hobby Consolas - Guía Completa Pice of Persia Las Arenas del Tiempo (2003-12)(Hobby Press)(ES).pdf" size="27176074" crc="c1abd975" md5="529f719f3d36088070463dd3aef1d33e" sha1="b21efe6fc3b4ff3732be7490aaef8044a54fd8e8"/>
 		<rom name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES).pdf" size="101450452" crc="92d9544f" md5="31a7c36d1dd6c0b67873dd5f0312bf72" sha1="8873d8a9c115e27d0fb1fa72bc43292abbcc493a"/>
 	</game>
 	<game name="Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES)[missing poster Final Fantasy XII]">
@@ -751,23 +751,23 @@
 	</game>
 	<game name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 202 Super Smash Bros Brawl MGS4 (2008-07)(Hobby Press)(ES).pdf" size="43588257" crc="d4ce9db0" md5="0979f7fd641f6ed0ee4d331b5860dc16" sha1="bde23f748c8001e8a9019ee6aac47ac16138c6e6"/>
+		<rom name="Hobby Consolas - Super Smash Bros Brawl MGS4 (2008-07)(Hobby Press)(ES).pdf" size="43588257" crc="d4ce9db0" md5="0979f7fd641f6ed0ee4d331b5860dc16" sha1="bde23f748c8001e8a9019ee6aac47ac16138c6e6"/>
 	</game>
 	<game name="Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 222 Suplemento Especial FF XIII I (2010-03)(Hobby Press)(ES).pdf" size="49099962" crc="f0ba1f1b" md5="03b6a31fe463ca4320d60fecf0a0fa52" sha1="d58c42ca773bd3393e8ea21546cf42c68c500f99"/>
+		<rom name="Hobby Consolas - Suplemento Especial FF XIII I (2010-03)(Hobby Press)(ES).pdf" size="49099962" crc="f0ba1f1b" md5="03b6a31fe463ca4320d60fecf0a0fa52" sha1="d58c42ca773bd3393e8ea21546cf42c68c500f99"/>
 	</game>
 	<game name="Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 223 Suplemento Especial FF XIII y II (2010-04)(Hobby Press)(ES).pdf" size="34303723" crc="c8cf6057" md5="fc3391c4bbbffb46d38d403480dd52bd" sha1="ecdd905c97c2a988fbbaa1370dbe4b7ce80a714b"/>
+		<rom name="Hobby Consolas - Suplemento Especial FF XIII y II (2010-04)(Hobby Press)(ES).pdf" size="34303723" crc="c8cf6057" md5="fc3391c4bbbffb46d38d403480dd52bd" sha1="ecdd905c97c2a988fbbaa1370dbe4b7ce80a714b"/>
 	</game>
 	<game name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 224 Monster Hunter 3 Tri Guia Practica (2010-05)(Hobby Press)(ES).pdf" size="12567917" crc="a322297c" md5="3febcf25a7ebb710489e1379d68d364a" sha1="6ebe9137a16ee2f7ec9b57994e45a5bc3b35cc48"/>
+		<rom name="Hobby Consolas - Monster Hunter 3 Tri Guia Practica (2010-05)(Hobby Press)(ES).pdf" size="12567917" crc="a322297c" md5="3febcf25a7ebb710489e1379d68d364a" sha1="6ebe9137a16ee2f7ec9b57994e45a5bc3b35cc48"/>
 	</game>
 	<game name="Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 225 Red Dead Redemption (2010-06)(Hobby Press)(ES).pdf" size="38309980" crc="06bfe980" md5="6c9334e8aca16e9ca81c7dbc17bed1dc" sha1="65775caf7ce75df48bb28560ef11f11f3e64d09c"/>
+		<rom name="Hobby Consolas - Red Dead Redemption (2010-06)(Hobby Press)(ES).pdf" size="38309980" crc="06bfe980" md5="6c9334e8aca16e9ca81c7dbc17bed1dc" sha1="65775caf7ce75df48bb28560ef11f11f3e64d09c"/>
 	</game>
 	<game name="Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[missing magazine]</description>
@@ -775,19 +775,19 @@
 	</game>
 	<game name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 235 Shift 2 Unleashed (2011-04)(Hobby Press)(ES).pdf" size="10306767" crc="c28c026d" md5="d5532666328d66e46a4466b0717f2774" sha1="b2c0aa7ae89887ae56f23e28709bc8269144640a"/>
+		<rom name="Hobby Consolas - Shift 2 Unleashed (2011-04)(Hobby Press)(ES).pdf" size="10306767" crc="c28c026d" md5="d5532666328d66e46a4466b0717f2774" sha1="b2c0aa7ae89887ae56f23e28709bc8269144640a"/>
 	</game>
 	<game name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 236 Yakuza 4 (2011-05)(Hobby Press)(ES).pdf" size="7229256" crc="ce9ebf4f" md5="e879320e11a5fd3335ab6a17a47a22f2" sha1="1b37336840ce2f931574610fe8f32202f4455c00"/>
+		<rom name="Hobby Consolas - Yakuza 4 (2011-05)(Hobby Press)(ES).pdf" size="7229256" crc="ce9ebf4f" md5="e879320e11a5fd3335ab6a17a47a22f2" sha1="1b37336840ce2f931574610fe8f32202f4455c00"/>
 	</game>
 	<game name="Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 238 Duke Nukem Forever (2011-07)(Hobby Press)(ES).pdf" size="6913965" crc="f0ae0f45" md5="a96797aee9183e03fd70dd3b7e502d64" sha1="28d370323dc22d56e9d047c5a9886ffb4a0a2c71"/>
+		<rom name="Hobby Consolas - Duke Nukem Forever (2011-07)(Hobby Press)(ES).pdf" size="6913965" crc="f0ae0f45" md5="a96797aee9183e03fd70dd3b7e502d64" sha1="28d370323dc22d56e9d047c5a9886ffb4a0a2c71"/>
 	</game>
 	<game name="Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 239 Fear 3 Shadow of the Dammed (2011-08)(Hobby Press)(ES).pdf" size="7415133" crc="d4b46937" md5="8503e5e957069e0a04b9a991e682cc32" sha1="1baab4913b2e7376dc74d0a2f66f7e35d76179bc"/>
+		<rom name="Hobby Consolas - Fear 3 Shadow of the Dammed (2011-08)(Hobby Press)(ES).pdf" size="7415133" crc="d4b46937" md5="8503e5e957069e0a04b9a991e682cc32" sha1="1baab4913b2e7376dc74d0a2f66f7e35d76179bc"/>
 	</game>
 	<game name="Hobby Consolas - Issue 240 (2011-09)(Hobby Press)(ES)[missing guide Resistence 3]">
 		<description>Hobby Consolas - Issue 240 (2011-09)(Hobby Press)(ES)[missing guide Resistence 3]</description>
@@ -866,68 +866,68 @@
 		<description>Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES).pdf" size="81285444" crc="73ce9700" md5="fb66ec30a1be32c15cd77f5aa06fabab" sha1="83414b98aed7b6e98f797a5e2b55676e17326e6b"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas Especial  Guias Imprescindibles Playstation 03">
-		<description>ZZZ-UNK-Hobby Consolas Especial  Guias Imprescindibles Playstation 03</description>
-		<rom name="Hobby Consolas Especial  Guias Imprescindibles Playstation 03.pdf" size="124703843" crc="595a191a" md5="abe836df8a79ad6dd86e74dd02148264" sha1="1bf212348a8287cd25ee3e2d14b1a3cacb3e800e"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Especial Guias Imprescindibles Playstation 03">
+		<description>ZZZ-UNK-Hobby Consolas - Especial Guias Imprescindibles Playstation 03</description>
+		<rom name="Hobby Consolas - Especial Guias Imprescindibles Playstation 03.pdf" size="124703843" crc="595a191a" md5="abe836df8a79ad6dd86e74dd02148264" sha1="1bf212348a8287cd25ee3e2d14b1a3cacb3e800e"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas Especial Videojuegos 2004">
-		<description>ZZZ-UNK-Hobby Consolas Especial Videojuegos 2004</description>
-		<rom name="Hobby Consolas Especial Videojuegos 2004.pdf" size="157319623" crc="216a3773" md5="04a81f5cd1f53f40d99d8a99934ae4a9" sha1="0ce1a56ff5337b7f87a5cc783188afdb1266d8a8"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Especial Videojuegos 2004">
+		<description>ZZZ-UNK-Hobby Consolas - Especial Videojuegos 2004</description>
+		<rom name="Hobby Consolas - Especial Videojuegos 2004.pdf" size="157319623" crc="216a3773" md5="04a81f5cd1f53f40d99d8a99934ae4a9" sha1="0ce1a56ff5337b7f87a5cc783188afdb1266d8a8"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas Guia Resident Evil 3 Nenemis">
-		<description>ZZZ-UNK-Hobby Consolas Guia Resident Evil 3 Nenemis</description>
-		<rom name="Hobby Consolas Guia Resident Evil 3 Nenemis.pdf" size="33870710" crc="b1373bc6" md5="1a5eeea5b6bab35a388ac782db19f5bb" sha1="f5c6fd5c9c0fb326f429b54fae09713911a2134b"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Guía Resident Evil 3 Nenemis">
+		<description>ZZZ-UNK-Hobby Consolas Guía Resident Evil 3 Nenemis</description>
+		<rom name="Hobby Consolas - Guía Resident Evil 3 Nenemis.pdf" size="33870710" crc="b1373bc6" md5="1a5eeea5b6bab35a388ac782db19f5bb" sha1="f5c6fd5c9c0fb326f429b54fae09713911a2134b"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas La Gran Guia del Comprador de Videojuegos">
-		<description>ZZZ-UNK-Hobby Consolas La Gran Guia del Comprador de Videojuegos</description>
-		<rom name="Hobby Consolas La Gran Guia del Comprador de Videojuegos.pdf" size="152925032" crc="4a1ddfcd" md5="b8138db1be17ae9afef4d57ddb9b2236" sha1="8523b389afeb190c7639af9940a1bc3a7cf8dd07"/>
+	<game name="ZZZ-UNK-Hobby Consolas - La Gran Guía del Comprador de Videojuegos">
+		<description>ZZZ-UNK-Hobby Consolas - La Gran Guía del Comprador de Videojuegos</description>
+		<rom name="Hobby Consolas - La Gran Guía del Comprador de Videojuegos.pdf" size="152925032" crc="4a1ddfcd" md5="b8138db1be17ae9afef4d57ddb9b2236" sha1="8523b389afeb190c7639af9940a1bc3a7cf8dd07"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas Poster Calendario Mundial 98">
-		<description>ZZZ-UNK-Hobby Consolas Poster Calendario Mundial 98</description>
-		<rom name="Hobby Consolas Poster Calendario Mundial 98.pdf" size="8449941" crc="9911a676" md5="0d1c97990cfd43b89fd56a404d16c137" sha1="ab20129230a24ddb4969432224901838277f5175"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Poster Calendario Mundial 98">
+		<description>ZZZ-UNK-Hobby Consolas - Poster Calendario Mundial 98</description>
+		<rom name="Hobby Consolas - Poster Calendario Mundial 98.pdf" size="8449941" crc="9911a676" md5="0d1c97990cfd43b89fd56a404d16c137" sha1="ab20129230a24ddb4969432224901838277f5175"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas Poster Eurocopa 96">
-		<description>ZZZ-UNK-Hobby Consolas Poster Eurocopa 96</description>
-		<rom name="Hobby Consolas Poster Eurocopa 96.pdf" size="7543334" crc="64859f02" md5="2bc30ad2840dde4871405af25c031a84" sha1="63af7419d7e935fffac9f04b01213f9f0f68e27d"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Poster Eurocopa 96">
+		<description>ZZZ-UNK-Hobby Consolas - Poster Eurocopa 96</description>
+		<rom name="Hobby Consolas - Poster Eurocopa 96.pdf" size="7543334" crc="64859f02" md5="2bc30ad2840dde4871405af25c031a84" sha1="63af7419d7e935fffac9f04b01213f9f0f68e27d"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas Videojuegos 2005">
-		<description>ZZZ-UNK-Hobby Consolas Videojuegos 2005</description>
-		<rom name="Hobby Consolas Videojuegos 2005.pdf" size="155028077" crc="ee6df6c1" md5="acff5fb346b0ac6cfaa90e66a5eafd96" sha1="2ce61c28407d5bed6d1583b4075c5ba0e2a05def"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Videojuegos 2005">
+		<description>ZZZ-UNK-Hobby Consolas - Videojuegos 2005</description>
+		<rom name="Hobby Consolas - Videojuegos 2005.pdf" size="155028077" crc="ee6df6c1" md5="acff5fb346b0ac6cfaa90e66a5eafd96" sha1="2ce61c28407d5bed6d1583b4075c5ba0e2a05def"/>
 	</game>
-	<game name="ZZZ-UNK-Libro de las Portatiles">
-		<description>ZZZ-UNK-Libro de las Portatiles</description>
-		<rom name="Libro de las Portatiles.pdf" size="27655664" crc="4701f1cf" md5="91c2abf2241972d6019c4f9f2116c9e9" sha1="77df3db0e2b3f021fe232394c95dffbef09729d8"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Libro de las Portátiles">
+		<description>ZZZ-UNK-Hobby Consolas - Libro de las Portátiles</description>
+		<rom name="Hobby Consolas - Libro de las Portátiles.pdf" size="27655664" crc="4701f1cf" md5="91c2abf2241972d6019c4f9f2116c9e9" sha1="77df3db0e2b3f021fe232394c95dffbef09729d8"/>
 	</game>
-	<game name="ZZZ-UNK-Mapa Alex Kidd">
-		<description>ZZZ-UNK-Mapa Alex Kidd</description>
-		<rom name="Mapa Alex Kidd.pdf" size="5165156" crc="c096bd05" md5="c6f616d74efdb9d27b32a2d176d3fe09" sha1="223ac1b0518c81567494db5dfa29a0415fed0ae3"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Mapa Alex Kidd">
+		<description>ZZZ-Hobby Consolas - UNK-Mapa Alex Kidd</description>
+		<rom name="Hobby Consolas - Mapa Alex Kidd.pdf" size="5165156" crc="c096bd05" md5="c6f616d74efdb9d27b32a2d176d3fe09" sha1="223ac1b0518c81567494db5dfa29a0415fed0ae3"/>
 	</game>
-	<game name="ZZZ-UNK-Mapa Flintstone">
-		<description>ZZZ-UNK-Mapa Flintstone</description>
-		<rom name="Mapa Flintstone.pdf" size="4388352" crc="973c3da6" md5="d66098a0cd9f0936327fdd8d818e54da" sha1="4cc913d39110e126faba5dfdc663a0385bce24f6"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Mapa Flintstone">
+		<description>ZZZ-Hobby Consolas - UNK-Mapa Flintstone</description>
+		<rom name="Hobby Consolas - Mapa Flintstone.pdf" size="4388352" crc="973c3da6" md5="d66098a0cd9f0936327fdd8d818e54da" sha1="4cc913d39110e126faba5dfdc663a0385bce24f6"/>
 	</game>
-	<game name="ZZZ-UNK-Mapa Terminator">
-		<description>ZZZ-UNK-Mapa Terminator</description>
-		<rom name="Mapa Terminator.pdf" size="4364175" crc="7408c004" md5="08e27d3e3746fa88b6b49a11c98457f8" sha1="116e15e04c34c5b6d3f31d2baf35a144dc41c998"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Mapa Terminator">
+		<description>ZZZ-UNK-Hobby Consolas - Mapa Terminator</description>
+		<rom name="Hobby Consolas - Mapa Terminator.pdf" size="4364175" crc="7408c004" md5="08e27d3e3746fa88b6b49a11c98457f8" sha1="116e15e04c34c5b6d3f31d2baf35a144dc41c998"/>
 	</game>
-	<game name="ZZZ-UNK-Poster Castlevania LOS+Mafia 2">
-		<description>ZZZ-UNK-Poster Castlevania LOS+Mafia 2</description>
-		<rom name="Poster Castlevania LOS+Mafia 2.pdf" size="8193558" crc="a92ecd0d" md5="a58975e324d87d5d9470e56814241e38" sha1="2a6193d38443465aff71a2b88108a935febf5580"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Poster Castlevania LOS+Mafia 2">
+		<description>ZZZ-Hobby Consolas - UNK-Poster Castlevania LOS+Mafia 2</description>
+		<rom name="Hobby Consolas - Poster Castlevania LOS+Mafia 2.pdf" size="8193558" crc="a92ecd0d" md5="a58975e324d87d5d9470e56814241e38" sha1="2a6193d38443465aff71a2b88108a935febf5580"/>
 	</game>
-	<game name="ZZZ-UNK-Poster Cool Spot-Flashback">
-		<description>ZZZ-UNK-Poster Cool Spot-Flashback</description>
-		<rom name="Poster Cool Spot-Flashback.pdf" size="2845762" crc="dbad0b79" md5="c989e6363d698816e6494dd0c3833213" sha1="46feba30468cbbe7d272a3ddedace60e77b5db09"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Poster Cool Spot+Flashback">
+		<description>ZZZ-UNK-Hobby Consolas - Poster Cool Spot+Flashback</description>
+		<rom name="Hobby Consolas - Poster Cool Spot+Flashback.pdf" size="2845762" crc="dbad0b79" md5="c989e6363d698816e6494dd0c3833213" sha1="46feba30468cbbe7d272a3ddedace60e77b5db09"/>
 	</game>
-	<game name="ZZZ-UNK-Poster Hobby Consolas Tomb Raider 2">
-		<description>ZZZ-UNK-Poster Hobby Consolas Tomb Raider 2</description>
-		<rom name="Poster Hobby Consolas Tomb Raider 2.pdf" size="7637610" crc="6e9ecbfa" md5="d4d978bcd018a33525ab8d640cd955c7" sha1="ecb5717e708fb3a1df06190cae044f3bcdb99105"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Poster Tomb Raider 2">
+		<description>ZZZ-UNK-Hobby Consolas - Poster Tomb Raider 2</description>
+		<rom name="Hobby Consolas - Poster Tomb Raider 2.pdf" size="7637610" crc="6e9ecbfa" md5="d4d978bcd018a33525ab8d640cd955c7" sha1="ecb5717e708fb3a1df06190cae044f3bcdb99105"/>
 	</game>
-	<game name="ZZZ-UNK-Poster MazinWars+Battletoads">
-		<description>ZZZ-UNK-Poster MazinWars+Battletoads</description>
-		<rom name="Poster MazinWars+Battletoads.pdf" size="9536601" crc="c5942833" md5="ac67ef896baefcd2778a1e8f6c2d0d8b" sha1="70daa5aec36290d5d358984aedbc5133bf6d4a12"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Poster MazinWars+Battletoads">
+		<description>ZZZ-UNK-Hobby Consolas - Poster MazinWars+Battletoads</description>
+		<rom name="Hobby Consolas - Poster MazinWars+Battletoads.pdf" size="9536601" crc="c5942833" md5="ac67ef896baefcd2778a1e8f6c2d0d8b" sha1="70daa5aec36290d5d358984aedbc5133bf6d4a12"/>
 	</game>
-		<game name="ZZZ-UNK-Guia Final Fantasy VII (HOBBY CONSOLAS)">
-		<description>ZZZ-UNK-Guia Final Fantasy VII (HOBBY CONSOLAS)</description>
-		<rom name="ZZZ-UNK-Guia Final Fantasy VII (HOBBY CONSOLAS).pdf" size="10021262" crc="cb3d2bea" md5="73d09f4c504224a3df7ffea0030b2e40" sha1="19f4d67c24ada313e5b4124ed4f07a26a76f616a"/>
+		<game name="ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII">
+		<description>ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII</description>
+		<rom name="ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII.pdf" size="10021262" crc="cb3d2bea" md5="73d09f4c504224a3df7ffea0030b2e40" sha1="19f4d67c24ada313e5b4124ed4f07a26a76f616a"/>
 	</game>
 </datafile>
