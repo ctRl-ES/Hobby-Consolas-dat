@@ -509,7 +509,7 @@
 	<game name="Hobby Consolas - Issue 102 (2000-03)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 102 (2000-03)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 102 (2000-03)(Hobby Press)(ES).pdf" size="44892842" crc="9f892904" md5="8b4804f2d8d5b8337bc5e7a803dedf70" sha1="8526d6072ad69e6c96e4ef1ee2c8d20ab0a15c07"/>
-		<rom name="Hobby Consolas - Resident Evil 3 guide (2000-03)(Hobby Press)(ES).pdf" size="41300289" crc="552c1333" md5="786842b87bbe724db96cf86a9fee4649" sha1="0ca6d239aad2d9769d2577236302984d1474845d"/>
+		<rom name="Hobby Consolas - Guía completa Resident Evil 3 Nemesis (2000-03)(Hobby Press)(ES).pdf" size="33870710" crc="b1373bc6" md5="1a5eeea5b6bab35a388ac782db19f5bb" sha1="f5c6fd5c9c0fb326f429b54fae09713911a2134b"/>
 	</game>
 	<game name="Hobby Consolas - Issue 103 (2000-04)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 103 (2000-04)(Hobby Press)(ES)</description>
@@ -806,9 +806,9 @@
 		<description>Hobby Consolas - Issue 244 (2012-01)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 244 (2012-01)(Hobby Press)(ES).pdf" size="89266998" crc="eb7709d3" md5="00f3ca07143f8ba4d3ea03c102e40b1f" sha1="98b0c55a75dd1497a0853acf2c13b890303b000a"/>
 	</game>
-	<game name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)">
-		<description>Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)</description>
-		<rom name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)" size="24563418" crc="0851111c" md5="a97b99809c34380c383c48b87979d580" sha1="a094eb6fe318dc8b9992c28787667960720983ae"/>
+	<game name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)[missing poster Final Fantasy XIII-2+Resident Evil Revelations]">
+		<description>Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)[missing poster Final Fantasy XIII-2+Resident Evil Revelations]</description>
+		<rom name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES).pdf" size="24563418" crc="0851111c" md5="a97b99809c34380c383c48b87979d580" sha1="a094eb6fe318dc8b9992c28787667960720983ae"/>
 	</game>
 	<game name="Hobby Consolas - Issue 248 (2012-05)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 248 (2012-05)(Hobby Press)(ES)</description>
@@ -870,13 +870,9 @@
 		<description>ZZZ-UNK-Hobby Consolas - Especial Guias Imprescindibles Playstation 03</description>
 		<rom name="Hobby Consolas - Especial Guias Imprescindibles Playstation 03.pdf" size="124703843" crc="595a191a" md5="abe836df8a79ad6dd86e74dd02148264" sha1="1bf212348a8287cd25ee3e2d14b1a3cacb3e800e"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas - Especial Videojuegos 2004">
-		<description>ZZZ-UNK-Hobby Consolas - Especial Videojuegos 2004</description>
-		<rom name="Hobby Consolas - Especial Videojuegos 2004.pdf" size="157319623" crc="216a3773" md5="04a81f5cd1f53f40d99d8a99934ae4a9" sha1="0ce1a56ff5337b7f87a5cc783188afdb1266d8a8"/>
-	</game>
-	<game name="ZZZ-UNK-Hobby Consolas - Guía Resident Evil 3 Nenemis">
-		<description>ZZZ-UNK-Hobby Consolas Guía Resident Evil 3 Nenemis</description>
-		<rom name="Hobby Consolas - Guía Resident Evil 3 Nenemis.pdf" size="33870710" crc="b1373bc6" md5="1a5eeea5b6bab35a388ac782db19f5bb" sha1="f5c6fd5c9c0fb326f429b54fae09713911a2134b"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Videojuegos 2004 (2004)(Hobby Press)(ES)">
+		<description>ZZZ-UNK-Hobby Consolas - Videojuegos 2004 (2004)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Videojuegos 2004 (2004)(Hobby Press)(ES).pdf" size="157319623" crc="216a3773" md5="04a81f5cd1f53f40d99d8a99934ae4a9" sha1="0ce1a56ff5337b7f87a5cc783188afdb1266d8a8"/>
 	</game>
 	<game name="ZZZ-UNK-Hobby Consolas - La Gran Guía del Comprador de Videojuegos">
 		<description>ZZZ-UNK-Hobby Consolas - La Gran Guía del Comprador de Videojuegos</description>
