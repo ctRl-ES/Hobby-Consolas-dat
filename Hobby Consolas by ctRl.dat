@@ -303,7 +303,8 @@
 	<game name="Hobby Consolas - Issue 057 (1996-06)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 057 (1996-06)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 057 (1996-06)(Hobby Press)(ES).pdf" size="124107708" crc="1f1e94b7" md5="b89e3ebaecba534913ec6b529be87dea" sha1="b5efc2b36a3c6a3f6483f9917a82df97af745611"/>
-	</game>
+		<rom name="Hobby Consolas - Poster Eurocopa 96 (1996-06)(Hobby Press)(ES).pdf" size="7543334" crc="64859f02" md5="2bc30ad2840dde4871405af25c031a84" sha1="63af7419d7e935fffac9f04b01213f9f0f68e27d"/>
+	</game>		
 	<game name="Hobby Consolas - Issue 058 (1996-07)(Hobby Press)(ES)[missing poster Olympic Games]">
 		<description>Hobby Consolas - Issue 058 (1996-07)(Hobby Press)(ES)[missing poster Olympic Games]</description>
 		<rom name="Hobby Consolas - Issue 058 (1996-07)(Hobby Press)(ES).pdf" size="104539189" crc="d0c78476" md5="d3b103fd6faadfa420fbba98df6a455e" sha1="0308cb203032d512d141e8121b148fffefe70387"/>
@@ -881,10 +882,6 @@
 	<game name="ZZZ-UNK-Hobby Consolas - Poster Calendario Mundial 98">
 		<description>ZZZ-UNK-Hobby Consolas - Poster Calendario Mundial 98</description>
 		<rom name="Hobby Consolas - Poster Calendario Mundial 98.pdf" size="8449941" crc="9911a676" md5="0d1c97990cfd43b89fd56a404d16c137" sha1="ab20129230a24ddb4969432224901838277f5175"/>
-	</game>
-	<game name="ZZZ-UNK-Hobby Consolas - Poster Eurocopa 96">
-		<description>ZZZ-UNK-Hobby Consolas - Poster Eurocopa 96</description>
-		<rom name="Hobby Consolas - Poster Eurocopa 96.pdf" size="7543334" crc="64859f02" md5="2bc30ad2840dde4871405af25c031a84" sha1="63af7419d7e935fffac9f04b01213f9f0f68e27d"/>
 	</game>
 	<game name="ZZZ-UNK-Hobby Consolas - Videojuegos 2005">
 		<description>ZZZ-UNK-Hobby Consolas - Videojuegos 2005</description>
