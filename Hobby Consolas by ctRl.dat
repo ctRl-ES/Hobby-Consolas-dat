@@ -82,6 +82,7 @@
 	<game name="Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES)[missing poster]">
 		<description>Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES)[missing poster]</description>
 		<rom name="Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES).pdf" size="169954354" crc="356f7e65" md5="6adf9e9f13f479ed908f3a6a738d9bc3" sha1="00fa8ce6d50665113311863c8de90fe985da6930"/>
+		<rom name="Hobby Consolas - Flintstones map (1992-12)(Hobby Press)(ES).pdf" size="4388352" crc="973c3da6" md5="d66098a0cd9f0936327fdd8d818e54da" sha1="4cc913d39110e126faba5dfdc663a0385bce24f6"/>
 		<rom name="Hobby Consolas - 431 Juegos Comentados (1992-12)(Hobby Press)(ES).pdf" size="21318692" crc="bd9d3ea2" md5="35ce36c02ba872c2cab61491b947ef12" sha1="b58df136caa20751b44a234902839a3efc71ba78"/>
 		<rom name="15 - Felices Novedades, Hobby Consolas Nº15, Diciembre 1992.avi" size="172527616" crc="da38efab" md5="9d161c97a6d10c696868807d0c19a94b" sha1="0f9ac7af99d3d155cc053d13b7ee7175319dcbd7"/>
 		<rom name="15 - Felices Novedades, Hobby Consolas Nº15, Diciembre 1992.jpg" size="208379" crc="97f54a88" md5="584d9ba9f391de5bb0c228f4d7655a8c" sha1="4903a7d4772305b456e8aff72dd43be812dcfa3c"/>
@@ -118,6 +119,7 @@
 	<game name="Hobby Consolas - Issue 022 (1993-07)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 022 (1993-07)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 022 (1993-07)(Hobby Press)(ES).pdf" size="145102274" crc="5608b6ae" md5="d98b2a697b0c46e84f18cd98bbe85e08" sha1="238da709235d7729b37b19e0cf4fd271b8fd9521"/>
+		<rom name="Hobby Consolas - Poster MazinWars+Battletoads (1993-07)(Hobby Press)(ES).pdf" size="9536601" crc="c5942833" md5="ac67ef896baefcd2778a1e8f6c2d0d8b" sha1="70daa5aec36290d5d358984aedbc5133bf6d4a12"/>
 	</game>
 	<game name="Hobby Consolas - Issue 023 (1993-08)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 023 (1993-08)(Hobby Press)(ES)</description>
@@ -390,8 +392,8 @@
 		<rom name="75 - Sega Saturn Contraprográmate, Hobby Consolas Nº75, Diciembre 1997.avi" size="102918144" crc="3521d775" md5="e58d52aa03e4b207d6e88a25c1ab1928" sha1="8c4648d613d4f3c53b340dbd9dfa24e7f8bbe345"/>
 		<rom name="75 - Sega Saturn Contraprográmate, Hobby Consolas Nº75, Diciembre 1997.jpg" size="2977866" crc="d33b892f" md5="5dd8fc246fcd4bbb58d62458f701b778" sha1="42e51dfae8082aa2b151afb67e70aac25017cf10"/>
 	</game>
-	<game name="Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES)">
-		<description>Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES)</description>
+	<game name="Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES)[missing 1998 Tomb Raider calendar]">
+		<description>Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES)[missing 1998 Tomb Raider calendar]</description>
 		<rom name="Hobby Consolas - Issue 076 (1998-01)(Hobby Press)(ES).pdf" size="125825656" crc="bedb9e92" md5="7d0dc3641c524eb8f4b1faa2cab90977" sha1="9f473ea01076e58a23c3440bbe64692adf910af4"/>
 	</game>
 	<game name="Hobby Consolas - Issue 077 (1998-02)(Hobby Press)(ES)[missing 1998 calendar Tomb Raider]">
@@ -891,13 +893,9 @@
 		<description>ZZZ-UNK-Hobby Consolas - Libro de las Portátiles</description>
 		<rom name="Hobby Consolas - Libro de las Portátiles.pdf" size="27655664" crc="4701f1cf" md5="91c2abf2241972d6019c4f9f2116c9e9" sha1="77df3db0e2b3f021fe232394c95dffbef09729d8"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas - Mapa Alex Kidd">
-		<description>ZZZ-Hobby Consolas - UNK-Mapa Alex Kidd</description>
-		<rom name="Hobby Consolas - Mapa Alex Kidd.pdf" size="5165156" crc="c096bd05" md5="c6f616d74efdb9d27b32a2d176d3fe09" sha1="223ac1b0518c81567494db5dfa29a0415fed0ae3"/>
-	</game>
-	<game name="ZZZ-UNK-Hobby Consolas - Mapa Flintstone">
-		<description>ZZZ-Hobby Consolas - UNK-Mapa Flintstone</description>
-		<rom name="Hobby Consolas - Mapa Flintstone.pdf" size="4388352" crc="973c3da6" md5="d66098a0cd9f0936327fdd8d818e54da" sha1="4cc913d39110e126faba5dfdc663a0385bce24f6"/>
+	<game name="ZZZ-UNK-Hobby Consolas - Mapa Alex Kidd in Shinobi World">
+		<description>ZZZ-UNK-Hobby Consolas - Mapa Alex Kidd in Shinobi World</description>
+		<rom name="Hobby Consolas - Mapa Alex Kidd in Shinobi World.pdf" size="5165156" crc="c096bd05" md5="c6f616d74efdb9d27b32a2d176d3fe09" sha1="223ac1b0518c81567494db5dfa29a0415fed0ae3"/>
 	</game>
 	<game name="ZZZ-UNK-Hobby Consolas - Mapa Terminator">
 		<description>ZZZ-UNK-Hobby Consolas - Mapa Terminator</description>
@@ -915,11 +913,7 @@
 		<description>ZZZ-UNK-Hobby Consolas - Poster Tomb Raider 2</description>
 		<rom name="Hobby Consolas - Poster Tomb Raider 2.pdf" size="7637610" crc="6e9ecbfa" md5="d4d978bcd018a33525ab8d640cd955c7" sha1="ecb5717e708fb3a1df06190cae044f3bcdb99105"/>
 	</game>
-	<game name="ZZZ-UNK-Hobby Consolas - Poster MazinWars+Battletoads">
-		<description>ZZZ-UNK-Hobby Consolas - Poster MazinWars+Battletoads</description>
-		<rom name="Hobby Consolas - Poster MazinWars+Battletoads.pdf" size="9536601" crc="c5942833" md5="ac67ef896baefcd2778a1e8f6c2d0d8b" sha1="70daa5aec36290d5d358984aedbc5133bf6d4a12"/>
-	</game>
-		<game name="ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII">
+	<game name="ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII">
 		<description>ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII</description>
 		<rom name="ZZZ-UNK-Hobby Consolas - Guía Final Fantasy VII.pdf" size="10021262" crc="cb3d2bea" md5="73d09f4c504224a3df7ffea0030b2e40" sha1="19f4d67c24ada313e5b4124ed4f07a26a76f616a"/>
 	</game>
