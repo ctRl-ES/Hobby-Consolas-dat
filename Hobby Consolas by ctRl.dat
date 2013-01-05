@@ -559,9 +559,9 @@
 	</game>	
 	<game name="Hobby Consolas - Issue 114 (2001-03)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 114 (2001-03)(Hobby Press)(ES)</description>
-		<rom name="Hobby Consolas - Guía Completa Final Fantasy IX (2001-03)(Hobby Press)(ES).pdf" size="35746876" crc="19d1695b" md5="7f39ddeba840c59cf43e38904b294df6" sha1="162f028e9eb827b24ab07989bf6b4ed07beaa28c"/>
 		<rom name="Hobby Consolas - Issue 114 (2001-03)(Hobby Press)(ES).pdf" size="103808975" crc="63e0415a" md5="13e017f7cebdd024a5d8b5204a1c7495" sha1="f5554bc755454e3b8a17a7a86e8568453bcca85a"/>
-		<rom name="Hobby Consolas - 114 - Suplemento.pdf" size="17528648" crc="736a2db8" md5="fa2de7e33bf1dbf69fced9c0a6e2aee0" sha1="1ec378d05969abdc9da59546ac3b80df399cac43"/>
+		<rom name="Hobby Consolas - Guía Completa Final Fantasy IX (2001-03)(Hobby Press)(ES).pdf" size="35746876" crc="19d1695b" md5="7f39ddeba840c59cf43e38904b294df6" sha1="162f028e9eb827b24ab07989bf6b4ed07beaa28c"/>
+		<rom name="Hobby Consolas - Guía Completa Final Fantasy IX (2001-03)(Hobby Press)(ES)[alt01].pdf" size="17528648" crc="736a2db8" md5="fa2de7e33bf1dbf69fced9c0a6e2aee0" sha1="1ec378d05969abdc9da59546ac3b80df399cac43"/>
 	</game>
 	<game name="Hobby Consolas - Issue 115 (2001-04)(Hobby Press)(ES)[missing poster Fear Effect+Vanishing Point]">
 		<description>Hobby Consolas - Issue 115 (2001-04)(Hobby Press)(ES)[missing poster Fear Effect+Vanishing Point]</description>
