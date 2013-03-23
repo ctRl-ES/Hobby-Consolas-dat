@@ -6,8 +6,8 @@
 		<name>Hobby Consolas</name>
 		<description>Hobby Consolas</description>
 		<category>Magazines</category>
-		<version>ctRl-v2013-02-24</version>
-		<date>2013-02-24</date>
+		<version>ctRl-v2013-03-23</version>
+		<date>2013-03-23</date>
 		<author>ctRl</author>
 		<email>ctrl@retrosnes.com</email>
 		<homepage>http://retrosnes.com</homepage>
@@ -345,7 +345,7 @@
 	<game name="Hobby Consolas - Issue 065 (1997-02)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 065 (1997-02)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 065 (1997-02)(Hobby Press)(ES).pdf" size="104931020" crc="a01efd22" md5="f283acbce417b69991c3807ace84db9f" sha1="549f5cf26263060963c3e6d78b8676e4e1d04c5e"/>
-		<rom name="Hobby consolas - Tomb Raider poster (1997-02)(Hobby Press)(ES).pdf" size="8131523" crc="95a0579c" md5="26cfc1b280509ce49a5c71d474ad1150" sha1="697e0c56f3f991312d4218508b11d211c75842df"/>
+		<rom name="Hobby Consolas - Tomb Raider poster (1997-02)(Hobby Press)(ES).pdf" size="8131523" crc="95a0579c" md5="26cfc1b280509ce49a5c71d474ad1150" sha1="697e0c56f3f991312d4218508b11d211c75842df"/>
 	</game>
 	<game name="Hobby Consolas - Issue 066 (1997-03)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 066 (1997-03)(Hobby Press)(ES)</description>
@@ -724,11 +724,15 @@
 	</game>
 	<game name="Hobby Consolas - Issue 162 (2005-03)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 162 (2005-03)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 162 Guia Completa Metal Gear Solid 3 Snake Eater (2005-03)(Hobby Press)(ES).pdf" size="29078892" crc="9e42f21e" md5="af7685f18c2bc62d45261c2eb8d5e5f9" sha1="d615232433e7580d8ec00cb5cea400d19b1e3a92"/>
+		<rom name="Hobby Consolas - Guia Completa Metal Gear Solid 3 Snake Eater (2005-03)(Hobby Press)(ES).pdf" size="29078892" crc="9e42f21e" md5="af7685f18c2bc62d45261c2eb8d5e5f9" sha1="d615232433e7580d8ec00cb5cea400d19b1e3a92"/>
 	</game>
 	<game name="Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES)[missing magazine]</description>
-		<rom name="Hobby Consolas 175 Guias &amp; Trucos El Padrino Driver Paralles Lines (2006-04)(Hobby Press)(ES).pdf" size="40144426" crc="a329895c" md5="f852ebd23eff15230594a92ad4322a44" sha1="e37abafe86e2a4b552577f32dcc37bae01616dc1"/>
+		<rom name="Hobby Consolas - Trucos El Padrino Driver Paralles Lines (2006-04)(Hobby Press)(ES).pdf" size="40144426" crc="a329895c" md5="f852ebd23eff15230594a92ad4322a44" sha1="e37abafe86e2a4b552577f32dcc37bae01616dc1"/>
+	</game>
+	<game name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas - 15 años de videojuegos (2006-09)(Hobby Press)(ES).pdf" size="20095400" crc="c815a500" md5="8e2e0872b6e4f7a6b593838f727d7262" sha1="cd86838cfa5e39d118f01dd41d4df54d1dbd0e6a"/>
 	</game>
 	<game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]">
 		<description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]</description>
@@ -754,9 +758,9 @@
 		<description>Hobby Consolas - Issue 219 (2009-12)(Hobby Press)(ES)[missing posters]</description>
 		<rom name="Hobby Consolas - Issue 219 (2009-12)(Hobby Press)(ES)[missing posters].pdf" size="83769443" crc="daac3f46" md5="e095d64ac6c2346d40193c562d4c35c1" sha1="338605a2de935f2842e9633032af10a2eda5e60c"/>
 	</game>
-	<game name="Hobby consolas - Issue 221 (2012-02)(Hobby Press)(ES)[pagina de publi del escaneador]">
-		<description>Hobby consolas - Issue 221 (2012-02)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
-		<rom name="Hobby consolas - Issue 221 (2012-02)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="59554084" crc="493e441f" md5="7a8bfafbb1f79f86445e0e497d2c23d6" sha1="d8e0146efafa0c130f43a94069ac8a39c3d8a3db"/>
+	<game name="Hobby Consolas - Issue 221 (2012-02)(Hobby Press)(ES)[pagina de publi del escaneador]">
+		<description>Hobby Consolas - Issue 221 (2012-02)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
+		<rom name="Hobby Consolas - Issue 221 (2012-02)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="59554084" crc="493e441f" md5="7a8bfafbb1f79f86445e0e497d2c23d6" sha1="d8e0146efafa0c130f43a94069ac8a39c3d8a3db"/>
 	</game>
 	<game name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]">
 		<description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]</description>
@@ -778,29 +782,39 @@
 		<description>Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]</description>
 		<rom name="Hobby Consolas - Red Dead Redemption (2010-06)(Hobby Press)(ES).pdf" size="38309980" crc="06bfe980" md5="6c9334e8aca16e9ca81c7dbc17bed1dc" sha1="65775caf7ce75df48bb28560ef11f11f3e64d09c"/>
 	</game>
-	<game name="Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[missing magazine]">
-		<description>Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[missing magazine]</description>
+	<game name="Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[pagina de publi del escaneador]">
+		<description>Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="67416294" crc="13dfffa1" md5="a82d55d008501d5ac67ca9d6c2f26620" sha1="5e1af72c28cad670f8a7d61c5d804bc81d18fd43"/>
 		<rom name="Hobby Consolas - Guía Fifa 11 (2010-10)(Hobby Press)(ES).pdf" size="6058944" crc="621abe66" md5="562ace8f4fc8d9199af224fd99cb2a90" sha1="17d5edd57f6f9d72774db4872aa5099a9196772b"/>
 	</game>
-	<game name="Hobby consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador]">
-		<description>Hobby consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
-		<rom name="Hobby consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="95642584" crc="5fe10c35" md5="3cfd8454990427193ed045ab85bbd0f9" sha1="edd713cd8777bd754ac3eb107791072b8c3a314d"/>
+	<game name="Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador]">
+		<description>Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
+		<rom name="Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="95642584" crc="5fe10c35" md5="3cfd8454990427193ed045ab85bbd0f9" sha1="edd713cd8777bd754ac3eb107791072b8c3a314d"/>
 	</game>
-	<game name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing magazine]">
-		<description>Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing magazine]</description>
+	<game name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing Todo sobre 3DS][pagina de publi del escaneador]">
+		<description>Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing Todo sobre 3DS][pagina de publi del escaneador]</description>
+        <rom name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="88964159" crc="291762c0" md5="a52a09e8e64ab7aab0a906676fad81a5" sha1="833f3b53f6f83c15845d46a540de41f2e5681db4"/>
+        <rom name="Hobby Consolas - Guías y trucos (2011-04)(Hobby Press)(ES)[pagina de publi del escaneador].PDF" size="8602731" crc="e506ab5f" md5="752d13a37a82f769db0a3c8f1c1de3ab" sha1="3ac6497181bb37039a96e64eaccecc5b9f443ba2"/>
 		<rom name="Hobby Consolas - Shift 2 Unleashed (2011-04)(Hobby Press)(ES).pdf" size="10306767" crc="c28c026d" md5="d5532666328d66e46a4466b0717f2774" sha1="b2c0aa7ae89887ae56f23e28709bc8269144640a"/>
 	</game>
-	<game name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[missing magazine]">
-		<description>Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[missing magazine]</description>
+	<game name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[pagina de publi del escaneador]">
+		<description>Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
+        <rom name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[pagina de publi del escaneador]" size="82065886" crc="a8824d89" md5="67ecc0b78c06d135e18e49ecdc66c469" sha1="2eb6fe6f9e62c751d7f60573368eaa12b1e6fd8c"/>
+        <rom name="Hobby Consolas - Guías y trucos (2011-05)(Hobby Press)(ES)[pagina de publi del escaneador].PDF" size="5859003" crc="83d01369" md5="1a338babfb9374fafb3cdc053035be3c" sha1="c4fe4896f07b93f004880fc4f7ff4ed94318970b"/>
 		<rom name="Hobby Consolas - Yakuza 4 (2011-05)(Hobby Press)(ES).pdf" size="7229256" crc="ce9ebf4f" md5="e879320e11a5fd3335ab6a17a47a22f2" sha1="1b37336840ce2f931574610fe8f32202f4455c00"/>
 	</game>
-	<game name="Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[missing magazine]">
-		<description>Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[missing magazine]</description>
+	<game name="Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES)[missing magazine]">
+		<description>Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES)[missing magazine]</description>
+		<rom name="Hobby Consolas - Especial Zelda (2011-06)(Hobby Press)(ES).pdf" size="12573641" crc="056ba714" md5="343d19d9343899a7c8f7ba3f0f9a0408" sha1="91eca2348b81be2023569a2b76240e48ce79f55b"/>
+	</game>
+	<game name="Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[pagina de publi del escaneador]">
+		<description>Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
+        <rom name="Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="83103788" crc="f4ccd9c6" md5="feda9f4ccdaf76c7b926d8c59e1a7c8c" sha1="5e54d27476d2a1cd2954321eb5919243038284a6"/>
 		<rom name="Hobby Consolas - Duke Nukem Forever (2011-07)(Hobby Press)(ES).pdf" size="6913965" crc="f0ae0f45" md5="a96797aee9183e03fd70dd3b7e502d64" sha1="28d370323dc22d56e9d047c5a9886ffb4a0a2c71"/>
 	</game>
 	<game name="Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)</description>
-        <rom name="Hobby consolas - Issue 239 (2011-08)(Hobby Press)(ES)[missing poster].pdf" size="21439551" crc="6ac3c752" md5="169e8c499290a217e3a6eb7fb7ba293d" sha1="99383cfb702a568c76353b066b77c9684e0fb2d9"/>
+        <rom name="Hobby Consolas - Issue 239 (2011-08)(Hobby Press)(ES)[missing poster].pdf" size="21439551" crc="6ac3c752" md5="169e8c499290a217e3a6eb7fb7ba293d" sha1="99383cfb702a568c76353b066b77c9684e0fb2d9"/>
 		<rom name="Hobby Consolas - Fear 3 Shadow of the Dammed (2011-08)(Hobby Press)(ES).pdf" size="7415133" crc="d4b46937" md5="8503e5e957069e0a04b9a991e682cc32" sha1="1baab4913b2e7376dc74d0a2f66f7e35d76179bc"/>
 	</game>
 	<game name="Hobby Consolas - Issue 240 (2011-09)(Hobby Press)(ES)[missing guide Resistence 3]">
@@ -814,6 +828,7 @@
 	<game name="Hobby Consolas - Issue 242 (2011-11)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 242 (2011-11)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 242 (2011-11)(Hobby Press)(ES).pdf" size="16666380" crc="496d4aec" md5="8228243b52fed703619095068fd56461" sha1="088089ec817bb68a38ccfe1e9fda3b638c9aff1b"/>
+        <rom name="Hobby Consolas - Issue 242 (2011-11)(Hobby Press)(ES)[alt01].pdf" size="16666767" crc="44141491" md5="ce8b9d7d91f8691bfb18a23e49bae6bc" sha1="362b9f45410f4dd6d5579607abacddd63336b3b2"/>
 	</game>
 	<game name="Hobby Consolas - Issue 243 (2011-12)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 243 (2011-12)(Hobby Press)(ES)</description>
@@ -853,6 +868,10 @@
 		<description>Hobby Consolas - Issue 251 (2012-08)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 251 (2012-08)(Hobby Press)(ES).pdf" size="41355939" crc="303234c7" md5="f3c54272ae42652bafba5e0886acdcbe" sha1="c773d6b3d4dabde4e6468351619616cbf5a3bfad"/>
 	</game>
+	<game name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES).pdf" size="81285444" crc="73ce9700" md5="fb66ec30a1be32c15cd77f5aa06fabab" sha1="83414b98aed7b6e98f797a5e2b55676e17326e6b"/>
+	</game>
 	<game name="Hobby Consolas - Issue 253 (2012-10)(Hobby Press)(ES)">
 		<description>Hobby Consolas - Issue 253 (2012-10)(Hobby Press)(ES)</description>
 		<rom name="Hobby Consolas - Issue 253 (2012-10)(Hobby Press)(ES).pdf" size="46951378" crc="87561f8c" md5="eef79ce232959aed73ba90c392fc8d26" sha1="0d002d16dbca6e01f91d0ebce823f550ec44a921"/>
@@ -885,9 +904,13 @@
 		<description>Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01]</description>
 		<rom name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01].pdf" size="42319363" crc="15026576" md5="b50f12f0fecdf0261cdd4c156f0615a8" sha1="4656ca96c8808ce0943d9fdec8d99576dc8b5507"/>
 	</game>
-	<game name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)">
-		<description>Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES)</description>
-		<rom name="Hobby Consolas - Issue 252 (2012-09)(Hobby Press)(ES).pdf" size="81285444" crc="73ce9700" md5="fb66ec30a1be32c15cd77f5aa06fabab" sha1="83414b98aed7b6e98f797a5e2b55676e17326e6b"/>
+	<game name="Hobby Consolas - Issue 258 (2013-02)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 258 (2013-02)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 258 (2013-02)(Hobby Press)(ES).pdf" size="44828590" crc="d9f728d3" md5="9fc6ad48f8e0e4f06017eac5e8a141e4" sha1="cbce910005ab50a31e447ae311c52f3a21b0e9e2"/>
+	</game>
+	<game name="Hobby Consolas - Issue 259 (2013-03)(Hobby Press)(ES)">
+		<description>Hobby Consolas - Issue 259 (2013-03)(Hobby Press)(ES)</description>
+		<rom name="Hobby Consolas - Issue 259 (2013-03)(Hobby Press)(ES).pdf" size="73725439" crc="b490c7ea" md5="04b0e5ad04812ee3beb1e3554c45daf8" sha1="58fd59dcec36ace4665a8ecb60b6440cc71b5ec1"/>
 	</game>
 	<game name="Videojuegos 2004 (2004)(Hobby Press)(ES)">
 		<description>Videojuegos 2004 (2004)(Hobby Press)(ES)</description>
