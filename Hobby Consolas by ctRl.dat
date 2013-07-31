@@ -6,8 +6,8 @@
         <name>Hobby Consolas</name>
         <description>Hobby Consolas</description>
         <category>Magazines</category>
-        <version>ctRl-v2013-03-23</version>
-        <date>2013-03-23</date>
+        <version>ctRl-v2013-07-31</version>
+        <date>2013-07-31</date>
         <author>ctRl</author>
         <email>ctrl@retrosnes.com</email>
         <homepage>http://retrosnes.com</homepage>
@@ -541,9 +541,9 @@
         <description>Hobby Consolas - Issue 108 (2000-09)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 108 (2000-09)(Hobby Press)(ES).pdf" size="64478426" crc="934730ac" md5="1e7ecb0765e6f632fb6f6767bd5cbd30" sha1="5daccf91fdff8e9d96270f82a88f8c2ebb1b9643"/>
     </game>
-    <game name="Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chronicles]">
-        <description>Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chronicles]</description>
-        <rom name="Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chronicles].pdf" size="72903550" crc="e3626c52" md5="6e8ec1823aea94806e4ea525ef92c8f5" sha1="ae51a241829cc81e28c84565730f672d8de98c40"/>
+    <game name="Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chr.]">
+        <description>Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chr.]</description>
+        <rom name="Hobby Consolas - Issue 109 (2000-10)(Hobby Press)(ES)[missing poster Digimon+Tomb Raider Chr.].pdf" size="72903550" crc="e3626c52" md5="6e8ec1823aea94806e4ea525ef92c8f5" sha1="ae51a241829cc81e28c84565730f672d8de98c40"/>
     </game>
     <game name="Hobby Consolas - Issue 110 (2000-11)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 110 (2000-11)(Hobby Press)(ES)</description>
@@ -702,7 +702,6 @@
     </game>
     <game name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]">
         <description>Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]</description>
-        <rom name="Hobby Consolas - Guía Completa Pice of Persia Las Arenas del Tiempo (2003-12)(Hobby Press)(ES).pdf" size="27176074" crc="c1abd975" md5="529f719f3d36088070463dd3aef1d33e" sha1="b21efe6fc3b4ff3732be7490aaef8044a54fd8e8"/>
         <rom name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES).pdf" size="101450452" crc="92d9544f" md5="31a7c36d1dd6c0b67873dd5f0312bf72" sha1="8873d8a9c115e27d0fb1fa72bc43292abbcc493a"/>
     </game>
     <game name="Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES)[missing poster Final Fantasy XII]">
@@ -791,10 +790,9 @@
         <description>Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador]</description>
         <rom name="Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="95642584" crc="5fe10c35" md5="3cfd8454990427193ed045ab85bbd0f9" sha1="edd713cd8777bd754ac3eb107791072b8c3a314d"/>
     </game>
-    <game name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing Todo sobre 3DS][pagina de publi del escaneador]">
+    <game name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing Todo sobre 3DS][extra page]">
         <description>Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[missing Todo sobre 3DS][pagina de publi del escaneador]</description>
-        <rom name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="88964159" crc="291762c0" md5="a52a09e8e64ab7aab0a906676fad81a5" sha1="833f3b53f6f83c15845d46a540de41f2e5681db4"/>
-        <rom name="Hobby Consolas - Guías y trucos (2011-04)(Hobby Press)(ES)[pagina de publi del escaneador].PDF" size="8602731" crc="e506ab5f" md5="752d13a37a82f769db0a3c8f1c1de3ab" sha1="3ac6497181bb37039a96e64eaccecc5b9f443ba2"/>
+        <rom name="Hobby Consolas - Issue 235 (2011-04)(Hobby Press)(ES)[extra page].pdf" size="88964159" crc="291762c0" md5="a52a09e8e64ab7aab0a906676fad81a5" sha1="833f3b53f6f83c15845d46a540de41f2e5681db4"/>
         <rom name="Hobby Consolas - Shift 2 Unleashed (2011-04)(Hobby Press)(ES).pdf" size="10306767" crc="c28c026d" md5="d5532666328d66e46a4466b0717f2774" sha1="b2c0aa7ae89887ae56f23e28709bc8269144640a"/>
     </game>
     <game name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[pagina de publi del escaneador]">
@@ -846,7 +844,7 @@
     <game name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)[missing poster Final Fantasy XIII-2+Resident Evil Revelations]">
         <description>Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES)[missing poster Final Fantasy XIII-2+Resident Evil Revelations]</description>
         <rom name="Hobby Consolas - Issue 246 (2012-03)(Hobby Press)(ES).pdf" size="24563418" crc="0851111c" md5="a97b99809c34380c383c48b87979d580" sha1="a094eb6fe318dc8b9992c28787667960720983ae"/>
-        <rom name="Hobby Consolas - Issue 246 - Guías y Trucos (2012-02)(Hobby Press)(ES).pdf" size="5811964" crc="865939d9" md5="0d0aa03ef74e8a330c15f99ef7022132" sha1="b3a53695defb1342bb58bb69ed6ed92d62923729"/>
+        <rom name="Hobby Consolas - Guías y Trucos (2012-02)(Hobby Press)(ES).pdf" size="5811964" crc="865939d9" md5="0d0aa03ef74e8a330c15f99ef7022132" sha1="b3a53695defb1342bb58bb69ed6ed92d62923729"/>
     </game>
     <game name="Hobby Consolas - Issue 247 (2012-04)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 247 (2012-04)(Hobby Press)(ES)</description>
