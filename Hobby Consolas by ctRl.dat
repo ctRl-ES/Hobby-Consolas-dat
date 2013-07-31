@@ -587,6 +587,7 @@
     <game name="Hobby Consolas - Issue 119 (2001-08)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 119 (2001-08)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 119 (2001-08)(Hobby Press)(ES).pdf" size="114780413" crc="16baa7db" md5="26d93932bc8a23e1da12dab259afced5" sha1="b34da6e27d4eb1a45a72ee72fa1a8bbca70d075e"/>
+        <rom name="Hobby Consolas - Guía Completa Pice of Persia Las Arenas del Tiempo (2003-12)(Hobby Press)(ES).pdf" size="27176074" crc="c1abd975" md5="529f719f3d36088070463dd3aef1d33e" sha1="b21efe6fc3b4ff3732be7490aaef8044a54fd8e8"/>
     </game>
     <game name="Hobby Consolas - Issue 120 (2001-09)(Hobby Press)(ES)[missing poster Aki Ross Final Fantasy]">
         <description>Hobby Consolas - Issue 120 (2001-09)(Hobby Press)(ES)[missing poster Aki Ross Final Fantasy]</description>
@@ -703,6 +704,7 @@
     <game name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]">
         <description>Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES)[missing poster Underground+True Crime]</description>
         <rom name="Hobby Consolas - Issue 147 (2003-12)(Hobby Press)(ES).pdf" size="101450452" crc="92d9544f" md5="31a7c36d1dd6c0b67873dd5f0312bf72" sha1="8873d8a9c115e27d0fb1fa72bc43292abbcc493a"/>
+		<rom name="Hobby Consolas - Guía Completa Pice of Persia Las Arenas del Tiempo (2003-12)(Hobby Press)(ES).pdf" size="29567861" crc="fc28dcd6" md5="7d16d7307558d1a3eeb29a56ed5b28aa" sha1="a55d4a78f66cdbaeeffd7cd0ff33f520929805ce"/>
     </game>
     <game name="Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES)[missing poster Final Fantasy XII]">
         <description>Hobby Consolas - Issue 148 (2004-01)(Hobby Press)(ES)[missing poster Final Fantasy XII]</description>
