@@ -955,4 +955,8 @@
         <description>ZZZ-UNK-Hobby Consolas - Guía Platinum Final Fantasy VII</description>
         <rom name="ZZZ-UNK-Hobby Consolas - Guía Platinum Final Fantasy VII.pdf" size="10021262" crc="cb3d2bea" md5="73d09f4c504224a3df7ffea0030b2e40" sha1="19f4d67c24ada313e5b4124ed4f07a26a76f616a"/>
     </game>
+    <game name="ZZZ-UNK-Hobby Consolas - Anuario 2005 (2006)(Hobby Press)(ES)">
+        <description>ZZZ-UNK-Hobby Consolas - Anuario 2005 (2006)(Hobby Press)(ES)</description>
+        <rom name="ZZZ-UNK-Hobby Consolas - Anuario 2005 (2006)(Hobby Press)(ES).iso" size="446631936" crc="4a4adbfd" md5="f83714a4e2515692d10cd26defcd3af3" sha1="5ab4010976f1bbc427072a0133e5f75d0ee606db"/>
+    </game>
 </datafile>
