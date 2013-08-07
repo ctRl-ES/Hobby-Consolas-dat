@@ -747,8 +747,9 @@
         <description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES).pdf" size="36524021" crc="372cb1c7" md5="7b49522eb04e65451c3dcdac4ce1f582" sha1="af1177a9b0b8c6597a4e0d39ebbc473bd555c4dd"/>
     </game>
-    <game name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)[missing magazine]">
-        <description>Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)[missing magazine]</description>
+    <game name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES).cbr" size="104594393" crc="113eab2" md5="fb6ef426b513f16f15b8f8649e70d10b" sha1="c82cbc94c592f75b9877bb4908c5847ebfc1e611"/>
         <rom name="Hobby Consolas 201 GTA 4 (2008-06)(Hobby Press)(ES).pdf" size="47650940" crc="587fa8f8" md5="274e8445ef022cf2736d0ed862baf540" sha1="e86311f94ad0475217da29f707ec83306e9e36fb"/>
     </game>
     <game name="Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)[missing poster]">
