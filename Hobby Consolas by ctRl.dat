@@ -918,6 +918,10 @@
         <description>Hobby Consolas - Issue 259 (2013-03)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 259 (2013-03)(Hobby Press)(ES).pdf" size="73725439" crc="b490c7ea" md5="04b0e5ad04812ee3beb1e3554c45daf8" sha1="58fd59dcec36ace4665a8ecb60b6440cc71b5ec1"/>
     </game>
+    <game name="Hobby Consolas - Issue 263 (2013-07)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 263 (2013-07)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 263 (2013-07)(Hobby Press)(ES).pdf" size="73944436" crc="742dcdff" md5="75d93b4ec3fbf378c8fc81ec4b8e1dd1" sha1="abadaef66b3e70da482596e5bda4db320f6657c9"/>
+    </game>
     <game name="Videojuegos 2004 (2004)(Hobby Press)(ES)">
         <description>Videojuegos 2004 (2004)(Hobby Press)(ES)</description>
         <rom name="Videojuegos 2004 (2004)(Hobby Press)(ES).pdf" size="157319623" crc="216a3773" md5="04a81f5cd1f53f40d99d8a99934ae4a9" sha1="0ce1a56ff5337b7f87a5cc783188afdb1266d8a8"/>
