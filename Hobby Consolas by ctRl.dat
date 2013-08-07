@@ -752,6 +752,11 @@
         <rom name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES).cbr" size="104594393" crc="113eab2" md5="fb6ef426b513f16f15b8f8649e70d10b" sha1="c82cbc94c592f75b9877bb4908c5847ebfc1e611"/>
         <rom name="Hobby Consolas 201 GTA 4 (2008-06)(Hobby Press)(ES).pdf" size="47650940" crc="587fa8f8" md5="274e8445ef022cf2736d0ed862baf540" sha1="e86311f94ad0475217da29f707ec83306e9e36fb"/>
     </game>
+    <game name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)  </description>
+        <rom name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES).cbr" size="104796424" crc="e9ce6a40" md5="e3d17d25348f033d4c2cf10b37cb343e" sha1="c383ce1303dd22b80c8818a5b1007b55cbb619d5"/>
+        <rom name="Hobby Consolas - Super Smash Bros Brawl MGS4 (2008-07)(Hobby Press)(ES).pdf" size="43588257" crc="d4ce9db0" md5="0979f7fd641f6ed0ee4d331b5860dc16" sha1="bde23f748c8001e8a9019ee6aac47ac16138c6e6"/>
+    </game>
     <game name="Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES).pdf" size="66875740" crc="a17ac6db" md5="6626f92002013fb6fb2b90e9fa8a9c89" sha1="9f109c11d0a0dfa3e9c50728d16d7a0e14c7cdad"/>
@@ -771,10 +776,6 @@
     <game name="Hobby Consolas - Issue 221 (2012-02)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 221 (2012-02)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 221 (2012-02)(Hobby Press)(ES).pdf" size="59554084" crc="493e441f" md5="7a8bfafbb1f79f86445e0e497d2c23d6" sha1="d8e0146efafa0c130f43a94069ac8a39c3d8a3db"/>
-    </game>
-    <game name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]">
-        <description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)[missing magazine]</description>
-        <rom name="Hobby Consolas - Super Smash Bros Brawl MGS4 (2008-07)(Hobby Press)(ES).pdf" size="43588257" crc="d4ce9db0" md5="0979f7fd641f6ed0ee4d331b5860dc16" sha1="bde23f748c8001e8a9019ee6aac47ac16138c6e6"/>
     </game>
     <game name="Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES)[missing magazine]">
         <description>Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES)[missing magazine]</description>
