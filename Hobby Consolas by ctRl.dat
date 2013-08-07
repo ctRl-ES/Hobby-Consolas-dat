@@ -738,8 +738,9 @@
         <rom name="Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES).pdf" size="84106315" crc="95d40cf1" md5="7526c61aa6f9ef15b9819cbe24b40c64" sha1="145057868b877b06f5280e94a9f03c6bf490bf76"/>
         <rom name="Hobby Consolas - Trucos El Padrino Driver Paralles Lines (2006-04)(Hobby Press)(ES).pdf" size="40144426" crc="a329895c" md5="f852ebd23eff15230594a92ad4322a44" sha1="e37abafe86e2a4b552577f32dcc37bae01616dc1"/>
     </game>
-    <game name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)[missing magazine]">
-        <description>Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES)[missing magazine]</description>
+    <game name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES).pdf" size="39613677" crc="7e6ae03d" md5="36e0d321e29ad76db2c234a4e2b5bd05" sha1="b0021a3d67c9aa9f1c0a39b6af20b3c915a44cb8"/>
         <rom name="Hobby Consolas - 15 años de videojuegos (2006-09)(Hobby Press)(ES).pdf" size="20095400" crc="c815a500" md5="8e2e0872b6e4f7a6b593838f727d7262" sha1="cd86838cfa5e39d118f01dd41d4df54d1dbd0e6a"/>
     </game>
     <game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]">
