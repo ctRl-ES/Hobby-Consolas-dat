@@ -743,9 +743,9 @@
         <rom name="Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES).pdf" size="39613677" crc="7e6ae03d" md5="36e0d321e29ad76db2c234a4e2b5bd05" sha1="b0021a3d67c9aa9f1c0a39b6af20b3c915a44cb8"/>
         <rom name="Hobby Consolas - 15 años de videojuegos (2006-09)(Hobby Press)(ES).pdf" size="20095400" crc="c815a500" md5="8e2e0872b6e4f7a6b593838f727d7262" sha1="cd86838cfa5e39d118f01dd41d4df54d1dbd0e6a"/>
     </game>
-    <game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]">
-        <description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar]</description>
-        <rom name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)[missing 2009 calendar].pdf" size="36524021" crc="372cb1c7" md5="7b49522eb04e65451c3dcdac4ce1f582" sha1="af1177a9b0b8c6597a4e0d39ebbc473bd555c4dd"/>
+    <game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES).pdf" size="36524021" crc="372cb1c7" md5="7b49522eb04e65451c3dcdac4ce1f582" sha1="af1177a9b0b8c6597a4e0d39ebbc473bd555c4dd"/>
     </game>
     <game name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)[missing magazine]">
         <description>Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)[missing magazine]</description>
