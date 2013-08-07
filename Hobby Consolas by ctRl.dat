@@ -6,7 +6,7 @@
         <name>Hobby Consolas</name>
         <description>Hobby Consolas</description>
         <category>Magazines</category>
-        <version>20130805_ctRl</version>
+        <version>20130805</version>
         <date>2013-08-05</date>
         <author>ctRl</author>
         <email>ctrl@retrosnes.com</email>
@@ -781,7 +781,7 @@
     </game>
     <game name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]">
         <description>Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]</description>
-        <rom name="Hobby Consolas - Monster Hunter 3 Tri Guia Practica (2010-05)(Hobby Press)(ES).pdf" size="12567917" crc="a322297c" md5="3febcf25a7ebb710489e1379d68d364a" sha1="6ebe9137a16ee2f7ec9b57994e45a5bc3b35cc48"/>
+        <rom name="Hobby Consolas - Monster Hunter 3 Tri Guía Práctica (2010-05)(Hobby Press)(ES).pdf" size="12567917" crc="a322297c" md5="3febcf25a7ebb710489e1379d68d364a" sha1="6ebe9137a16ee2f7ec9b57994e45a5bc3b35cc48"/>
     </game>
     <game name="Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]">
         <description>Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]</description>
