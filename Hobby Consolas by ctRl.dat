@@ -899,25 +899,16 @@
     <game name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES).pdf" size="122466505" crc="94942c87" md5="a273271c87420a5439a5b60ad568dda8" sha1="824e4bae424a3b819b4ae39610c67947e284bc42"/>
-    </game>
-    <game name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)[alt01]">
-        <description>Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)[alt01]</description>
         <rom name="Hobby Consolas - Issue 255 (2012-11)(Hobby Press)(ES)[alt01].pdf" size="51315165" crc="919bec5a" md5="9d61c540d57c7a7903cdd881abc04e8a" sha1="232db9bcee40e44bf81049155cea82d399db3481"/>
     </game>
     <game name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES).pdf" size="47789909" crc="ee08962b" md5="86845420e506c55c1304012005c9c787" sha1="c969cc60d0207946c48cf290774102d2318401f8"/>
-    </game>
-    <game name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)[alt01]">
-        <description>Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)[alt01]</description>
         <rom name="Hobby Consolas - Issue 256 (2012-12)(Hobby Press)(ES)[alt01].pdf" size="36717211" crc="af39c0a7" md5="6340212de8938b1c6e50d96838e601d3" sha1="34ec560a5e6122f97414e98d705822e8f0440b08"/>
     </game>
     <game name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES).pdf" size="42109308" crc="7f09326c" md5="d3b26f87d62431c29c84809655e8706b" sha1="736c709182eee99e43855efe8b999ad2ab852ee3"/>
-    </game>
-    <game name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01]">
-        <description>Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01]</description>
         <rom name="Hobby Consolas - Issue 257 (2013-01)(Hobby Press)(ES)[alt01].pdf" size="42319363" crc="15026576" md5="b50f12f0fecdf0261cdd4c156f0615a8" sha1="4656ca96c8808ce0943d9fdec8d99576dc8b5507"/>
     </game>
     <game name="Hobby Consolas - Issue 258 (2013-02)(Hobby Press)(ES)">
