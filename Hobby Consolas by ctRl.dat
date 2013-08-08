@@ -722,6 +722,10 @@
         <rom name="Hobby Consolas - Guía Completa Final Fantasy X-2 (2004-03)(Hobby Press)(ES).pdf" size="35208728" crc="6b102e0e" md5="312b6e3a3c54214815df6beb1ce03a04" sha1="08618f05c5200fab7f247c53c8b3d6aca5bdc067"/>
         <rom name="Hobby Consolas - Issue 150 (2004-03)(Hobby Press)(ES).pdf" size="102923379" crc="d02c6235" md5="a43b0d29b6c4b98560b270526534b3fb" sha1="4f2deab2b670f88e1a616a3e1b31ecb25af20ef3"/>
     </game>
+    <game name="Hobby Consolas - Issue 151 (2004-04)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 151 (2004-04)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 151 (2004-04)(Hobby Press)(ES).pdf" size="102634774" crc="f1c64f7c" md5="cbea1756eee7f39d3ba6586cfa7b0ed1" sha1="c179a30c4a4c3ae77fba6265b3ad33209eebbef2"/>
+    </game>
     <game name="Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES).pdf" size="157737549" crc="e05eafc6" md5="45b420ad046db508c20a208371e97bf9" sha1="9510fd1a3b2178e4925467491a083bea668a50e1"/>
