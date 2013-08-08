@@ -782,8 +782,9 @@
         <rom name="Hobby Consolas - Issue 222 (2010-03)(Hobby Press)(ES).pdf" size="51724031" crc="1b6450f2" md5="1e4aee478cb5785b71fe9d1b1db6b4d2" sha1="9674a62cf62d883418fcfc446fce67bc21e4c88e"/>
         <rom name="Hobby Consolas - Suplemento Especial FF XIII I (2010-03)(Hobby Press)(ES).pdf" size="49099962" crc="f0ba1f1b" md5="03b6a31fe463ca4320d60fecf0a0fa52" sha1="d58c42ca773bd3393e8ea21546cf42c68c500f99"/>
     </game>
-    <game name="Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)[missing magazine]">
-        <description>Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)[missing magazine]</description>
+    <game name="Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES).pdf" size="56841167" crc="2a84c914" md5="f28757b2f321854849a29dc226c5a8bd" sha1="46d067d6aba1511e85c94f0441786de1ca3d05cc"/>
         <rom name="Hobby Consolas - Suplemento Especial FF XIII y II (2010-04)(Hobby Press)(ES).pdf" size="34303723" crc="c8cf6057" md5="fc3391c4bbbffb46d38d403480dd52bd" sha1="ecdd905c97c2a988fbbaa1370dbe4b7ce80a714b"/>
     </game>
     <game name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]">
