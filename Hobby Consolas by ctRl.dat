@@ -816,8 +816,9 @@
         <rom name="Hobby Consolas - Issue 236 (2011-05)(Hobby Press)(ES)[pagina de publi del escaneador].pdf" size="82065886" crc="a8824d89" md5="67ecc0b78c06d135e18e49ecdc66c469" sha1="2eb6fe6f9e62c751d7f60573368eaa12b1e6fd8c"/>
         <rom name="Hobby Consolas - Guías & Trucos Yakuza 4 (2011-05)(Hobby Press)(ES).pdf" size="7229256" crc="ce9ebf4f" md5="e879320e11a5fd3335ab6a17a47a22f2" sha1="1b37336840ce2f931574610fe8f32202f4455c00"/>
     </game>
-    <game name="Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES)[missing magazine]">
-        <description>Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES)[missing magazine]</description>
+    <game name="Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 237 (2011-06)(Hobby Press)(ES).pdf" size="78857280" crc="801abf83" md5="65698e1e8b113f6f58b35a338ed74969" sha1="db1c0191e4c2e2928cdfb2ea4df9f18deddf59a8"/>
         <rom name="Hobby Consolas - Especial Zelda (2011-06)(Hobby Press)(ES).pdf" size="12573641" crc="056ba714" md5="343d19d9343899a7c8f7ba3f0f9a0408" sha1="91eca2348b81be2023569a2b76240e48ce79f55b"/>
     </game>
     <game name="Hobby Consolas - Issue 238 (2011-07)(Hobby Press)(ES)[pagina de publi del escaneador]">
