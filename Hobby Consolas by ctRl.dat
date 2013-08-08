@@ -787,8 +787,9 @@
         <rom name="Hobby Consolas - Issue 223 (2010-04)(Hobby Press)(ES).pdf" size="56841167" crc="2a84c914" md5="f28757b2f321854849a29dc226c5a8bd" sha1="46d067d6aba1511e85c94f0441786de1ca3d05cc"/>
         <rom name="Hobby Consolas - Suplemento Especial FF XIII y II (2010-04)(Hobby Press)(ES).pdf" size="34303723" crc="c8cf6057" md5="fc3391c4bbbffb46d38d403480dd52bd" sha1="ecdd905c97c2a988fbbaa1370dbe4b7ce80a714b"/>
     </game>
-    <game name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]">
-        <description>Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)[missing magazine]</description>
+    <game name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 224 (2010-05)(Hobby Press)(ES).pdf" size="57172282" crc="8500fda" md5="cba6c38e6c7d70d6cbacea701cbf0307" sha1="596e8bcb47c661636dcf19b7cb0777ce6fb7298d"/>
         <rom name="Hobby Consolas - Monster Hunter 3 Tri Guía Práctica (2010-05)(Hobby Press)(ES).pdf" size="12567917" crc="a322297c" md5="3febcf25a7ebb710489e1379d68d364a" sha1="6ebe9137a16ee2f7ec9b57994e45a5bc3b35cc48"/>
     </game>
     <game name="Hobby Consolas - Issue 225 (2010-06)(Hobby Press)(ES)[missing magazine]">
