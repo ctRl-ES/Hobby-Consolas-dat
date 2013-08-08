@@ -18,7 +18,6 @@
     <game name="Hobby Consolas - Issue 001 (1991-10)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 001 (1991-10)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 001 (1991-10)(Hobby Press)(ES).pdf" size="144545229" crc="2a74bcba" md5="7b96bf3d7ac986ad589f7265209f4954" sha1="e559603e9543ce51f98c1f350a62f22419af39da"/>
-        <rom name="Hobby Consolas - Folleto Suscripción (1991-10)(Hobby Press)(ES).jpg" size="323336" crc="7fc2e8d1" md5="8b7791912528d584b4981ca506f0619e" sha1="0c5de7da2242216f817422fe3653c70181a3456a"/>
     </game>
     <game name="Hobby Consolas - Issue 002 (1991-11)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 002 (1991-11)(Hobby Press)(ES)</description>
@@ -966,5 +965,9 @@
     <game name="Hobby Consolas - Anuario 2005 (2006)(Hobby Press)(ES)">
         <description>Hobby Consolas - Anuario 2005 (2006)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Anuario 2005 (2006)(Hobby Press)(ES).iso" size="446631936" crc="4a4adbfd" md5="f83714a4e2515692d10cd26defcd3af3" sha1="5ab4010976f1bbc427072a0133e5f75d0ee606db"/>
+    </game>
+    <game name="Hobby Consolas - Susbrochure (199x)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Subscription brochure (199x)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Subscription brochure (199x)(Hobby Press)(ES).jpg" size="323336" crc="7fc2e8d1" md5="8b7791912528d584b4981ca506f0619e" sha1="0c5de7da2242216f817422fe3653c70181a3456a"/>
     </game>
 </datafile>
