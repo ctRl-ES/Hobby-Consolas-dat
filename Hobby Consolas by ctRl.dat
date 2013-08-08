@@ -772,6 +772,10 @@
         <rom name="Hobby Consolas - Issue 162 (2005-03)(Hobby Press)(ES).pdf" size="34217133" crc="4bb5302c" md5="bfbea822503452b3b2d7f0406838495f" sha1="3e9f225bf425cecb4124d73fbc764cf5611eb279"/>
         <rom name="Hobby Consolas - Guía Completa Metal Gear Solid 3 Snake Eater (2005-03)(Hobby Press)(ES).pdf" size="29078892" crc="9e42f21e" md5="af7685f18c2bc62d45261c2eb8d5e5f9" sha1="d615232433e7580d8ec00cb5cea400d19b1e3a92"/>
     </game>
+    <game name="Hobby Consolas - Issue 163 (2005-04)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 163 (2005-04)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 163 (2005-04)(Hobby Press)(ES).pdf" size="27020191" crc="fb0ad76b" md5="65875d900f7451c7ffc48931b2518e12" sha1="680e70ebdfd46b663169072bb8af4db94cddd855"/>
+    </game>
     <game name="Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 175 (2006-04)(Hobby Press)(ES).pdf" size="84106315" crc="95d40cf1" md5="7526c61aa6f9ef15b9819cbe24b40c64" sha1="145057868b877b06f5280e94a9f03c6bf490bf76"/>
