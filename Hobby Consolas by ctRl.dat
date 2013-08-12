@@ -923,10 +923,6 @@
         <description>Hobby Consolas - Issue 199 (2008-04)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 199 (2008-04)(Hobby Press)(ES).cbr" size="127347844" crc="7dc0350b" md5="5d180bf5add0fb3f3e0efad969d9b606" sha1="0b1f1fd12cc7eb111c6984f691f6adeca24408d3"/>
     </game>
-    <game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)">
-        <description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)</description>
-        <rom name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES).pdf" size="36524021" crc="372cb1c7" md5="7b49522eb04e65451c3dcdac4ce1f582" sha1="af1177a9b0b8c6597a4e0d39ebbc473bd555c4dd"/>
-    </game>
     <game name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES).cbr" size="104594393" crc="113eab2" md5="fb6ef426b513f16f15b8f8649e70d10b" sha1="c82cbc94c592f75b9877bb4908c5847ebfc1e611"/>
@@ -936,6 +932,10 @@
         <description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)  </description>
         <rom name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES).cbr" size="104796424" crc="e9ce6a40" md5="e3d17d25348f033d4c2cf10b37cb343e" sha1="c383ce1303dd22b80c8818a5b1007b55cbb619d5"/>
         <rom name="Hobby Consolas - Super Smash Bros Brawl MGS4 (2008-07)(Hobby Press)(ES).pdf" size="43588257" crc="d4ce9db0" md5="0979f7fd641f6ed0ee4d331b5860dc16" sha1="bde23f748c8001e8a9019ee6aac47ac16138c6e6"/>
+    </game>
+    <game name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 208 (2009-01)(Hobby Press)(ES).pdf" size="36524021" crc="372cb1c7" md5="7b49522eb04e65451c3dcdac4ce1f582" sha1="af1177a9b0b8c6597a4e0d39ebbc473bd555c4dd"/>
     </game>
     <game name="Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 216 (2009-09)(Hobby Press)(ES)</description>
