@@ -1042,6 +1042,10 @@
         <rom name="Hobby Consolas - Issue 229 (2010-10)(Hobby Press)(ES).pdf" size="67416294" crc="13dfffa1" md5="a82d55d008501d5ac67ca9d6c2f26620" sha1="5e1af72c28cad670f8a7d61c5d804bc81d18fd43"/>
         <rom name="Hobby Consolas - Guía Fifa 11 (2010-10)(Hobby Press)(ES).pdf" size="6058944" crc="621abe66" md5="562ace8f4fc8d9199af224fd99cb2a90" sha1="17d5edd57f6f9d72774db4872aa5099a9196772b"/>
     </game>
+    <game name="Hobby Consolas - Issue 230 (2010-11)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 230 (2010-11)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 230 (2010-11)(Hobby Press)(ES).pdf" size="59673733" crc="c5c125d5" md5="01669210078ce445282186536456cc74" sha1="d0005ae91debe7bf6a6763848a546e5975c3877e"/>
+    </game>
     <game name="Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 234 (2011-03)(Hobby Press)(ES).pdf" size="95642584" crc="5fe10c35" md5="3cfd8454990427193ed045ab85bbd0f9" sha1="edd713cd8777bd754ac3eb107791072b8c3a314d"/>
