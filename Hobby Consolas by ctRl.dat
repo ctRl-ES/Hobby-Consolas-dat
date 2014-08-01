@@ -78,7 +78,7 @@
     <game name="Hobby Consolas - Issue 014 (1992-11)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 014 (1992-11)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 014 (1992-11)(Hobby Press)(ES).pdf" size="173726645" crc="7186da3f" md5="331590198d7fd8b632fe2c714435b23a" sha1="7115d505361f6741f3684d44527dd78c213b9e36"/>
-        <rom name="Hobby Consolas - Terminator map(Hobby Press)(ES).pdf" size="4364175" crc="7408c004" md5="08e27d3e3746fa88b6b49a11c98457f8" sha1="116e15e04c34c5b6d3f31d2baf35a144dc41c998"/>
+        <rom name="Hobby Consolas - Terminator map (Hobby Press)(ES).pdf" size="4364175" crc="7408c004" md5="08e27d3e3746fa88b6b49a11c98457f8" sha1="116e15e04c34c5b6d3f31d2baf35a144dc41c998"/>
     </game>
     <game name="Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 015 (1992-12)(Hobby Press)(ES)</description>
@@ -757,7 +757,7 @@
     <game name="Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 159 (2004-12)(Hobby Press)(ES).pdf" size="157737549" crc="e05eafc6" md5="45b420ad046db508c20a208371e97bf9" sha1="9510fd1a3b2178e4925467491a083bea668a50e1"/>
-        <rom name="Hobby Consolas 159 Guia Completa POP El Alma del Guerrero (2004-12)(Hobby Press)(ES).pdf" size="20326312" crc="588a204d" md5="7d27f67227d47c8d3912f03d153e3e03" sha1="b66285512432aaf8ea5a880a59674b654bfef539"/>
+        <rom name="Hobby Consolas - Guía Completa POP El Alma del Guerrero (2004-12)(Hobby Press)(ES).pdf" size="20326312" crc="588a204d" md5="7d27f67227d47c8d3912f03d153e3e03" sha1="b66285512432aaf8ea5a880a59674b654bfef539"/>
     </game>
     <game name="Hobby Consolas - Issue 160 (2005-01)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 160 (2005-01)(Hobby Press)(ES)</description>
@@ -842,8 +842,8 @@
         <rom name="Hobby Consolas - Issue 179 (2006-08)(Hobby Press)(ES).pdf" size="32979902" crc="13c1bedb" md5="428e487a830820ce5eb3af1dce8f7357" sha1="e25811ade92de96a5a42c09adff037f2cb7c61ae"/>
     </game>
     <game name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)">
-        <description>Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES)</description>
-        <rom name="Hobby Consolas - Issue  180 (2006-09)(Hobby Press)(ES).pdf" size="39613677" crc="7e6ae03d" md5="36e0d321e29ad76db2c234a4e2b5bd05" sha1="b0021a3d67c9aa9f1c0a39b6af20b3c915a44cb8"/>
+        <description>Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES).pdf" size="39613677" crc="7e6ae03d" md5="36e0d321e29ad76db2c234a4e2b5bd05" sha1="b0021a3d67c9aa9f1c0a39b6af20b3c915a44cb8"/>
         <rom name="Hobby Consolas - 15 años de videojuegos (2006-09)(Hobby Press)(ES).pdf" size="20095400" crc="c815a500" md5="8e2e0872b6e4f7a6b593838f727d7262" sha1="cd86838cfa5e39d118f01dd41d4df54d1dbd0e6a"/>
     </game>
     <game name="Hobby Consolas - Issue 181 (2006-10)(Hobby Press)(ES)">
@@ -930,7 +930,7 @@
     <game name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 201 (2008-06)(Hobby Press)(ES).pdf" size="105030077" crc="98f9afcd" md5="312cbdba8a1c29d6207a82be4b89dd53" sha1="ceaa4c435d7588acfb119843860f2c33a015143a"/>
-        <rom name="Hobby Consolas 201 GTA 4 (2008-06)(Hobby Press)(ES).pdf" size="47650940" crc="587fa8f8" md5="274e8445ef022cf2736d0ed862baf540" sha1="e86311f94ad0475217da29f707ec83306e9e36fb"/>
+        <rom name="Hobby Consolas - Guía Grand Theft Auto 4 (2008-06)(Hobby Press)(ES).pdf" size="47650940" crc="587fa8f8" md5="274e8445ef022cf2736d0ed862baf540" sha1="e86311f94ad0475217da29f707ec83306e9e36fb"/>
     </game>
     <game name="Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 202 (2008-07)(Hobby Press)(ES)  </description>
