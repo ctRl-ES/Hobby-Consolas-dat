@@ -1,8 +1,11 @@
 ﻿This is a ClrMamePro .dat to keep in order a collection of spanish
-videogame magazine "Hobby Consolas" and all extras (guides, posters, videos...)
+videogame magazine "Hobby Consolas" and all extras.
 
-DON'T ASK ME WHERE YOU CAN DOWNLOAD THE MAGAZINES. I DON'T PROVIDE
-DOWNLOADS, ONLY INFORMATION FOR PRESERVATION PURPOSES.
+Project goals:
+    - Maintain a list of every item (magazines, guides, posters, videos, isos...)
+      published with Hobby Consolas issues.
+    - Keep only the best files avaliable.
+    - Rename all files using TOSEC Naming Convention: http://www.tosecdev.org/tosec-naming-convention
 
 Thanks to:
     - KAISER-77, for his maginze scan project: http://www.kaiserland77.com
@@ -13,3 +16,6 @@ Thanks to:
 License:
     CC BY-NC-SA 3.0
     Derived from: http://www.kaiserland77.com/blog/
+
+DON'T ASK ME WHERE YOU CAN DOWNLOAD THE MAGAZINES. I DON'T PROVIDE
+DOWNLOADS, ONLY INFORMATION FOR PRESERVATION PURPOSES.
