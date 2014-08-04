@@ -1044,7 +1044,8 @@
     <game name="Hobby Consolas - Issue 227 (2010-08)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 227 (2010-08)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 227 (2010-08)(Hobby Press)(ES).pdf" size="51637536" crc="c9ace393" md5="46aca4063960b1a6916627c82eb78bce" sha1="7c2b881c19b5a1df5e37510de107eff7f6a92a8f"/>
-    </game>
+        <rom name="Hobby Consolas - Castlevania LOS+Mafia 2 poster (2010-08)(Hobby Press)(ES).pdf" size="8193558" crc="a92ecd0d" md5="a58975e324d87d5d9470e56814241e38" sha1="2a6193d38443465aff71a2b88108a935febf5580"/>
+    </game> 
     <game name="Hobby Consolas - Issue 228 (2010-09)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 228 (2010-09)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 228 (2010-09)(Hobby Press)(ES).pdf" size="56053106" crc="168f20ae" md5="9b772b7ec151256356576468dd8b466f" sha1="b10a26e1eaae4dc34d6f100290d57ce7f96f70f7"/>
@@ -1282,10 +1283,6 @@
     <game name="Hobby Consolas - Libro de las Portátiles (199x)(Hobby Press)(ES)">
         <description>Hobby Consolas - Libro de las Portátiles (199x)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Libro de las Portátiles (199x)(Hobby Press)(ES).pdf" size="27655664" crc="4701f1cf" md5="91c2abf2241972d6019c4f9f2116c9e9" sha1="77df3db0e2b3f021fe232394c95dffbef09729d8"/>
-    </game>
-    <game name="Hobby Consolas - Castlevania LOS+Mafia 2 poster (200x)(Hobby Press)(ES)">
-        <description>Hobby Consolas - Castlevania LOS+Mafia 2 poster (200x)(Hobby Press)(ES)</description>
-        <rom name="Hobby Consolas - Castlevania LOS+Mafia 2 poster (200x)(Hobby Press)(ES).pdf" size="8193558" crc="a92ecd0d" md5="a58975e324d87d5d9470e56814241e38" sha1="2a6193d38443465aff71a2b88108a935febf5580"/>
     </game>
     <game name="Hobby Consolas - Cool Spot+Flashback poster (199x)(Hobby Press)(ES)">
         <description>Hobby Consolas - Cool Spot+Flashback poster (199x)(Hobby Press)(ES)</description>
