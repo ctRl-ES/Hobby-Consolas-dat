@@ -745,7 +745,7 @@
     </game>
     <game name="Hobby Consolas - Issue 156 (2004-09)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 156 (2004-09)(Hobby Press)(ES)</description>
-        <rom name="Hobby Consolas - Issue 156 (2004-09)(Hobby Press)(ES).pdf" size="113324406" crc="df8f1337" md5="8e31d4d5cb3d42959b8c70c7bedd79e6" sha1="d55a19e779c81ec37608dfcbb4be33509d6f3935"/>
+        <rom name="Hobby Consolas - Issue 156 (2004-09)(Hobby Press)(ES).pdf" crc="107c3409" md5="2dd3e5c337c5a2039a0e4e25d3cf6dc5" sha1="a67468cd7ddc2410dd855ef15789370f561d4eb4"/>
     </game>
     <game name="Hobby Consolas - Issue 157 (2004-10)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 157 (2004-10)(Hobby Press)(ES)</description>
@@ -845,7 +845,6 @@
     <game name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 180 (2006-09)(Hobby Press)(ES).pdf" size="39613677" crc="7e6ae03d" md5="36e0d321e29ad76db2c234a4e2b5bd05" sha1="b0021a3d67c9aa9f1c0a39b6af20b3c915a44cb8"/>
-        <rom name="Hobby Consolas - 15 años de videojuegos (2006-09)(Hobby Press)(ES).pdf" size="20095400" crc="c815a500" md5="8e2e0872b6e4f7a6b593838f727d7262" sha1="cd86838cfa5e39d118f01dd41d4df54d1dbd0e6a"/>
     </game>
     <game name="Hobby Consolas - Issue 181 (2006-10)(Hobby Press)(ES)">
         <description>Hobby Consolas - Issue 181 (2006-10)(Hobby Press)(ES)</description>
