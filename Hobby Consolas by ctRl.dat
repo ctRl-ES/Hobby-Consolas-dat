@@ -1316,4 +1316,8 @@
         <description>Hobby Consolas - Subscription brochure (199x)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Subscription brochure (199x)(Hobby Press)(ES).jpg" size="323336" crc="7fc2e8d1" md5="8b7791912528d584b4981ca506f0619e" sha1="0c5de7da2242216f817422fe3653c70181a3456a"/>
     </game>
+    <game name="Hobby Consolas - No te consoles con menos (1993)(Hobby Press)(ES)">
+        <description>Hobby Consolas - No te consoles con menos (1993)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - No te consoles con menos (1993)(Hobby Press)(ES).avi" size="7607500" crc="99aa62f0" md5="8f13ca0b6f173d2c87c56f0c04c2af30" sha1="4261548079d2e42d88fc9be223b4e1ae7dc8f6df"/>
+    </game>
 </datafile>
