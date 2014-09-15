@@ -1342,4 +1342,8 @@
         <description>Hobby Consolas - Guía de Compras PS2 (2003)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Guía de Compras PS2 (2003)(Hobby Press)(ES).pdf" size="150073046" crc="7aa2b014" md5="498e2b79bf618b8576880f48d78e4731" sha1="7aa82b11022eb8e583baf5caa7630eb6ec4a54de"/>
     </game>
+    <game name="Hobby Consolas - Teeken 3 folder (1998)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Teeken 3 folder (1998)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Teeken 3 folder (1998)(Hobby Press)(ES).pdf" size="7589839" crc="7f887c5a" md5="d85cdd8cbf8d34b7dbeaa7b173a41941" sha1="31a366ef6fb3fd0f78975e784f3278de0a22c567"/>
+    </game>
 </datafile>
