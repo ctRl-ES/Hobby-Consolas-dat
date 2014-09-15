@@ -1332,4 +1332,8 @@
         <description>Hobby Consolas - Mangas & Videogames (1997)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Mangas & Videogames (1997)(Hobby Press)(ES).pdf" size="226246886" crc="aaa8a828" md5="aaadb5a695e48838384f708e60278f5f" sha1="ee8f1cf563a8b7f32619de0c3a92b0867fe097a4"/>
     </game>
+    <game name="Hobby Consolas - Guías Imprescindibles PlayStation (199x)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Guías Imprescindibles PlayStation (199x)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Guías Imprescindibles PlayStation (199x)(Hobby Press)(ES).pdf" size="134069161" crc="e71030ab" md5="3be653ee6a5270b51d793a7094bab8d1" sha1="75607881690db63aa095c5c32a3d1b0365ab8e09"/>
+    </game>
 </datafile>
