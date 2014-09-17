@@ -1351,4 +1351,8 @@
         <description>Hobby Consolas - Guía Oficial Fifa 09 (200x)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Guía Oficial Fifa 09 (200x)(Hobby Press)(ES).pdf" size="16953274" crc="c170e04" md5="6a62b0c0e7e995f0a7fd8b9342cb9742" sha1="446d3922450ae809d01878313fbc25fe25425ad5"/>
     </game>
+    <game name="Hobby Consolas - Especial Mario (200x)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Especial Mario (200x)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Especial Mario (200x)(Hobby Press)(ES).pdf" size="20066614" crc="6c50c73f" md5="aaef729ac9d59ab1630c2b52e2248740" sha1="7217bda3744c906337e9c9ddbb644dd46bcad950"/>
+    </game>
 </datafile>
