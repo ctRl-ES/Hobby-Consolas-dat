@@ -1355,4 +1355,8 @@
         <description>Hobby Consolas - Especial Mario (200x)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Especial Mario (200x)(Hobby Press)(ES).pdf" size="20066614" crc="6c50c73f" md5="aaef729ac9d59ab1630c2b52e2248740" sha1="7217bda3744c906337e9c9ddbb644dd46bcad950"/>
     </game>
+    <game name="Ubisoft presenta Rainbow six 3 (200x)(Hobby Press)(ES)">
+        <description>Ubisoft presenta Rainbow six 3 (200x)(Hobby Press)(ES)</description>
+        <rom name="Ubisoft presenta Rainbow six 3 (200x)(Hobby Press)(ES).pdf" size="11152845" crc="f1d8983b" md5="47a5c9510d68a123cb5c0986885fef39" sha1="870c07a40b2b8736e98e71a3bf80c5dae2524d58"/>
+    </game>
 </datafile>
