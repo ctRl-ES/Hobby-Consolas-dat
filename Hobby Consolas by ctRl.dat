@@ -1347,4 +1347,8 @@
         <description>Hobby Consolas - Teeken 3 folder (1998)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Teeken 3 folder (1998)(Hobby Press)(ES).pdf" size="7589839" crc="7f887c5a" md5="d85cdd8cbf8d34b7dbeaa7b173a41941" sha1="31a366ef6fb3fd0f78975e784f3278de0a22c567"/>
     </game>
+    <game name="Hobby Consolas - Guía Oficial Fifa 09 (200x)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Guía Oficial Fifa 09 (200x)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Guía Oficial Fifa 09 (200x)(Hobby Press)(ES).pdf" size="16953274" crc="c170e04" md5="6a62b0c0e7e995f0a7fd8b9342cb9742" sha1="446d3922450ae809d01878313fbc25fe25425ad5"/>
+    </game>
 </datafile>
