@@ -1278,6 +1278,10 @@
         <description>Hobby Consolas - Issue 278 (2014-09)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Issue 278 (2014-09)(Hobby Press)(ES).pdf" size="106232451" crc="373c5013" md5="f7440147348f57b2bccb70d0b42bc9a1" sha1="5c5df78b29c415d12951020e83e0811da273d8cc"/>
     </game>
+    <game name="Hobby Consolas - Issue 279 (2014-10)(Hobby Press)(ES)">
+        <description>Hobby Consolas - Issue 279 (2014-10)(Hobby Press)(ES)</description>
+        <rom name="Hobby Consolas - Issue 279 (2014-10)(Hobby Press)(ES).pdf" size="36950050" crc="336e53dd" md5="8e1edb5783f15a0d3872248ea00210e5" sha1="0490e467e45b592579273501fc49b2eb49dba0ce"/>
+    </game> 
     <game name="Hobby Consolas - Transfer Dino Crisis (199x)(Hobby Press)(ES)">
         <description>Hobby Consolas - Transfer Dino Crisis (199x)(Hobby Press)(ES)</description>
         <rom name="Hobby Consolas - Transfer Dino Crisis (199x)(Hobby Press)(ES).pdf" size="1914326" crc="9264dc7d" md5="ec12a9bd76055572f6c32d865dd23ffc" sha1="fa8b14ddbc5292a3689d95cdc74e126afce27719"/>
